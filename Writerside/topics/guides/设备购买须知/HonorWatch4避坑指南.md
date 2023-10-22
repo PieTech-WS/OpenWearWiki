@@ -1,4 +1,4 @@
-# 荣耀手表4购买须知
+# HONOR WATCH4购买须知
 
 > 本文由yizigezi原创。首先发布于酷安@RiaT_T_yizigezi。版本2.1。
 

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="&#33635;&#32768;&#25163;&#34920;4" id="HONOR-WATCH-4">
+
+    <title>
+        HONOR WATCH4
+    </title>
+    <tip>
+        <p>Wiki版本1.0，2023.08.21，——鑫锐笑匠</p>
+    </tip>
+    <tip>
+        <p>画外音：虽然荣耀宣传上糊弄人，但作为Wiki还是要客观整理一下其相关信息的。（<a
+                href="HonorWatch4避坑指南.md">购买须知</a>
+            ）</p>
+    </tip>
+    <p>
+        荣耀手表4是荣耀公司于2023年7月12日发布的荣耀首款支持esim的轻智能手表。通过esim+轻智能的产品路线，辅以新的协同架构，实现了典型场景下续航比市面同类esim轻智能手表产品多出3天的更长续航。</p>
+    <chapter title="详细参数">
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>数据</td>
+            </tr>
+            <tr>
+                <td>型号</td>
+                <td>TMA-L19</td>
+            </tr>
+            <tr>
+                <td>屏幕尺寸及类型</td>
+                <td>1.75英寸,AMOLED彩色方屏</td>
+            </tr>
+            <tr>
+                <td>屏幕分辨率</td>
+                <td>390x450，326ppi</td>
+            </tr>
+            <tr>
+                <td>主体尺寸</td>
+                <td>45.3x39.1x11.2mm(不含传感器凸起)</td>
+            </tr>
+            <tr>
+                <td>净重</td>
+                <td>不含表带：约32g</td>
+            </tr>
+            <tr>
+                <td>机体材质</td>
+                <td>6系铝合金</td>
+            </tr>
+            <tr>
+                <td>盖板材质</td>
+                <td>面板:3D钢化玻璃；背板:LNP特种玻璃纤维增强PC</td>
+            </tr>
+            <tr>
+                <td>防水等级</td>
+                <td>5ATM</td>
+            </tr>
+            <tr>
+                <td>Soc</td>
+                <td>Apollo4</td>
+            </tr>
+            <tr>
+                <td>运行内存</td>
+                <td>32MB</td>
+            </tr>
+            <tr>
+                <td>存储</td>
+                <td>4GB</td>
+            </tr>
+            <tr>
+                <td>数据连接</td>
+                <td>蓝牙5.2、esim、NFC</td>
+            </tr>
+            <tr>
+                <td>定位支持</td>
+                <td>GPS、北斗、GLONASS、GALILEO、QZSS</td>
+            </tr>
+            <tr>
+                <td>匹配系统</td>
+                <td>Harmony OS2.0及以上/Android9.0及以上/iOS11.0及以上</td>
+            </tr>
+            <tr>
+                <td>应用支持</td>
+                <td>仅官方固定应用，无第三方应用支持</td>
+            </tr>
+            <tr>
+                <td>操作系统</td>
+                <td>Magic OS for watch</td>
+            </tr>
+            <tr>
+                <td>马达</td>
+                <td>转子马达</td>
+            </tr>
+            <tr>
+                <td>电池容量</td>
+                <td>451mAh</td>
+            </tr>
+            <tr>
+                <td>充电方式</td>
+                <td>5W磁吸触电式充电,充电时长约2h</td>
+            </tr>
+            <tr>
+                <td>特色功能</td>
+                <td>消息云同步(限荣耀MagicOS7.2及以上版本的终端)、副卡电话自动回拨、TEE芯片安全模块</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="产品沿革">
+        <list>
+            <li>
+                <p>2023年6月29日，有媒体曝光了荣耀手表4的外观海报，据称该产品支持eSIM独立通话。</p>
+            </li>
+            <li>
+                <p>2023年7月4日，荣耀手机官方正式宣布，荣耀手表4将于7月12日正式发布。</p>
+            </li>
+            <li>
+                <p>2023年7月12日，荣耀 Magic V2 暨全场景新品发布会上，荣耀手表4正式发布，并于7月18日正式开售。</p>
+            </li>
+        </list>
+    </chapter>
+    <chapter title="最新情报">
+        <list>
+            <li>2023年7月25日，荣耀手表4正式开始陆续推送17.0.0.227新版本更新，新增蓝牙版微信及其支付，新增消息云同步功能。
+            </li>
+        </list>
+    </chapter>
+    <chapter title="资料来源">
+        <list>
+            <li>部分详细参数来自<a href="https://detail.zol.com.cn/1795/1794992/param.shtml">中关村在线产品库</a></li>
+            <li>产品沿革信息及最新情报来自<a
+                    href="https://www.ithome.com/search/HONOR WATCH4.html">IT之家搜索</a></li>
+        </list>
+    </chapter>
+    <chapter title="Wiki Note" id="wiki-note">
+        <p>2023.08.21：版本1.0首发——鑫锐笑匠</p>
+    </chapter>
+
+</topic>

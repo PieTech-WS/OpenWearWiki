@@ -67,7 +67,7 @@
 - 部分参数来自[华为官网介绍](http://consumer-res.huawei.com/cn/wearables/watch-4-series/specs/)及[中关村在线产品库](https://detail.zol.com.cn/1468/1467053/param.shtml)
 - 内存参数来自花粉俱乐部网友售后透露
 - 主处理器参数来自AIDA64结果推测，协处理器难以确定信息真实性
-- 产品沿革及最新情报来自[IT之家搜索](https://www.ithome.com/search/%E5%8D%8E%E4%B8%BAwatch4.html)
+- 产品沿革及最新情报来自[IT之家搜索](https://www.ithome.com/search/HUAWEIwatch4.html)
 
 
 ## Wiki Note

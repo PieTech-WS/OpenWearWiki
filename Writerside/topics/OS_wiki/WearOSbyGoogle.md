@@ -1,20 +1,20 @@
 # Wear OS by Google(Android Wear)
 
-**[贡献者](wearosbygoogle_authors.md)**      **[更新日志](wearosbygoogle_versions.md)**
+**[贡献者](wearosbygoogle_authors.md)**
 
 Wear OS by Google(曾用名Android Wear)是由Google LLC开发的智能可穿戴设备操作系统，基于Android。
 
 ## 概览
 
-| 项目                                      | 信息                                                     |
-| ----------------------------------------- | -------------------------------------------------------- |
-| 名称                                      | Wear OS by Google(Android Wear)                          |
-| 开发者                                    | Google LLC                                               |
-| 底层                                      | Android                                                  |
-| 当前最新版本                              | Wear OS 4(Android 13)                                    |
-| 应用支持                                  | 是(Wear OS应用，部分Android应用)                         |
-| 适用于                                    | 全智能手表(一般为SAMSUNG Exynos或高通骁龙Wear/W系列平台) |
-| [开放性](WearableOS.md#开放性评级) | Lv4S.                                                    |
+| 项目                   | 信息                                                     |
+|----------------------| -------------------------------------------------------- |
+| 名称                   | Wear OS by Google(Android Wear)                          |
+| 开发者                  | Google LLC                                               |
+| 底层                   | Android                                                  |
+| 当前最新版本               | Wear OS 4(Android 13)                                    |
+| 应用支持                 | 是(Wear OS应用，部分Android应用)                         |
+| 适用于                  | 全智能手表(一般为SAMSUNG Exynos或高通骁龙Wear/W系列平台) |
+| [开放性](WearableOS.md) | Lv4S.                                                    |
 
 ## 发展
 

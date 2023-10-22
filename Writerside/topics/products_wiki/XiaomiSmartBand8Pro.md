@@ -1,6 +1,6 @@
 # 小米手环8 Pro(Xiaomi Smart Band 8Pro)
 
-[贡献者](xiaomismartband8pro_authors.md)       [更新日志](xiaomismartband8pro_versions.md)     [Tasks](xiaomismartband8pro_tasks.md)
+**[贡献者](xiaomismartband8pro_authors.md)       [更新日志](xiaomismartband8pro_versions.md)**
 
 小米手环8Pro是小米于2023年8月14日发布的智能手环产品。相较于小米手环8，8Pro的屏幕更大，屏占比更高。搭载了手表级处理器，并配合小米自有的Xiaomi Vela操作系统。
 

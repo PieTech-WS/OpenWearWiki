@@ -19,24 +19,31 @@ ColorOS是由OPPO广东移动通信有限公司推出的基于安卓（Android�
 ## 发展历程
 
 - 2013年9月23日，ColorOS 1.0全球首发
-![ColorOS](3631b2f7f1bd7fec1674e444d58ea6d7_%E7%88%B1%E5%A5%87%E8%89%BA.jpg)
 
 - 2020年3月6日OPPO线上发布会，除OPPO Find X2之外，还为用户带来了第一款智能手表——OPPO Watch。46mm版本采用双曲面柔性屏令方形外观别具一格；在路线选择上，oppo选择了全智能手表路线和Apple watch正面硬刚；采用骁龙W2500和 Apollo3 双芯片，同时采用双擎动力续航架构以兼顾高性能与低功耗需求。
-![OPPO Watch](capture_20230820171240436.png)
 
 - 2020年9月24日，OPPO Watch ECG版在2020 OPPO开发者大会正式发布。作为OPPO健康生态的新一代产品，OPPO Watch ECG版支持专业心电检测，能够为用户带来专业心脏守护功能与服务，是国内首款获得药监局(NMPA)二类医疗器械注册认证并正式上市的独立通信智能手表。
-![OPPO Watch ECG](capture_20230820192859984.png)
 
 - 2020年10月19日，智美生活发布会上，OPPO发布了ColorOS Watch 1.5新系统，并于10月24日起陆续推送更新。
 
 - 2021年7月27日，OPPO在OPPO Watch2全智能旗舰手表发布会上正式发布OPPO Watch2系列智能手表，并于8月6日全平台正式开售。搭载了比上一代性能提升85%的高通Wear 4100芯片，以及与Ambiq联合研发的Apollo4s芯片，搭配上全新的UDDE双擎混动技术，辅以搭载了最新的ColorOS Watch 2.0，攀登了全智能手表的续航新高度。并新升级连续血氧监测、24小时不规则心率监测、睡眠监测、鼾症风险评估等健康功能。
-![OPPO Watch 2系列](capture_20230820171716482.png)
 
 - 2022年2月11日，OPPO Watch 2系列正式更新了户外滑雪模式，其搭载了OPPO自研算法，能够实时多维度追踪用户的身体状况，保障用户的安全。用户只需通过系统在线升级便可获得此次功能更新。
 
 - 2022年8月10日，OPPO Watch 3系列正式发布，新品支持独立 eUICC 芯片的 eSIM 技术，搭载骁龙W5和Apollo4 Plus旗舰平台、UDDE双擎混动2.0、升级1+32G存储，新推出专业网球模式和血管健康研究功能，拥有80+安卓阵营第一App官方支持数量，核心体验相比上代实现全面升级。
+
+
+## 图片
+
 ![OPPO Watch 3系列](capture_20230820171635898.png)
 
+![OPPO Watch 2系列](capture_20230820171716482.png)
+
+![OPPO Watch ECG](capture_20230820192859984.png)
+
+![OPPO Watch](capture_20230820171240436.png)
+
+![ColorOS](3631b2f7f1bd7fec1674e444d58ea6d7_爱奇艺.jpg)
 
 ## 系统特性及对比
 |名称|ColorOS Watch|

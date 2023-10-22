@@ -34,7 +34,7 @@
     <toc-element toc-title="指南">
         <toc-element topic="智能手表的分类及购买指南.md"/>
         <toc-element toc-title="设备购买须知">
-            <toc-element topic="HonorWatch4避坑指南.md"/>
+            <toc-element toc-title="荣耀手表4避坑指南" topic="HonorWatch4避坑指南.md" id="honorwatch4-guide"/>
         </toc-element>
     </toc-element>
     <toc-element toc-title="产品百科">
@@ -44,14 +44,14 @@
         <toc-element topic="OPPOwatchse.md"/>
         <toc-element topic="OPPOwatch3pro.md"/>
         <toc-element topic="OPPOwatch3.md"/>
-        <toc-element topic="OPPOWatch4Pro.md"/>
+        <toc-element topic="OPPO-Watch-4-Pro.topic"/>
         <toc-element topic="HUAWEIwatch3pronew.md"/>
         <toc-element topic="HUAWEIwatch3pro.md"/>
         <toc-element topic="HUAWEIwatch3.md"/>
         <toc-element topic="HUAWEIWatch4Pro.md"/>
         <toc-element topic="HUAWEIWatch4.md"/>
         <toc-element topic="HUAWEIWatch.md"/>
-        <toc-element topic="HONORwatch4.md"/>
+        <toc-element topic="HONOR-WATCH-4.topic"/>
         <toc-element toc-title="Wiki笔记">
             <toc-element toc-title="xmsh8p_versions" topic="xiaomismartband8pro_versions.md"/>
             <toc-element toc-title="xmsh8p_authors" topic="xiaomismartband8pro_authors.md"/>
