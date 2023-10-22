@@ -22,4 +22,12 @@
         <description>Created after removal of "HONOR WATCH4" from OpenWear Wiki</description>
         <accepts>HONORwatch4.html</accepts>
     </rule>
+    <rule id="3edf03e8">
+        <description>Created after removal of "HONOR WATCH4购买须知" from OpenWear Wiki</description>
+        <accepts>HonorWatch4-guide.html</accepts>
+    </rule>
+    <rule id="7b610b9c">
+        <description>Created after removal of "HONOR WATCH4购买须知" from OpenWear Wiki</description>
+        <accepts>test1.html</accepts>
+    </rule>
 </rules>

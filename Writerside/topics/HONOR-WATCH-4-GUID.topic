@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="HONOR WATCH 4 &#36141;&#20080;&#25351;&#21335;" id="HONOR-WATCH-4-GUID">
+
+    <tip>
+        <p>本文由yizigezi原创。首先发布于酷安@RiaT_T_yizigezi。版本2.1。</p>
+    </tip>
+    <tip>
+        <p>
+            不知道是有些人的个人行为还是真的不懂，总是说这款手表是安卓，可以装软件......首先声明，这款手表无论你怎么做，目前都没法装其他软件，只有内置软件！</p>
+    </tip>
+    <chapter title="应用程序支持">
+        <list>
+            <li>
+                <control>应用市场:</control>
+                不支持
+            </li>
+            <li>
+                <control>自行下载第三方应用:</control>
+                不支持
+            </li>
+            <li>
+                <control>应用获取方式:</control>
+                内置于系统，不可卸载
+            </li>
+        </list>
+        <chapter title="内置应用">
+            <list type="decimal">
+                <li>微信手表版¹</li>
+                <li>柠檬喝水</li>
+                <li>酷狗音乐²</li>
+                <li>微信支付(内置于微信手表版?)</li>
+                <li>支付宝</li>
+                <li>百度地图</li>
+                <li>万年历日历</li>
+                <li>Todo清单</li>
+                <li>滴答清单</li>
+                <li>航旅纵横</li>
+                <li>UU跑腿</li>
+                <li>喝水时间</li>
+            </list>
+        </chapter>
+    </chapter>
+    <tip>
+        <p>请注意此设备有且仅有这些第三方应用,其他应用一律无法安装。</p>
+    </tip>
+    <chapter title="网络及连接支持">
+        <list>
+            <li>支持蓝牙联网、蓝牙通话</li>
+            <li>此设备支持eSIM一号双终端/独立号码，支持独立拨打电话，发送短信，独立听歌³</li>
+            <li>此设备支持定位功能</li>
+            <li>此设备
+                <control>没有</control>
+                WiFi连接功能
+            </li>
+        </list>
+    </chapter>
+    <chapter title="音频支持">
+        <list>
+            <li>支持扬声器、麦克风</li>
+        </list>
+    </chapter>
+    <chapter title="特色功能">
+        <list>
+            <li>支持远场消息同步(依赖于eSIM)</li>
+            <li>支持荣耀心脏健康研究</li>
+        </list>
+    </chapter>
+    <chapter title="重要提示">
+        <p>¹微信手表版仅支持连接手机使用</p>
+        <p>²酷狗音乐未登录不支持播放音乐 </p>
+        <p>³eSIM重要提示:</p>
+        <list type="decimal">
+            <li>运营商可能暂不支持eSIM业务的
+                <control>线上办理</control>
+                ，详情请见各运营商线上营业厅
+            </li>
+            <li>线下办理请咨询运营商</li>
+            <li>一号双终端仅支持拨打电话、独立听歌(使用流量)，不支持发送短信，独立号码支持。</li>
+        </list>
+        <p>本设备抬腕亮屏与熄屏显示不能同时使用。</p>
+    </chapter>
+</topic>
