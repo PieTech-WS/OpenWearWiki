@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="&#20851;&#20110;" id="about">
+
+    <chapter title="OpenWear Wiki" id="about-ch1" collapsible="true" default-state="expanded">
+        <note>
+            本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
+        </note>
+        <p>
+            2023版本
+        </p>
+        <p>
+            <control>(C)2023, PowerAtom Fund.及下属CoraTechWS.和本项目所有贡献者.</control>
+        </p>
+        <p>
+            <control>本项目是PowerAtom 知识共享计划的组成部分</control>
+        </p>
+    </chapter>
+    <chapter title="贡献者" id="about-authors" collapsible="true" default-state="expanded">
+        <deflist default-state="expanded">
+            <def title="2minRain(yizigezi)">
+                <a href="https://space.bilibili.com/358601057">BiliBili</a> <a href="https://github.com/yizigezi">GitHub</a>
+            </def>
+            <def title="鑫锐笑匠">
+                <a href="https://space.bilibili.com/521839158">BiliBili</a>
+            </def>
+            <def title="xinghengCN">
+                <a href="https://space.bilibili.com/239348541">BiliBili</a> <a href="https://github.com/xinghengCN">GitHub</a>
+            </def>
+        </deflist>
+    </chapter>
+    <chapter title="支持者" id="about-sponsors" collapsible="true" default-state="expanded">
+        <list>
+            <li>2secRain</li>
+            <li>易QWQ</li>
+        </list>
+        <p>
+            以及...
+        </p>
+        <p><control>你</control></p>
+    </chapter>
+</topic>

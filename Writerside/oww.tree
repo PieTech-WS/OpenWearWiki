@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="oww"
+                  name="OpenWear Wiki" start-page="README.md">
+
+    <toc-element toc-title="首页" topic="README.md"/>
+    <toc-element topic="issue.md"/>
+    <toc-element topic="authors.md"/>
+    <toc-element topic="Wiki_Index.md"/>
+    <toc-element topic="Tasks.md"/>
+    <toc-element toc-title="文档">
+        <toc-element topic="test.topic"/>
+        <toc-element topic="writing_specifications.md"/>
+    </toc-element>
+    <toc-element topic="license.md"/>
+    <toc-element topic="readme-new.topic"/>
+    <toc-element toc-title="操作系统百科">
+        <toc-element topic="ZeppOS.md"/>
+        <toc-element topic="XiaomiVela.md"/>
+        <toc-element topic="WearOSbyGoogle.md"/>
+        <toc-element topic="HarmonyOS_Watch.md"/>
+        <toc-element topic="ColorOSWatch.md"/>
+        <toc-element toc-title="wiki_notes">
+            <toc-element toc-title="wearosbygoogle_authors" topic="wearosbygoogle_authors.md"/>
+            <toc-element toc-title="ZeppOS_versions" topic="ZeppOS_versions.md"/>
+            <toc-element toc-title="ZeppOS_authors" topic="ZeppOS_authors.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="表格">
+        <toc-element topic="WearableOS.md"/>
+    </toc-element>
+    <toc-element toc-title="指南">
+        <toc-element topic="智能手表的分类及购买指南.md"/>
+        <toc-element toc-title="设备购买须知">
+            <toc-element topic="HonorWatch4避坑指南.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="产品百科">
+        <toc-element topic="XiaomiWatch2ProInternational.md"/>
+        <toc-element topic="XiaomiWatch.md"/>
+        <toc-element topic="XiaomiSmartBand8Pro.md"/>
+        <toc-element topic="OPPOwatchse.md"/>
+        <toc-element topic="OPPOwatch3pro.md"/>
+        <toc-element topic="OPPOwatch3.md"/>
+        <toc-element topic="OPPOWatch4Pro.md"/>
+        <toc-element topic="HUAWEIwatch3pronew.md"/>
+        <toc-element topic="HUAWEIwatch3pro.md"/>
+        <toc-element topic="HUAWEIwatch3.md"/>
+        <toc-element topic="HUAWEIWatch4Pro.md"/>
+        <toc-element topic="HUAWEIWatch4.md"/>
+        <toc-element topic="HUAWEIWatch.md"/>
+        <toc-element topic="HONORwatch4.md"/>
+        <toc-element toc-title="Wiki笔记">
+            <toc-element toc-title="xmsh8p_versions" topic="xiaomismartband8pro_versions.md"/>
+            <toc-element toc-title="xmsh8p_authors" topic="xiaomismartband8pro_authors.md"/>
+            <toc-element toc-title="xmwt2p_versions" topic="XiaomiWatch2ProInternational_versions.md"/>
+            <toc-element toc-title="xmwt2p_authors" topic="XiaomiWatch2ProInternational_authors.md"/>
+            <toc-element toc-title="opwt4p_versions" topic="OPPO Watch 4 Pro_versions.md"/>
+            <toc-element toc-title="opwt4p_authors" topic="OPPO Watch 4 Pro_authors.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="专题">
+        <toc-element toc-title="小米手环8Pro 应用/表盘">
+            <toc-element topic="index.md"/>
+            <toc-element topic="xmsmartband8pro_apps_README.md"/>
+            <toc-element toc-title="应用">
+                <toc-element topic="mibandmana.md"/>
+                <toc-element topic="engdict.md"/>
+                <toc-element topic="better2048.md"/>
+            </toc-element>
+            <toc-element toc-title="表盘">
+                <toc-element toc-title="Lua小程序表盘">
+                    <toc-element topic="dict_installer.md"/>
+                </toc-element>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="about.topic"/>
+    <toc-element toc-title="快速更新通道" target-for-accept-web-file-names="https://www.projcora.club/WearWiki"/>
+</instance-profile>

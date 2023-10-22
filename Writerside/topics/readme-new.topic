@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="概览" id="readme-new">
+
+    <p>
+        <control>
+            <a href="Tasks.md">Tasks</a>
+            <a href="authors.md">贡献者名单</a>
+            <a href="issue.md">反馈</a>
+        </control>
+    </p>
+    <tip>
+        <p>
+            本版本为实验性版本. 本版本不会实时跟进一些更改, 欢迎催更.如果需要最新版本, 请访问侧边栏中的"快速更新通道"
+        </p>
+    </tip>
+    <warning>
+        <p>
+            在您使用/传播本项目前, 请先阅读我们的<a href="license.md">许可证</a>.
+        </p>
+    </warning>
+    <chapter title="介绍" id="readme-desc" collapsible="true" default-state="expanded">
+        <p>
+            本项目旨在为可穿戴设备创建一个Wiki，对可穿戴设备相关方面的知识进行归纳，包括但不限于其操作系统、处理器、健康监测功能等的介绍。
+        </p>
+        <p>
+            本Wiki可以帮助您:
+        </p>
+        <list>
+            <li>了解可穿戴设备的相关知识</li>
+            <li>引用此Wiki内容向不了解的人科普</li>
+            <li>帮助您选购可穿戴设备
+                总之，您可以借助此Wiki了解各种可穿戴设备。
+                目前，项目处于初级阶段，如果您对某种可穿戴设备足够了解，想要加入初期编写，可通过以下方式联系管理员,
+            </li>
+            <li>Gitee私信(效率低)</li>
+            <li>Teams社区(较快)</li>
+            <li>OICQ/WeLink(最快)
+                同时，您需要遵守OpenWear Studio的贡献者协议.
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="对于Wiki作者" id="readme-for-authors" collapsible="true" default-state="expanded">
+        <p>
+            在您开始编写之前, 请阅读 <a href="writing_specifications.md">编写规范</a>
+        </p>
+    </chapter>
+    <p>
+        <control><a href="about.topic">关于</a></control>
+    </p>
+
+
+</topic>
