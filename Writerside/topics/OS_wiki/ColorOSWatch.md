@@ -43,7 +43,7 @@ ColorOS是由OPPO广东移动通信有限公司推出的基于安卓（Android�
 
 ![OPPO Watch](capture_20230820171240436.png)
 
-![ColorOS](3631b2f7f1bd7fec1674e444d58ea6d7_爱奇艺.jpg)
+![ColorOS](3631b2f7f1bd7fec1674e444d58ea6d7.jpg)
 
 ## 系统特性及对比
 |名称|ColorOS Watch|

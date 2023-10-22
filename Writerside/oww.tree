@@ -32,9 +32,9 @@
         <toc-element topic="WearableOS.md"/>
     </toc-element>
     <toc-element toc-title="指南">
-        <toc-element topic="智能手表的分类及购买指南.md"/>
+        <toc-element topic="smart-watch-guide.md"/>
         <toc-element toc-title="设备购买须知">
-            <toc-element toc-title="荣耀手表4避坑指南" topic="HonorWatch4避坑指南.md" id="honorwatch4-guide"/>
+            <toc-element toc-title="荣耀手表4避坑指南" topic="HonorWatch4-guide.md" id="honorwatch4-guide"/>
         </toc-element>
     </toc-element>
     <toc-element toc-title="产品百科">
@@ -57,8 +57,8 @@
             <toc-element toc-title="xmsh8p_authors" topic="xiaomismartband8pro_authors.md"/>
             <toc-element toc-title="xmwt2p_versions" topic="XiaomiWatch2ProInternational_versions.md"/>
             <toc-element toc-title="xmwt2p_authors" topic="XiaomiWatch2ProInternational_authors.md"/>
-            <toc-element toc-title="opwt4p_versions" topic="OPPO Watch 4 Pro_versions.md"/>
-            <toc-element toc-title="opwt4p_authors" topic="OPPO Watch 4 Pro_authors.md"/>
+            <toc-element toc-title="opwt4p_versions" topic="OPPO-Watch-4-Pro_versions.md"/>
+            <toc-element toc-title="opwt4p_authors" topic="OPPO-Watch-4-Pro_authors.md"/>
         </toc-element>
     </toc-element>
     <toc-element toc-title="专题">
