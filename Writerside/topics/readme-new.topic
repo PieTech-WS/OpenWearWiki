@@ -32,16 +32,41 @@
         <list>
             <li>了解可穿戴设备的相关知识</li>
             <li>引用此Wiki内容向不了解的人科普</li>
-            <li>帮助您选购可穿戴设备
-                总之，您可以借助此Wiki了解各种可穿戴设备。
-                目前，项目处于初级阶段，如果您对某种可穿戴设备足够了解，想要加入初期编写，可通过以下方式联系管理员,
-            </li>
-            <li>Gitee私信(效率低)</li>
-            <li>Teams社区(较快)</li>
-            <li>OICQ/WeLink(最快)
-                同时，您需要遵守OpenWear Studio的贡献者协议.
-            </li>
+            <li>帮助您选购可穿戴设备</li>
         </list>
+    </chapter>
+
+    <chapter title="共创" id="readme-how-to-join" collapsible="true" default-state="expanded">
+        <p>目前，项目处于初级阶段，如果您对某种可穿戴设备足够了解，想要加入初期编写，可通过以下方式联系管理员,</p>
+        <list>
+            <li>GitHub私信(效率低)</li>
+            <li>Teams社区(较快)</li>
+            <li>OICQ(最快)(联系方式见"交流")</li>
+        </list>
+        <p>同时，您需要遵守PowerAtom知识共享计划的贡献者协议.</p>
+    </chapter>
+
+    <chapter title="交流" id="readme-connect" collapsible="true" default-state="expanded">
+        <note>
+            加入交流社区后, 请遵守社区规定.
+        </note>
+        <deflist>
+            <def title="QQ(OICQ)">
+                <p>
+                    <control><a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=y2Lc-c0y9U1UBt18ZoC8XTN6lf5sOseu&amp;authKey=YcOfjplspfFixBLfsNadu9LkgR7%2FvgNUY78kED1y5l92aZg3cqatihsJp1Pg%2FKb7&amp;noverify=0&amp;group_code=754228739">加入</a></control>
+                </p>
+            </def>
+            <def title="Teams社区">
+                <p>
+                    暂未开放
+                </p>
+            </def>
+            <def title="Skype">
+                <p>
+                    <control><a href="https://join.skype.com/qvjuIGKo4eGN">加入</a></control>
+                </p>
+            </def>
+        </deflist>
     </chapter>
 
     <chapter title="对于Wiki作者" id="readme-for-authors" collapsible="true" default-state="expanded">

@@ -30,4 +30,8 @@
         <description>Created after removal of "HONOR WATCH4购买须知" from OpenWear Wiki</description>
         <accepts>test1.html</accepts>
     </rule>
+    <rule id="27525e01">
+        <description>Created after removal of "首页" from OpenWear Wiki</description>
+        <accepts>README.html</accepts>
+    </rule>
 </rules>
