@@ -62,7 +62,7 @@
     </toc-element>
     <toc-element toc-title="专题">
         <toc-element toc-title="小米手环8Pro 应用/表盘">
-            <toc-element topic="index.md"/>
+            <toc-element topic="xmsh8p-apps-index.md"/>
             <toc-element topic="xmsmartband8pro_apps_README.md"/>
             <toc-element toc-title="应用">
                 <toc-element topic="mibandmana.md"/>

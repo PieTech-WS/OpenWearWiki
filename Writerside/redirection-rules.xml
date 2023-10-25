@@ -34,4 +34,12 @@
         <description>Created after removal of "首页" from OpenWear Wiki</description>
         <accepts>README.html</accepts>
     </rule>
+    <rule id="ee28fca">
+        <description>Created after removal of "目录" from OpenWear Wiki</description>
+        <accepts>index_md.html</accepts>
+    </rule>
+    <rule id="12e6c486">
+        <description>Created after removal of "目录" from OpenWear Wiki</description>
+        <accepts>xmsh8p_apps_index.html</accepts>
+    </rule>
 </rules>
