@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="&#20844;&#21578;" id="info">
+
+
+    <chapter title="关于后续更新的安排-2023.10.29" id="2023-10-29-1" collapsible="true" default-state="collapsed">
+        <p>
+            在几天前，此OpenWear Wiki发布。现在它拥有更加现代化的外观，并有相较以往更丰富的内容，这得益于Jetbrains Writerside的加持。
+        </p>
+        <p>
+            但是就目前来看，Writerside学习成本过高，导致我们将会花上一段时间去学习使用Writerside编写（虽然不包括我）。并且此次还要求所有成员能够使用Git。
+        </p>
+        <p>
+            再加之本人学业繁重，只能够每晚抽出一段时间进行更新，前几天为了早日上线更是熬夜，经常到凌晨两点多，实在撑不下去想润了(bushi
+            我想我现在需要搞好学习，更新可能每周一次吧。学习不好之后每周一次都悬。。
+        </p>
+        <p>
+            目前所有现有文章均已经转移到这里，大家可以放心阅读，不存在报错啥的（域名有一年，一时半会跑不了）
+        </p>
+        <p>
+            来自成员 yizigezi
+        </p>
+    </chapter>
+
+</topic>

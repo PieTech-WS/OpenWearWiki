@@ -3,7 +3,13 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="test" id="test">
+       title="xmwts3_authors" id="xmwts3-authors">
 
-    <p>Start typing here...</p>
+    <title>
+        贡献者
+    </title>
+    <p><a href="XiaomiWatch2ProInternational.md">返回原文</a></p>
+    <p><a href="https://space.bilibili.com/358601057">@yizigezi</a></p>
+
+
 </topic>

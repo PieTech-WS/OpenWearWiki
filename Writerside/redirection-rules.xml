@@ -42,4 +42,36 @@
         <description>Created after removal of "目录" from OpenWear Wiki</description>
         <accepts>xmsh8p_apps_index.html</accepts>
     </rule>
+    <rule id="1ac43159">
+        <description>Created after removal of "test" from OpenWear Wiki</description>
+        <accepts>test.html</accepts>
+    </rule>
+    <rule id="30a04d7f">
+        <description>Created after removal of "Empty XML Topic" from OpenWear Wiki</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+    <rule id="4853b07">
+        <description>Created after removal of "Empty MD Topic" from OpenWear Wiki</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="4f1a126">
+        <description>Created after removal of "{产品名称}" from OpenWear Wiki
+            Help IDs that are no longer available in build after removal:
+
+            products-wiki
+        </description>
+        <accepts>products-wiki.html</accepts>
+    </rule>
+    <rule id="7a0e2012">
+        <description>Created after removal of "贡献者" from OpenWear Wiki</description>
+        <accepts>authors.html</accepts>
+    </rule>
+    <rule id="f93e10f">
+        <description>Created after removal of "Section Starting Page" from OpenWear Wiki</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
+    <rule id="514cee50">
+        <description>Created after removal of "公告" from OpenWear Wiki</description>
+        <accepts>info.html</accepts>
+    </rule>
 </rules>

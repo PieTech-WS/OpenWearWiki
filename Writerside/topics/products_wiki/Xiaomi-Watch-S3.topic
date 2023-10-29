@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Xiaomi Watch S3" id="Xiaomi-Watch-S3">
+    <p>
+        <control><a href="xmwts3-authors.topic">贡献者</a> <a href="OPPO-Watch-4-Pro_versions.md">更新日志</a>
+        </control>
+    </p>
+
+    <chapter title="概览" collapsible="true" default-state="expanded">
+        <p>
+            Xiaomi Watch S3是小米公司于2023年10月26日于小米澎湃OS暨小米14系列发布会发布的一款轻智能手表.拥有两个版本, 蓝牙版和eSIM版.支持更换表圈设计.搭载Xiaomi HyperOS(小米澎湃OS).
+        </p>
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>参数</td>
+            </tr>
+            <tr>
+                <td>型号</td>
+                <td>蓝牙版：M2313W1
+                    eSIM版：M2311W1</td>
+            </tr>
+            <tr>
+                <td>屏幕</td>
+                <td>表面为康宁玻璃, 1.43英寸 AMOLED 显示屏, 466 x 466，326PPI</td>
+            </tr>
+            <tr>
+                <td>尺寸</td>
+                <td>47mm × 47mm × 12mm</td>
+            </tr>
+            <tr>
+                <td>尺寸</td>
+                <td>44g（不含表带）</td>
+            </tr>
+            <tr>
+                <td>电池</td>
+                <td>486mAh(锂电池), 充电接口为磁吸充电式</td>
+            </tr>
+            <tr>
+                <td>平台</td>
+                <td>(仅猜测)BES2700P搭配紫光低功耗LTE解决方案(eSIM版)</td>
+            </tr>
+            <tr>
+                <td>操作系统</td>
+                <td>Xiaomi HyperOS(猜测为Xiaomi Vela)</td>
+            </tr>
+            <tr>
+                <td>存储</td>
+                <td>可用于音乐存储:2GB(完整数据未知), 运行内存:32MB(猜测)</td>
+            </tr>
+            <tr>
+                <td>防水</td>
+                <td>5ATM</td>
+            </tr>
+            <tr>
+                <td>传感器</td>
+                <td>心率传感器（含血氧）、加速度传感器、陀螺仪、
+                    地磁传感器、气压传感器、环境光传感器、霍尔传感器</td>
+            </tr>
+            <tr>
+                <td>定位</td>
+                <td>北斗、GPS、GLONASS、Galileo、QZSS</td>
+            </tr>
+            <tr>
+                <td>数据连接</td>
+                <td>Wi-Fi:不支持 蓝牙:BT5.2 移动网络:规格未知</td>
+            </tr>
+        </table>
+
+    </chapter>
+</topic>

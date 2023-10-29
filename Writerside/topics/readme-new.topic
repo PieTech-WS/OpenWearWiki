@@ -8,7 +8,8 @@
     <p>
         <control>
             <a href="Tasks.md">Tasks</a>
-            <a href="authors.md">贡献者名单</a>
+            <a href="authors.md" instance="!oww">贡献者名单</a>
+            <if instance="oww">贡献者名单</if>
             <a href="issue.md">反馈</a>
         </control>
     </p>
