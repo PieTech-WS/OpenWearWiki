@@ -2,10 +2,11 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
-    <build-profile instance="hi">
-        <variables></variables>
-    </build-profile>
+    <variables>
+        <algolia-id>1YYN0PK8GX</algolia-id>
+        <algolia-index>oww-index</algolia-index>
+        <algolia-api-key>e87c9adfcc1d789c52e1101f7cdddea7</algolia-api-key>
+    </variables>
     <build-profile instance="oww">
         <variables>
             <noindex-content>false</noindex-content>

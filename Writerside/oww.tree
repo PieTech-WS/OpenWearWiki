@@ -78,6 +78,7 @@
             </toc-element>
         </toc-element>
     </toc-element>
+    <toc-element topic="download.topic"/>
     <toc-element topic="about.topic"/>
     <toc-element toc-title="快速更新通道" target-for-accept-web-file-names="https://www.projcora.club/WearWiki"/>
 </instance-profile>

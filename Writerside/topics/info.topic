@@ -6,6 +6,17 @@
        title="&#20844;&#21578;" id="info">
 
 
+    <chapter title="搜索功能测试开始-2023.11.3" id="2023-11-3-1" collapsible="true" default-state="expanded">
+        <p>
+            我们将于近期(或许就是现在,凌晨)启用本版本的搜索功能。届时版本号将提升至2.5
+        </p>
+        <p>
+            备注:由于无法付费购买Algolia订阅，因此我们无法使用位于香港的搜索节点，搜索速度可能欠佳。如果您有PayPal等支付方式，请联系我们，不胜感激。
+        </p>
+        <p>
+            <control>来自成员</control> 2minRain(yizigezi)
+        </p>
+    </chapter>
     <chapter title="关于后续更新的安排-2023.10.29" id="2023-10-29-1" collapsible="true" default-state="collapsed">
         <p>
             在几天前，此OpenWear Wiki发布。现在它拥有更加现代化的外观，并有相较以往更丰富的内容，这得益于Jetbrains Writerside的加持。
@@ -21,7 +32,7 @@
             目前所有现有文章均已经转移到这里，大家可以放心阅读，不存在报错啥的（域名有一年，一时半会跑不了）
         </p>
         <p>
-            来自成员 yizigezi
+            来自成员 2minRain(yizigezi)
         </p>
     </chapter>
 
