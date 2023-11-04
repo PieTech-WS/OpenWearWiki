@@ -1,4 +1,5 @@
 # 目录
+经典版目录.[新版位于概览之中](xmsh8p-apps_start.topic)
 
 ## 应用
 
