@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="米环管理" id="mibandmana">
+    <title>米环管理</title>
+    <card-summary>实现轻松换绑或管理手环上的快应用</card-summary>
+    <link-summary>来自米坛社区</link-summary>
+    <p>
+        <control><a href="https://www.bandbbs.cn/threads/8279/">快速下载</a>
+            <a href="https://gitee.com/pietechws/open-wear-wiki/issues/new">词条报错</a></control>
+    </p>
+    <chapter title="概述" id="summary">
+        <img src="mibandmana.png" alt="来自NEORUAA"/>
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>内容</td>
+            </tr>
+            <tr>
+                <td>名称</td>
+                <td>米环管理</td>
+            </tr>
+            <tr>
+                <td>作者</td>
+                <td>GiveMeFive；NEORUAA；无源流沙</td>
+            </tr>
+            <tr>
+                <td>分类</td>
+                <td>实用工具</td>
+            </tr>
+            <tr>
+                <td>简介</td>
+                <td>轻松换绑、管理手环上的快应用</td>
+            </tr>
+            <tr>
+                <td>下载</td>
+                <td><a href="https://www.bandbbs.cn/threads/8279/">米坛社区</a></td>
+            </tr>
+            <tr>
+                <td>介绍视频</td>
+                <td><a href="https://www.bilibili.com/video/BV1jj411y7V6">「小米手环8Pro」首发手环系统管理 支持卸载快应用&amp;保数据换绑</a>
+                </td>
+            </tr>
+            <tr>
+                <td>发布时间</td>
+                <td>2023/9/13</td>
+            </tr>
+        </table>
+
+    </chapter>
+</topic>

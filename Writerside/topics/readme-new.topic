@@ -8,9 +8,8 @@
     <p>
         <control>
             <a href="Tasks.md">Tasks</a>
-            <a href="authors.md" instance="!oww">贡献者名单</a>
-            <if instance="oww">贡献者名单</if>
             <a href="issue.md">反馈</a>
+            <a href="about.topic">关于</a>
         </control>
     </p>
     <tip>
@@ -59,7 +58,7 @@
             </def>
             <def title="Teams社区">
                 <p>
-                    暂未开放
+                    <control><a href="https://teams.live.com/l/community/FBAv2ZCtFPi3WHblAY">加入</a></control>
                 </p>
             </def>
             <def title="Skype">
@@ -75,9 +74,7 @@
             在您开始编写之前, 请阅读 <a href="writing_specifications.md">编写规范</a>
         </p>
     </chapter>
-    <p>
-        <control><a href="about.topic">关于</a></control>
-    </p>
+
 
 
 </topic>
