@@ -5,7 +5,16 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
 
-    <chapter title="虚假的更新" id="2023-11-3-2" collapsible="true" default-state="expanded">
+    <chapter title="搜索功能上线!" id="2023-11-8" collapsible="true" default-state="expanded">
+        <p>
+            搜索功能经过研究，确认是WRS的BUG导致的。因此在我们使用了临时解决方案后，搜索功能现已可用！
+            <control>但是请注意, 由于使用的Algolia服务的区域是US, 搜索结果展示可能不及时, 请耐心等待.如果完全无法使用请 <a href="issue.md">反馈 </a></control>
+        </p>
+        <p>
+            <control>来自成员</control> 2minRain(yizigezi)
+        </p>
+    </chapter>
+    <chapter title="虚假的更新-2023-11-3" id="2023-11-3-2" collapsible="true" default-state="collapsed">
         <p>
             很遗憾，经过验证，Jetbrains给出的方法并不能配置好搜索（不知道是不是我配置错了）
         </p>
