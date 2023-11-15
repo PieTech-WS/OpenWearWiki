@@ -1,12 +1,10 @@
 # OpenWearWiki
 欢迎来到OpenWear Wiki仓库~
 
-本仓库存有OpenWear Wiki NEXT版本的源代码，使用Writerside构建。Release中有生成好的HTML版本。
+本仓库存有OpenWear Wiki NEXT版本的源代码，使用Writerside构建。Actions中有生成好的HTML版本。
 
 如果Wiki内容有误，请在Issues中提出（请按照Issue模板填写，方便快速定位问题并修复awa）；
 如果你有更好的修改内容，欢迎直接通过轻量级PR提交，我们会尽快处理；
 如果你想加入我们，请阅读此[链接内容](https://www.projcora.club/OpenWearWiki/readme-new.html#readme-connect)
 
-OpenWear Wiki版本：
-  [Legacy](https://www.projcora.club/WearWiki)
   [NEXT](https://www.projcora.club/OpenWearWiki)
