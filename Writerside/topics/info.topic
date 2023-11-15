@@ -4,8 +4,23 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
-
-    <chapter title="虚假的更新" id="2023-11-3-2" collapsible="true" default-state="expanded">
+    <chapter title="技术性版本2.5更新说明-2023.11.16" id="2023-11-16-1" collapsible="true" default-state="expanded">
+        <p>
+            本次更新主要内容:
+        </p>
+        <list>
+            <li>新增了搜索功能</li>
+            <li>对诸多主题的文件进行了规范化</li>
+            <li>NEXT进入正式版</li>
+        </list>
+        <p>
+            也许是最近唯一一次技术性更新了, 目前Writerside的功能基本启用完毕.多语言以后再说叭
+        </p>
+        <p>
+            <control>来自成员</control> 2minRain(yizigezi)
+        </p>
+    </chapter>
+    <chapter title="虚假的更新" id="2023-11-3-2" collapsible="true" default-state="collapsed">
         <p>
             很遗憾，经过验证，Jetbrains给出的方法并不能配置好搜索（不知道是不是我配置错了）
         </p>
