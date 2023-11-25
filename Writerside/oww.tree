@@ -63,6 +63,7 @@
         </toc-element>
     </toc-element>
     <toc-element toc-title="专题">
+        <toc-element topic="XiaomiHyperOS-Quickapp.topic"/>
         <toc-element toc-title="小米手环8Pro 应用/表盘" topic="xmsh8p-apps_start.topic">
             <toc-element topic="xmsh8p-apps-index.md"/>
             <toc-element topic="xmsmartband8pro_apps_README.md"/>
