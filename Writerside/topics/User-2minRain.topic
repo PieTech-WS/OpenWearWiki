@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="User:2minRain" id="User-2minRain">
+
+    <tip>
+        跟我一起念: 咕咕咕咕咕
+    </tip>
+    <p>
+        是一只会咕咕咕还会喵喵喵的鸽子
+    </p>
+    <chapter title="参与的词条" id="works" collapsible="true" default-state="collapsed">
+        <p>
+            <a href="HONOR-WATCH-4-GUID.topic"><ui-path>指南->设备购买须知->HONOR WATCH4购买指南</ui-path></a>
+        </p>
+        <p>
+            <a href="smart-watch-guide.md"><ui-path>指南->智能手表的分类与购买建议</ui-path></a>
+        </p>
+        <p>
+            <a href="WearableOS.md"><ui-path>表格->可穿戴设备操作系统</ui-path></a>
+        </p>
+        <p>
+            <a href="XiaomiSmartBand8Pro.md"><ui-path>产品百科->小米手环8Pro</ui-path></a>
+        </p>
+        <p>
+            <a href="XiaomiWatch.md"><ui-path>产品百科->小米手表</ui-path></a>
+        </p>
+        <p>
+            <a href="XiaomiWatch2ProInternational.md"><ui-path>产品百科->XiaomiWatch2Pro(International)</ui-path></a>
+        </p>
+        <p>
+            <a href="Xiaomi-Watch-S3.topic"><ui-path>产品百科->XiaomiWatchS3</ui-path></a>
+        </p>
+        <p>
+            <a href="Redmi-Watch-4.topic"><ui-path>产品百科->RedmiWatch4(红米手表4)</ui-path></a>
+        </p>
+        <p>
+            <a href="WearOSbyGoogle.md"><ui-path>操作系统->WearOSbyGoogle</ui-path></a>
+        </p>
+        <p>
+            <a href="XiaomiVela.md"><ui-path>操作系统->XiaomiVela</ui-path></a>
+        </p>
+        <p>
+            <a href="ZeppOS.md"><ui-path>操作系统->ZeppOS</ui-path></a>
+        </p>
+        <p>
+            <a href="Xiaomi-Hyper-OS.topic"><ui-path>操作系统->XiaomiHyperOS</ui-path></a>
+        </p>
+    </chapter>
+    <chapter title="个人主页" id="social" collapsible="true" default-state="collapsed">
+        <p>
+            <a href="https://space.bilibili.com/358601057"><control>哔哩哔哩</control></a>
+        </p>
+        <p>
+            <a href="https://github.com/yizigezi"><control>GitHub</control></a>
+        </p>
+        <p>
+            <a href="https://www.bandbbs.cn/members/185343/"><control>米坛社区BandBBS</control></a>
+        </p>
+    </chapter>
+    <chapter title="联系" id="connect" collapsible="true" default-state="expanded">
+        <p>
+            <a href="mailto://yizigezi@outlook.com"><control>E-Mail</control></a>
+        </p>
+    </chapter>
+</topic>

@@ -14,28 +14,6 @@
         <toc-element topic="writing_specifications.md"/>
     </toc-element>
     <toc-element topic="license.md"/>
-    <toc-element toc-title="操作系统百科">
-        <toc-element topic="Xiaomi-Hyper-OS.topic"/>
-        <toc-element topic="ZeppOS.md"/>
-        <toc-element topic="XiaomiVela.md"/>
-        <toc-element topic="WearOSbyGoogle.md"/>
-        <toc-element topic="HarmonyOS_Watch.md"/>
-        <toc-element topic="ColorOSWatch.md"/>
-        <toc-element toc-title="wiki_notes">
-            <toc-element toc-title="wearosbygoogle_authors" topic="wearosbygoogle_authors.md"/>
-            <toc-element toc-title="ZeppOS_versions" topic="ZeppOS_versions.md"/>
-            <toc-element toc-title="ZeppOS_authors" topic="ZeppOS_authors.md"/>
-        </toc-element>
-    </toc-element>
-    <toc-element toc-title="表格">
-        <toc-element topic="WearableOS.md"/>
-    </toc-element>
-    <toc-element toc-title="指南">
-        <toc-element topic="smart-watch-guide.md"/>
-        <toc-element toc-title="设备购买须知">
-            <toc-element topic="HONOR-WATCH-4-GUID.topic"/>
-        </toc-element>
-    </toc-element>
     <toc-element toc-title="产品百科">
         <toc-element topic="Redmi-Watch-4.topic"/>
         <toc-element topic="Xiaomi-Watch-S3.topic"/>
@@ -64,6 +42,28 @@
             <toc-element toc-title="opwt4p_authors" topic="OPPO-Watch-4-Pro_authors.md"/>
         </toc-element>
     </toc-element>
+    <toc-element toc-title="操作系统百科">
+        <toc-element topic="Xiaomi-Hyper-OS.topic"/>
+        <toc-element topic="ZeppOS.md"/>
+        <toc-element topic="XiaomiVela.md"/>
+        <toc-element topic="WearOSbyGoogle.md"/>
+        <toc-element topic="HarmonyOS_Watch.md"/>
+        <toc-element topic="ColorOSWatch.md"/>
+        <toc-element toc-title="wiki_notes">
+            <toc-element toc-title="wearosbygoogle_authors" topic="wearosbygoogle_authors.md"/>
+            <toc-element toc-title="ZeppOS_versions" topic="ZeppOS_versions.md"/>
+            <toc-element toc-title="ZeppOS_authors" topic="ZeppOS_authors.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="表格">
+        <toc-element topic="WearableOS.md"/>
+    </toc-element>
+    <toc-element toc-title="指南">
+        <toc-element topic="smart-watch-guide.md"/>
+        <toc-element toc-title="设备购买须知">
+            <toc-element topic="HONOR-WATCH-4-GUID.topic"/>
+        </toc-element>
+    </toc-element>
     <toc-element toc-title="专题">
         <toc-element topic="XiaomiHyperOS-Quickapp.topic"/>
         <toc-element toc-title="小米手环8Pro 应用/表盘" topic="xmsh8p-apps_start.topic">
@@ -82,6 +82,10 @@
         </toc-element>
     </toc-element>
     <toc-element topic="download.topic"/>
-    <toc-element topic="about.topic"/>
+    <toc-element topic="about.topic">
+        <toc-element toc-title="作者">
+            <toc-element topic="User-2minRain.topic"/>
+        </toc-element>
+    </toc-element>
     <toc-element toc-title="GitHub仓库" href="https://github.com/PieTech-WS/OpenWearWiki"/>
 </instance-profile>
