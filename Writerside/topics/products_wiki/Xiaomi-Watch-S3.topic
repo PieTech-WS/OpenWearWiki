@@ -4,12 +4,15 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Xiaomi Watch S3" id="Xiaomi-Watch-S3">
+    <link-summary>
+        Xiaomi Watch S3
+    </link-summary>
     <p>
         <control><a anchor="authors">贡献者</a> <a anchor="versionLogs">更新日志</a>
         </control>
     </p>
 
-    <chapter title="概览" id="summary" collapsible="true" default-state="expanded">
+    <chapter title="概览" id="summary">
         <p>
             Xiaomi Watch S3是小米公司于2023年10月26日于小米澎湃OS暨小米14系列发布会发布的一款轻智能手表.拥有两个版本, 蓝牙版和eSIM版.支持更换表圈设计.搭载Xiaomi HyperOS(小米澎湃OS).
         </p>
@@ -72,6 +75,9 @@
 
     </chapter>
     <chapter title="WikiNotes" id="WikiNotes" collapsible="true" default-state="expanded">
+        <p>
+            版本0.1.1-2023-12-2
+        </p>
         <chapter title="贡献者" id="authors" collapsible="true" default-state="collapsed">
             <p><a href="User-2minRain.topic">@2minRain</a></p>
         </chapter>
@@ -81,7 +87,7 @@
                     词条标准化.
                 </p>
             </chapter>
-            <chapter title="ver0.1-2023/10/14" id="0-1-2023-10-28">
+            <chapter title="ver0.1.0-2023/10/14" id="0-1-2023-10-28">
                 <p>初始版本发布.
                     还有很多内容未完善...</p>
             </chapter>

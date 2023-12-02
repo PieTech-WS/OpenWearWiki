@@ -32,8 +32,6 @@
         <toc-element topic="HUAWEIWatch.md"/>
         <toc-element topic="HONOR-WATCH-4.topic"/>
         <toc-element toc-title="Wiki笔记">
-            <toc-element toc-title="xmwts3_versions" topic="xmwts3-versions.topic"/>
-            <toc-element toc-title="xmwts3_authors" topic="xmwts3-authors.topic"/>
             <toc-element toc-title="xmsh8p_versions" topic="xiaomismartband8pro_versions.md"/>
             <toc-element toc-title="xmsh8p_authors" topic="xiaomismartband8pro_authors.md"/>
             <toc-element toc-title="xmwt2p_versions" topic="XiaomiWatch2ProInternational_versions.md"/>

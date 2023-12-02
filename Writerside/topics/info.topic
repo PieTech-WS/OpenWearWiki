@@ -4,7 +4,14 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
-    <chapter title="技术性版本2.5更新说明-2023.11.16" id="2023-11-16-1" collapsible="true" default-state="expanded">
+    <chapter title="词条格式变更说明" id="2023-12-2-1" collapsible="true" default-state="expanded">
+        <p>最近感觉把Wiki Notes单独放Topic太麻烦了, 于是决定把WikiNotes放在词条末尾, 默认只展开WikiNotes, 不展开其下的贡献者和更新日志这两栏.</p>
+        <p>如果对词条的格式有更多建议, 欢迎到 <a href="https://github.com/PieTech-WS/OpenWearWiki">GitHub仓库</a> 提Issue!</p>
+        <p>
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
+        </p>
+    </chapter>
+    <chapter title="技术性版本2.5更新说明-2023.11.16" id="2023-11-16-1" collapsible="true" default-state="collapsed">
         <p>
             本次更新主要内容:
         </p>
@@ -17,7 +24,7 @@
             也许是最近唯一一次技术性更新了, 目前Writerside的功能基本启用完毕.多语言以后再说叭
         </p>
         <p>
-            <control>来自成员</control> 2minRain(yizigezi)
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
         </p>
     </chapter>
     <chapter title="虚假的更新" id="2023-11-3-2" collapsible="true" default-state="collapsed">
@@ -28,7 +35,7 @@
             我会再次尝试，不过我更希望等到Jetbrains推出搜索服务软件后再配置，Algolia的付费机制着实有点令人头疼。
         </p>
         <p>
-            <control>来自成员</control> 2minRain(yizigezi)
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
         </p>
     </chapter>
     <chapter title="搜索功能测试开始-2023.11.3" id="2023-11-3-1" collapsible="true" default-state="collapsed">
@@ -36,7 +43,7 @@
             我们将于近期(或许就是现在,凌晨)启用本版本的搜索功能。届时版本号将提升至2.5
         </p>
         <p>
-            <control>来自成员</control> 2minRain(yizigezi)
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
         </p>
     </chapter>
     <chapter title="关于后续更新的安排-2023.10.29" id="2023-10-29-1" collapsible="true" default-state="collapsed">
@@ -54,7 +61,7 @@
             目前所有现有文章均已经转移到这里，大家可以放心阅读，不存在报错啥的（域名有一年，一时半会跑不了）
         </p>
         <p>
-            来自成员 2minRain(yizigezi)
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
         </p>
     </chapter>
 

@@ -4,6 +4,131 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Xiaomi HyperOS" id="Xiaomi-Hyper-OS">
-
-    <p>正在思考要不要和Vela合到一起</p>
+    <link-summary>
+        Xiaomi HyperOS的可穿戴设备版本
+    </link-summary>
+    <chapter title="概览" id="summary">
+        <note>
+            此处主要介绍其在可穿戴设备上的应用.
+        </note>
+        <note>
+            Xiaomi HyperOS的可穿戴设备版本基于Xiaomi Vela
+        </note>
+        Xiaomi HyperOS是小米公司发布的操作系统.覆盖手机、平板、手表和汽车等产品(汽车暂未推出).
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>信息</td>
+            </tr>
+            <tr>
+                <td>名称</td>
+                <td>Xiaomi HyperOS(在手表上，曾使用MIUI Watch名称)</td>
+            </tr>
+            <tr>
+                <td>开发者</td>
+                <td>小米公司</td>
+            </tr>
+            <tr>
+                <td>底层</td>
+                <td>Xiaomi Vela(基于NuttX)</td>
+            </tr>
+            <tr>
+                <td>应用支持</td>
+                <td>是(Vela快应用)</td>
+            </tr>
+            <tr>
+                <td>适用于</td>
+                <td>可穿戴设备(基于蓝牙SoC,轻智能手表/手环)</td>
+            </tr>
+            <tr>
+                <td>开放性²</td>
+                <td>Lv2.</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="设备支持" id="devices">
+        <table>
+            <tr>
+                <td>设备名称</td>
+                <td>型号</td>
+            </tr>
+            <tr>
+                <td>Xiaomi Watch S1Pro(MIUI Watch)</td>
+                <td>M2134W1</td>
+            </tr>
+            <tr>
+                <td><a href="XiaomiSmartBand8Pro.md">小米手环8 Pro(Xiaomi Vela)</a></td>
+                <td>M2303B1</td>
+            </tr>
+            <tr>
+                <td><a href="Xiaomi-Watch-S3.topic">Xiaomi Watch S3(Xiaomi HyperOS)</a></td>
+                <td>M2313W1,M2313W1</td>
+            </tr>
+            <tr>
+                <td><a href="Redmi-Watch-4.topic">Redmi Watch 4(Xiaomi HyperOS)</a></td>
+                <td>M2314W1</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="系统体验" id="system-exp">
+        <p>
+            由于不同设备拥有一些不同的功能和UI体验, 因此请前往设备对应的产品百科进行查看.
+        </p>
+    </chapter>
+    <chapter title="应用支持" id="app-support">
+        <chapter title="设备端应用(第三方应用)" id="third-party-app-support">
+            <note>
+                可穿戴设备端的Xiaomi HyperOS本质是Xiaomi Vela, 因此使用的是Vela快应用.此处直接介绍Vela快应用相关内容.
+            </note>
+            <p>
+                Xiaomi Vela快应用是用于Xiaomi Vela操作系统的应用框架, 支持开发者使用HTML+CSS+JS(前端技术)开发应用并运行在设备上.
+            </p>
+            <p>
+                对于使用Xiaomi Vela(HyperOS)的可穿戴设备, 您可以通过表盘自定义工具或Debug功能(需要Root后安装模块启用)自行安装应用. 如果该设备有应用商店,
+                你也可以在那里获取官方的应用.
+            </p>
+            <p>
+                但实际上目前出现了一些应用的兼容性问题, 如Xiaomi Watch S3的应用不能在Xiaomi手环8Pro上运行(但Xiaomi手表S1Pro上的应用可以直接在手环8Pro运行), 因为其使用了更新的API(API3),
+                新发布的Redmi Watch4, 阉割了设备间通信API, 导致电子书等应用将无法使用.
+            </p>
+            <chapter title="For Developers开发者必读" id="app-dev" collapsible="true" default-state="collapsed">
+                <p>
+                    如果您想开始Xiaomi Vela快应用的开发, 以下信息也许是你要知道的:
+                </p>
+                <deflist>
+                    <def title="开发文档">
+                        <control>
+                            <a href="https://iot.mi.com/vela/quickapp/zh/content/intro.html">
+                                概述 · Xiaomi Vela 快应用开发文档
+                            </a>
+                        </control>
+                    </def>
+                    <def title="环境要求">
+                        <control>操作系统</control>
+                         Ubuntu 20.04LTS(虚拟机, 实体机, WSL均可)
+                    </def>
+                </deflist>
+                <warning>
+                    请注意, 现有的开发文档可能不支持Xiaomi手表S3的一些特性.
+                </warning>
+            </chapter>
+        </chapter>
+        <chapter title="手机端应用" id="app-on-phone">
+            <p>Xiaomi HyperOS系统的可穿戴设备支持 <control>小米穿戴</control> 和 <control>小米运动健康APP</control> 进行设备的绑定/连接/数据同步.</p>
+            <p>同时得益于设备间通信功能, 设备上的应用将可以与您的手机上的应用进行通讯(Redmi Watch4不支持此功能), 实现诸如电子书传输等功能.</p>
+        </chapter>
+    </chapter>
+    <chapter title="WikiNotes" id="WikiNotes" collapsible="true" default-state="expanded">
+        <p>
+            版本0.1.0-2023-12-2
+        </p>
+        <chapter title="贡献者" id="authors" collapsible="true" default-state="collapsed">
+            <p><a href="User-2minRain.topic">@2minRain</a></p>
+        </chapter>
+        <chapter title="更新日志" id="versionLogs" collapsible="true" default-state="collapsed">
+            <chapter title="ver0.1.0-2023/12/2" id="0-1-2023-12-2">
+                <p>初始版本发布.</p>
+            </chapter>
+        </chapter>
+    </chapter>
 </topic>

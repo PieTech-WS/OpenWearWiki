@@ -74,4 +74,12 @@
         <description>Created after removal of "公告" from OpenWear Wiki</description>
         <accepts>info.html</accepts>
     </rule>
+    <rule id="392009ae">
+        <description>Created after removal of "xmwts3_versions" from OpenWear Wiki</description>
+        <accepts>xmwts3-versions.html</accepts>
+    </rule>
+    <rule id="7d58e578">
+        <description>Created after removal of "xmwts3_authors" from OpenWear Wiki</description>
+        <accepts>xmwts3-authors.html</accepts>
+    </rule>
 </rules>
