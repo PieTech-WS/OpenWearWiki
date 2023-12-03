@@ -12,6 +12,10 @@
             <a href="about.topic">关于</a>
         </control>
     </p>
+    <note>
+        <p>AtomicEvent@2024</p>
+        <p>2024/1/1 00:00?</p>
+    </note>
     <tip>
         <p>
             NEXT版本现已成为主线版本.Legacy版本已经存档.
