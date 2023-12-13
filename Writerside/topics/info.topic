@@ -4,7 +4,21 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
-    <chapter title="词条格式变更说明" id="2023-12-2-1" collapsible="true" default-state="expanded">
+    <chapter title="搜索服务故障" id="2023-12-14-1" collapsible="true" default-state="expanded">
+        <p>
+            由于Writerside的已知错误, 搜索服务错误地指向了主页面.目前正在等待Jetbrains修复,敬请耐心等待.
+        </p>
+        <p>
+            已将相关内容更新至 <ui-path><a href="Service-state.topic">关于 | 服务状态</a></ui-path>
+        </p>
+        <p>
+            祝君诸事顺利.
+        </p>
+        <p>
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
+        </p>
+    </chapter>
+    <chapter title="词条格式变更说明" id="2023-12-2-1" collapsible="true" default-state="collapsed">
         <p>最近感觉把Wiki Notes单独放Topic太麻烦了, 于是决定把WikiNotes放在词条末尾, 默认只展开WikiNotes, 不展开其下的贡献者和更新日志这两栏.</p>
         <p>如果对词条的格式有更多建议, 欢迎到 <a href="https://github.com/PieTech-WS/OpenWearWiki">GitHub仓库</a> 提Issue!</p>
         <p>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="User:鑫锐笑匠" id="User-nobipatient">
+
+    <chapter title="参与的词条" id="works" collapsible="true" default-state="collapsed">
+        <p>
+            <a href="HONOR-WATCH-4.topic"><ui-path>产品百科->HONOR Watch 4</ui-path></a>
+        </p>
+        <p>
+            <a href="HUAWEIWatch.md"><ui-path>产品百科->HUAWEI Watch</ui-path></a>
+        </p>
+        <p>
+            <a href="HUAWEIwatch3.md"><ui-path>产品百科->HUAWEI Watch 3</ui-path></a>
+        </p>
+        <p>
+            <a href="HUAWEIwatch3pro.md"><ui-path>产品百科->HUAWEI Watch 3Pro</ui-path></a>
+        </p>
+        <p>
+            <a href="HUAWEIwatch3pronew.md"><ui-path>产品百科->HUAWEI Watch 3 Pro New</ui-path></a>
+        </p>
+        <p>
+            <a href="HUAWEIWatch4.md"><ui-path>产品百科->HUAWEI Watch 4</ui-path></a>
+        </p>
+        <p>
+            <a href="HUAWEIWatch4Pro.md"><ui-path>产品百科->HUAWEI Watch 4Pro</ui-path></a>
+        </p>
+        <p>
+            <a href="ColorOSWatch.md"><ui-path>操作系统->ColorOS Watch</ui-path></a>
+        </p>
+        <p>
+            <a href="HarmonyOS_Watch.md"><ui-path>操作系统->HarmonyOS Watch</ui-path></a>
+        </p>
+    </chapter>
+</topic>

@@ -10,10 +10,10 @@
             本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
         </note>
         <p>
-            2023版本
+            NEXT版本(2023.12)
         </p>
         <p>
-            <control>(C)2023, PowerAtom Fund.及下属CoraTechWS.和本项目所有贡献者.</control>
+            <control>(C)2023, PowerAtom知识共享计划及Wiki全体贡献者</control>
         </p>
         <p>
             <control>本项目是PowerAtom 知识共享计划的组成部分</control>
@@ -22,10 +22,10 @@
     <chapter title="贡献者" id="about-authors" collapsible="true" default-state="expanded">
         <deflist default-state="expanded">
             <def title="2minRain(yizigezi)">
-                <a href="https://space.bilibili.com/358601057">BiliBili</a> <a href="https://github.com/yizigezi">GitHub</a>
+                <a href="https://space.bilibili.com/358601057">BiliBili</a> <a href="https://github.com/yizigezi">GitHub</a> <a href="User-2minRain.topic">User Profile on Wiki</a>
             </def>
             <def title="鑫锐笑匠">
-                <a href="https://space.bilibili.com/521839158">BiliBili</a>
+                <a href="https://space.bilibili.com/521839158">BiliBili</a> <a href="User-nobipatient.topic">User Profile on Wiki</a>
             </def>
             <def title="xinghengCN">
                 <a href="https://space.bilibili.com/239348541">BiliBili</a> <a href="https://github.com/xinghengCN">GitHub</a>
@@ -43,5 +43,29 @@
             以及...
         </p>
         <p><control>你</control></p>
+    </chapter>
+
+    <chapter title="Writerside信息" id="writerside-information" collapsible="true" default-state="expanded">
+        <p>
+            <control>主题色:</control> frozen
+        </p>
+        <p>
+            <control>搜索服务:</control> <a href="Service-state.topic" anchor="search-service">Algolia</a>
+        </p>
+        <p>
+            <control>使用版本:</control> >=2023.2EAP(232.10275)
+        </p>
+        <chapter title="GitHub Actions" id="gh-actions" collapsible="true" default-state="collapsed">
+            <list>
+                <li>actions/upload-artifact@v3</li>
+                <li>actions/checkout@v3</li>
+                <li>actions/download-artifact@v1</li>
+                <li>actions/upload-pages-artifact@v1</li>
+                <li>actions/configure-pages@v2</li>
+                <li>montudor/action-zip@v1</li>
+                <li>JetBrains/writerside-github-action@v4</li>
+                <li>registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-2</li>
+            </list>
+        </chapter>
     </chapter>
 </topic>

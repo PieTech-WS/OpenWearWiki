@@ -62,7 +62,7 @@
     </chapter>
     <chapter title="联系" id="connect" collapsible="true" default-state="expanded">
         <p>
-            <a href="mailto://yizigezi@outlook.com"><control>E-Mail</control></a>
+            <a href="mailto://yizigezi@outlook.com" ><control>E-Mail</control></a>
         </p>
     </chapter>
 </topic>
