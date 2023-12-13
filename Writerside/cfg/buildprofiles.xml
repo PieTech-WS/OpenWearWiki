@@ -10,7 +10,7 @@
     <build-profile instance="oww">
         <variables>
             <noindex-content>false</noindex-content>
-            <primary-color>frozen</primary-color>
+            <primary-color>aqua</primary-color>
         </variables>
         <footer>
             <copyright>2023-2024, PowerAtom知识共享计划及Wiki全体贡献者</copyright>
