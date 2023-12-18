@@ -47,7 +47,7 @@
 
     <chapter title="Writerside信息" id="writerside-information" collapsible="true" default-state="expanded">
         <p>
-            <control>主题色:</control> frozen
+            <control>主题色:</control> aqua
         </p>
         <p>
             <control>搜索服务:</control> <a href="Service-state.topic" anchor="search-service">Algolia</a>
@@ -65,6 +65,7 @@
                 <li>montudor/action-zip@v1</li>
                 <li>JetBrains/writerside-github-action@v4</li>
                 <li>registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-2</li>
+                <li>Docker Image Version(Updated on 23/12/19):233.4797</li>
             </list>
         </chapter>
     </chapter>

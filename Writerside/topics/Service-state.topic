@@ -18,5 +18,11 @@
         <p>
             <control>故障状态:</control> 等待Jetbrains修复.
         </p>
+        <p>
+            <control>关联反馈:</control> <a href="https://youtrack.jetbrains.com/issue/WRS-3625/Algolia-search-is-not-working-properly-all-results-are-pointing-to-the-start-page">Jetbrains YouTrack</a>
+        </p>
     </chapter>
+    <p>
+        <control>OpenWear Wiki Service, Version0.1</control>
+    </p>
 </topic>
