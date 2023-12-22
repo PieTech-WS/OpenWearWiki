@@ -103,13 +103,28 @@
                             </a>
                         </control>
                     </def>
+                    <def title="技术要求">
+                        <list>
+                            <li>
+                                掌握HTML+CSS+JS开发
+                            </li>
+                            <li>
+                                页面UI等可能需要一定Vue基础
+                            </li>
+                        </list>
+                    </def>
                     <def title="环境要求">
                         <control>操作系统</control>
                          Ubuntu 20.04LTS(虚拟机, 实体机, WSL均可)
                     </def>
                 </deflist>
                 <warning>
-                    请注意, 现有的开发文档可能不支持Xiaomi手表S3的一些特性.
+                    <control>提请注意</control>
+                    <list>
+                        <li>请注意, 现有的开发文档可能不支持Xiaomi手表S3的一些特性.</li>
+                        <li>Xiaomi手环 8Pro与Redmi手表4无法使用网络请求API</li>
+                        <li>Redmi手表4无法使用设备间通信API.</li>
+                    </list>
                 </warning>
             </chapter>
         </chapter>
