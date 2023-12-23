@@ -63,6 +63,7 @@
     </toc-element>
     <toc-element toc-title="专题">
         <toc-element topic="XiaomiHyperOS-Quickapp.topic">
+            <toc-element topic="Vela-Developer-Guide.topic"/>
             <toc-element toc-title="Xiaomi手环8 Pro">
                 <toc-element toc-title="表盘">
                     <toc-element toc-title="Lua小程序表盘">
