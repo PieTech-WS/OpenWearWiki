@@ -82,4 +82,8 @@
         <description>Created after removal of "xmwts3_authors" from OpenWear Wiki</description>
         <accepts>xmwts3-authors.html</accepts>
     </rule>
+    <rule id="77a659dd">
+        <description>Created after removal of "目录" from OpenWear Wiki</description>
+        <accepts>Wiki_Index.html</accepts>
+    </rule>
 </rules>

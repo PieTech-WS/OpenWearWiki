@@ -8,7 +8,6 @@
     <toc-element topic="readme-new.topic"/>
     <toc-element topic="info.topic"/>
     <toc-element topic="issue.md"/>
-    <toc-element topic="Wiki_Index.md"/>
     <toc-element topic="Tasks.md"/>
     <toc-element toc-title="文档">
         <toc-element topic="writing_specifications.md"/>
