@@ -3,35 +3,33 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="小米手环8 Pro应用专栏" id="xmsh8p-apps_start">
+       title="Xiaomi HyperOS &#24555;&#24212;&#29992;" id="XiaomiHyperOS-Quickapp">
 
     <section-starting-page>
-        <title>小米手环8 Pro应用专栏-概览</title>
+        <title>Xiaomi HyperOS快应用(Vela快应用)</title>
         <description>
-            此专栏为小米手环8 Pro的应用专栏，用于整理小米手环8 Pro的应用/小游戏/小程序表盘等
+            此专栏为Xiaomi HyperOS快应用专栏, 用于整理搭载HyperOS的可穿戴设备上的第三方应用
         </description>
         <spotlight>
-            <a href="xmsh8p-apps-index.md"
-               summary="经典版目录" type="start"/>
             <a href="issue.md"
                summary="如果发现错误，请前往反馈" type="bug"/>
+            <a href="https://iot.mi.com/vela/quickapp/zh/content/intro.html" summary="Xiaomi Vela快应用开发文档" type="development">XiaomiHyperOS(Vela快应用)开发文档</a>
         </spotlight>
 
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>应用/小游戏</title>
-            <a href="mibandmana.topic"/>
-            <a href="engdict.md" summary="一个可用于小米手环8 Pro的电子词典"/>
-            <a href="better2048.md" summary="比官方的更流畅了"/>
+            <a href="mibandmana.topic">(Xiaomi手环8Pro)米环管理</a>
+            <a href="engdict.md" summary="一个可用于小米手环8 Pro的电子词典">(Xiaomi手环8Pro)环间词典</a>
+            <a href="better2048.md" summary="比官方的更流畅了">(Xiaomi手环8Pro)更好的2048</a>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
             <title>小程序表盘</title>
-            <a href="dict_installer.md" summary="用于安装电子词典词库的Lua表盘"/>
+            <a href="dict_installer.md" summary="用于安装电子词典词库的Lua表盘">(Xiaomi手环8Pro)词库安装器</a>
         </secondary>
 
     </section-starting-page>
-
 </topic>

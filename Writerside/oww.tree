@@ -63,19 +63,22 @@
         </toc-element>
     </toc-element>
     <toc-element toc-title="专题">
-        <toc-element topic="XiaomiHyperOS-Quickapp.topic"/>
-        <toc-element toc-title="小米手环8Pro 应用/表盘" topic="xmsh8p-apps_start.topic">
-            <toc-element topic="xmsh8p-apps-index.md"/>
-            <toc-element topic="xmsmartband8pro_apps_README.md"/>
-            <toc-element toc-title="应用">
-                <toc-element topic="mibandmana.topic"/>
-                <toc-element topic="engdict.md"/>
-                <toc-element topic="better2048.md"/>
-            </toc-element>
-            <toc-element toc-title="表盘">
-                <toc-element toc-title="Lua小程序表盘">
-                    <toc-element topic="dict_installer.md"/>
+        <toc-element topic="XiaomiHyperOS-Quickapp.topic">
+            <toc-element toc-title="Xiaomi手环8 Pro">
+                <toc-element toc-title="表盘">
+                    <toc-element toc-title="Lua小程序表盘">
+                        <toc-element topic="mibandmana.topic"/>
+                        <toc-element topic="dict_installer.md"/>
+                    </toc-element>
                 </toc-element>
+                <toc-element toc-title="应用">
+                    <toc-element topic="better2048.md"/>
+                    <toc-element topic="engdict.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="Xiaomi手表S1 Pro">
+
+                <toc-element topic="com.givemefive.ebook.s1pro.topic"/>
             </toc-element>
         </toc-element>
     </toc-element>
