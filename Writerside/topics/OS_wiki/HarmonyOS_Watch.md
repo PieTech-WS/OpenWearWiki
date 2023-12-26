@@ -1,3 +1,4 @@
+![harmonyos_banner.png](harmonyos_banner.png)
 ![Harmony OS for watch](v2-1a68f3eeadbaf1d9d92cbdbe1700a384_r.jpg)
 # Harmony OS for watch
  
