@@ -20,7 +20,6 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>应用/小游戏</title>
-            <a href="mibandmana.topic">(Xiaomi手环8Pro)米环管理</a>
             <a href="engdict.md" summary="一个可用于小米手环8 Pro的电子词典">(Xiaomi手环8Pro)环间词典</a>
             <a href="better2048.md" summary="比官方的更流畅了">(Xiaomi手环8Pro)更好的2048</a>
         </primary>
@@ -28,6 +27,7 @@
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
             <title>小程序表盘</title>
+            <a href="mibandmana.topic">(Xiaomi手环8Pro)米环管理</a>
             <a href="dict_installer.md" summary="用于安装电子词典词库的Lua表盘">(Xiaomi手环8Pro)词库安装器</a>
         </secondary>
 
