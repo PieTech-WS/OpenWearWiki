@@ -6,6 +6,7 @@
        title="&#20851;&#20110;" id="about">
     <link-summary>OpenWear Wiki,2.5版本</link-summary>
     <chapter title="OpenWear Wiki" id="about-ch1" collapsible="true" default-state="expanded">
+        <img alt="banner_next.png" src="banner.png"/>
         <note>
             本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
         </note>
