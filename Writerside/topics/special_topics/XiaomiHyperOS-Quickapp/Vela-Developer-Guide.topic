@@ -115,6 +115,12 @@
                     <img alt="vela-dev-guide-1.png" src="vela-dev-guide-1.png" thumbnail="true"/>
                     <img alt="vela-dev-guide-2.png" src="vela-dev-guide-2.png" thumbnail="true"/>
                     <p>重新启动aiot-ide后, 你就可以在 <ui-path>文件 | 新建项目 | Vela</ui-path> 中创建项目啦(中文自行解决嗷, 和VSCode方法一模一样)</p>
+                    <p>
+                        如果您是WSL, 那么为了方便(不踩坑), 你也可以在这里下载项目模板, 直接在模板上修改代码开始开发.
+                    </p>
+                    <p>
+                        <a href="https://tlyhb-my.sharepoint.com/:u:/g/personal/2minrain_poweratom_onmicrosoft_com/EZ0n9zg45oRIm5lVEUpKY4YBrWX9Bx4cPf8gqfpIXdnuwA?e=vExrkb">下载模板</a>
+                    </p>
                 </chapter>
             </chapter>
             <chapter title="方案2.直接使用DevelaOS" id="develaos">
