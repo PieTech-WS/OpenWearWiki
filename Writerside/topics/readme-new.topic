@@ -12,15 +12,11 @@
             <a href="about.topic">关于</a>
         </control>
     </p>
+    <img alt="banner.png" src="banner.png"/>
     <note>
         <p>AtomicEvent@2024</p>
         <p>2024/1/1 00:00?</p>
     </note>
-    <tip>
-        <p>
-            NEXT版本现已成为主线版本.Legacy版本已经存档.
-        </p>
-    </tip>
     <warning>
         <p>
             在您使用/传播本项目前, 请先阅读我们的 <a href="license.md">许可证</a>.
