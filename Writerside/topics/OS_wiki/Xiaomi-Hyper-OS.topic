@@ -97,6 +97,11 @@
                     如果您想开始Xiaomi Vela快应用的开发, 以下信息也许是你要知道的:
                 </p>
                 <deflist>
+                    <def title="开发指南">
+                        <a href="Vela-Developer-Guide.topic">
+                            Xiaomi Vela快应用开发指南
+                        </a>
+                    </def>
                     <def title="开发文档">
                         <control>
                             <a href="https://iot.mi.com/vela/quickapp/zh/content/intro.html">
