@@ -11,6 +11,11 @@
         <control><a anchor="authors">贡献者</a> <a anchor="versionLogs">更新日志</a>
         </control>
     </p>
+    <chapter title="Gallery" id="gallery" collapsible="true" default-state="expanded">
+        <img alt="银色" src="xmwts3_white.png" thumbnail="true"/>
+        <img alt="黑色" src="xmwts3_black.png" thumbnail="true"/>
+        <img alt="限定色" src="xmwts3_special_colors.png" thumbnail="true"/>
+    </chapter>
 
     <chapter title="概览" id="summary">
         <p>

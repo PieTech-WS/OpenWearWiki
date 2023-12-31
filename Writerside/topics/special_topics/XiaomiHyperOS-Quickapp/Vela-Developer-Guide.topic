@@ -13,7 +13,7 @@
             同时, 页面UI、应用路由等与Vue类似.如果你使用过Vue框架, 那么HyperOS快应用开发对于你来说不会很难.
         </p>
     </chapter>
-    <chapter title="准备工作" id="preparing">
+    <chapter title="准备工作" id="preparing" collapsible="true" default-state="collapsed">
         <chapter title="系统要求" id="system-requires">
             <table>
                 <tr>
