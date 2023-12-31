@@ -86,4 +86,12 @@
         <description>Created after removal of "目录" from OpenWear Wiki</description>
         <accepts>Wiki_Index.html</accepts>
     </rule>
+    <rule id="342634ed">
+        <description><![CDATA[Created after removal of "<license.md>" from OpenWear Wiki]]></description>
+        <accepts>license.html</accepts>
+    </rule>
+    <rule id="7d1c2c9c">
+        <description>Created after removal of "许可" from OpenWear Wiki</description>
+        <accepts>LICENSE.html</accepts>
+    </rule>
 </rules>

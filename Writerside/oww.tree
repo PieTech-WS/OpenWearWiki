@@ -9,10 +9,10 @@
     <toc-element topic="info.topic"/>
     <toc-element topic="issue.md"/>
     <toc-element topic="Tasks.md"/>
+    <toc-element href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE" toc-title="许可"/>
     <toc-element toc-title="文档">
         <toc-element topic="writing_specifications.md"/>
     </toc-element>
-    <toc-element topic="license.md"/>
     <toc-element toc-title="产品百科">
         <toc-element topic="Redmi-Watch-4.topic"/>
         <toc-element topic="Xiaomi-Watch-S3.topic"/>
