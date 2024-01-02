@@ -11,7 +11,7 @@
             本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
         </note>
         <p>
-            NEXT版本(2023.12)
+            NEXT版本(2024.1)
         </p>
         <p>
             <control>(C)2023, PowerAtom知识共享计划及Wiki全体贡献者</control>
@@ -56,9 +56,10 @@
             <control>搜索服务:</control> <a href="Service-state.topic" anchor="search-service">Algolia</a>
         </p>
         <p>
-            <control>使用版本:</control> >=2023.2EAP(232.10275)
+            <control>使用版本:</control> 2023.2EAP(232.10275)
         </p>
         <chapter title="GitHub Actions" id="gh-actions" collapsible="true" default-state="collapsed">
+            <a href="https://github.com/PieTech-WS/OpenWearWiki/blob/master/.github/workflows/deploy.yml">查看Workflow文件</a>
             <list>
                 <li>actions/upload-artifact@v3</li>
                 <li>actions/checkout@v3</li>

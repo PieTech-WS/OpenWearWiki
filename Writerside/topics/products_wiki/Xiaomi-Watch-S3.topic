@@ -81,12 +81,17 @@
     </chapter>
     <chapter title="WikiNotes" id="WikiNotes" collapsible="true" default-state="expanded">
         <p>
-            版本0.1.1-2023-12-2
+            版本0.1.2-2024-1-2
         </p>
         <chapter title="贡献者" id="authors" collapsible="true" default-state="collapsed">
             <p><a href="User-2minRain.topic">@2minRain</a></p>
         </chapter>
         <chapter title="更新日志" id="versionLogs" collapsible="true" default-state="collapsed">
+            <chapter title="ver0.1.2-2024/1/2" id="0-3-2024-1-2">
+                <p>
+                    新增的产品展示图.
+                </p>
+            </chapter>
             <chapter title="ver0.1.1-2023/12/2" id="0-2-2023-12-2">
                 <p>
                     词条标准化.
