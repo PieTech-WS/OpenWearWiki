@@ -9,5 +9,5 @@
         您可以在GitHub Actions中找到最新的构建，下载 <ui-path>Artifacts | docs</ui-path> ，此压缩文件即为生成的Wiki副本。
     </p>
     <note>您可以阅读 <a href="https://www.jetbrains.com/help/writerside/local-build.html#c55a0d50_22">JetBrains官方文档</a> 获取使用此副本的方法。我们将于不久后在此加入其它方法。</note>
-    <warning>使用副本时，请遵守我们的 <a href="license.md">许可证</a> </warning>
+    <warning>使用副本时，请遵守我们的 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE">许可证</a> </warning>
 </topic>

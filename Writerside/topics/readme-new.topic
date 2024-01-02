@@ -19,7 +19,7 @@
     </note>
     <warning>
         <p>
-            在您使用/传播本项目前, 请先阅读我们的 <a href="license.md">许可证</a>.
+            在您使用/传播本项目前, 请先阅读我们的 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE">许可证</a>
         </p>
     </warning>
     <chapter title="介绍" id="readme-desc" collapsible="true" default-state="expanded">
