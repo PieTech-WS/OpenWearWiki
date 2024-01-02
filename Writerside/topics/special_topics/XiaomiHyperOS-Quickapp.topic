@@ -13,7 +13,7 @@
         <spotlight>
             <a href="issue.md"
                summary="如果发现错误，请前往反馈" type="bug"/>
-            <a href="https://iot.mi.com/vela/quickapp/zh/content/intro.html" summary="Xiaomi Vela快应用开发指南(by 2minRain)" type="development">XiaomiHyperOS(Vela快应用)开发指南</a>
+            <a href="Vela-Developer-Guide.topic" summary="Xiaomi Vela快应用开发环境准备(by 2minRain)" type="development">XiaomiHyperOS(Vela快应用)开发环境准备</a>
         </spotlight>
 
 
