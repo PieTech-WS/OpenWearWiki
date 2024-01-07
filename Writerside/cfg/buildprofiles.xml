@@ -11,6 +11,7 @@
         <variables>
             <noindex-content>false</noindex-content>
             <primary-color>aqua</primary-color>
+            <web-root>https://www.projcora.com/</web-root>
         </variables>
         <footer>
             <copyright>2023-2024, PowerAtom知识共享计划及Wiki全体贡献者, 并在PowerAtom知识共享及开源协议下发布</copyright>
