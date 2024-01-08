@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="漏洞追踪" id="bug-tracking">
+    <link-summary>
+        OpenWear Wiki 漏洞追踪
+    </link-summary>
+    <chapter title="OWW-WRS-23-01:搜索服务故障" id="oww.wrs.23.01" collapsible="true" default-state="expanded">
+        <p>
+            <control>级别</control>
+            轻微(临时解决方案已启用)(2024.1.8)
+        </p>
+        <p>
+            <control>上游反馈</control>
+            <a href="https://youtrack.jetbrains.com/issue/WRS-3625/Algolia-search-is-not-working-properly-all-results-are-pointing-to-the-start-page">Youtrack</a>
+        </p>
+        <p>
+            <control>涉及区域</control>
+            服务:
+            <a href="Service-state.topic" anchor="search-service">
+                Algolia搜索
+            </a>
+        </p>
+        <p>
+            <control>是否解决</control>
+            否
+        </p>
+        <p>
+            <control>解决方案</control>
+            (临时)更改web-root配置(2024.1.8)
+        </p>
+        <chapter title="日志" id="oww.wrs.23.01.log">
+            <chapter title="2024.1.8" id="24.1.8">
+                <p>
+                    <control>关联公告</control>
+                    暂无
+                </p>
+                <p>
+                    本次使用了Jetbrains提供的临时方案修复了搜索服务.
+                </p>
+            </chapter>
+            <chapter title="2023.12.14" id="23.12.14">
+                <p>
+                    <control>关联公告</control>
+                    <a href="info.topic" anchor="2023-12-14-1">搜索服务故障</a>
+                </p>
+                <p>
+                    测试过程中发现搜索功能无法正常使用. 分析Algolia平台日志后初步判断为Writerside内部错误并上报Jetbrains(通过Youtrack)
+                </p>
+            </chapter>
+        </chapter>
+    </chapter>
+</topic>
