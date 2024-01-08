@@ -84,6 +84,7 @@
     </toc-element>
     <toc-element topic="download.topic"/>
     <toc-element topic="about.topic">
+        <toc-element topic="bug-tracking.topic"/>
         <toc-element topic="Service-state.topic"/>
         <toc-element toc-title="作者">
             <toc-element topic="User-2minRain.topic"/>
