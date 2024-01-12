@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="内容审核(非成员)" id="content_review" help-id="CONTENT_REVIEW">
+
+    <title>
+        内容审核(非成员)
+    </title>
+    <p>(C)2024, PowerAtom知识共享计划及Wiki全体贡献者.</p>
+    <p>本规则不适用于本项目成员.如果您是本项目成员, 请查看贡献者协议(CLA).</p>
+    <chapter title="前言" id="introduction">
+        <p>我们建立此规则是为了保证项目内容与所属领域的强相关性, 并不希望此项目受到来自任何无关内容的破坏.</p>
+        <p>在您准备向此项目贡献内容(无论是何种内容)时, 请先完整阅读这些规则,并在遵守这些规则的前提下提交内容.</p>
+    </chapter>
+    <chapter title="我们希望的" id="what-we-hope">
+        <list type="decimal">
+            <li>内容与词条有很强的关联性, 且不臃肿、啰嗦.</li>
+            <li>内容客观真实,对于主观性评价做到不引战、不&quot;踩一捧一&quot;.</li>
+            <li>参数遵照事实,特殊情况需注明.</li>
+        </list>
+    </chapter>
+    <chapter title="我们不希望的" id="what-we-do-not-hope">
+        <list type="decimal">
+            <li>内容涉及政治/少数群体等的言论.</li>
+            <li>内容造假的.</li>
+            <li>贡献目的有任何商业推广性质的(注意, 此举违反了PowerAtom知识共享及开源协议).</li>
+            <li>内容&quot;引战&quot;的(包括但不限于辱骂、暗喻他人).</li>
+        </list>
+    </chapter>
+    <chapter title="如果违反.." id="punishment">
+        <p>如果你提交的内容违反了以上规则, 那么您的PR会被关闭, 您将会在接下来的三个月内不得提交PR(如果继续提交我们有权关闭PR并报告您的账户).
+            如果被再次发现, 您将会被永久禁止向此项目提交PR(您的账号也会被向GitHub报告).</p>
+    </chapter>
+
+</topic>
