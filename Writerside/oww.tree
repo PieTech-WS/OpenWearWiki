@@ -47,11 +47,6 @@
         <toc-element topic="WearOSbyGoogle.md"/>
         <toc-element topic="HarmonyOS_Watch.md"/>
         <toc-element topic="ColorOSWatch.md"/>
-        <toc-element toc-title="wiki_notes">
-            <toc-element toc-title="wearosbygoogle_authors" topic="wearosbygoogle_authors.md"/>
-            <toc-element toc-title="ZeppOS_versions" topic="ZeppOS_versions.md"/>
-            <toc-element toc-title="ZeppOS_authors" topic="ZeppOS_authors.md"/>
-        </toc-element>
     </toc-element>
     <toc-element toc-title="表格">
         <toc-element topic="WearableOS.md"/>

@@ -94,4 +94,16 @@
         <description>Created after removal of "许可" from OpenWear Wiki</description>
         <accepts>LICENSE.html</accepts>
     </rule>
+    <rule id="7ee7d3ad">
+        <description>Created after removal of "wearosbygoogle_authors" from OpenWear Wiki</description>
+        <accepts>wearosbygoogle_authors.html</accepts>
+    </rule>
+    <rule id="51a7f74c">
+        <description>Created after removal of "ZeppOS_versions" from OpenWear Wiki</description>
+        <accepts>ZeppOS_versions.html</accepts>
+    </rule>
+    <rule id="60a12cb8">
+        <description>Created after removal of "ZeppOS_authors" from OpenWear Wiki</description>
+        <accepts>ZeppOS_authors.html</accepts>
+    </rule>
 </rules>

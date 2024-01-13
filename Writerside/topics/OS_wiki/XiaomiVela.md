@@ -29,14 +29,11 @@ Xiaomi Vela一开始只是用于小米的物联网设备, 例如FIVE智能刀筷
 用于了可穿戴设备.随后使用Vela的是小米手环8 Pro, Watch S3和Redmi Watch 4.所有搭载Vela的设备均支持Vela快应用.关于Vela快应用, 详见[HyperOS应用支持](Xiaomi-Hyper-OS.topic#third-party-app-support)
 随着Xiaomi HyperOS的发布, 小米的可穿戴设备可能会长期使用Xiaomi Vela.这不失为是Vela快应用生态发展的一支强心剂.
 
-## Wiki Note
-
-版本 1.0-2023/8/18
-
-### 更新日志
-
+## WikiNotes {collapsible="true" default-state="expanded"}
+版本1.0-2023/8/18
+### 贡献者 {collapsible="true" default-state="collapsed" id="authors"}
+[yizigezi](mailto://yizigezi@outlook.com "发送邮件")
+### 更新日志 {collapsible="true" default-state="collapsed" id="versionLogs"}
 - 1.0 初始版本发布。2023/8/18
 
-### 贡献者
 
-[yizigezi](mailto://yizigezi@outlook.com "发送邮件")

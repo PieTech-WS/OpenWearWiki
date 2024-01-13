@@ -1,6 +1,6 @@
 # ZeppOS
 
-**[贡献者](ZeppOS_authors.md)**      **[更新日志](ZeppOS_versions.md)**
+**[贡献者](#authors)**      **[更新日志](#versionLogs)**
 
 > 我们需要补充此系统的【体验】部分。如果您使用过ZeppOS(非小米手环7)设备, 如果有时间, 您可以帮忙补充此部分, 让这个词条更加详细
 
@@ -50,3 +50,11 @@ ZeppOS是由华米科技基于FreeRTOS开发的一款用于可穿戴设备的实
 ZeppOS拥有一套较为完整的小程序/表盘开发框架，可基于JavaScript开发小程序和表盘并上架到ZeppOS应用商店中，并且开发文档完善。ZeppOS应用商店非常开放，支持个人开发者上传应用。
 
 开发文档：[Zepp OS Developers Documentation](https://docs.zepp.com/zh-cn/docs/intro/)
+
+## WikiNotes {collapsible="true" default-state="expanded"}
+版本0.1.0-2023-10-14
+### 贡献者 {collapsible="true" default-state="collapsed" id="authors"}
+[2minRain](User-2minRain.topic)
+### 更新日志 {collapsible="true" default-state="collapsed" id="versionLogs"}
+#### 1.0-2023/10/14
+初始版本发布.2024.1.13更新WikiNotes

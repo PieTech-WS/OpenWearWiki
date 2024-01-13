@@ -1,6 +1,6 @@
 # Wear OS by Google(Android Wear)
 
-**[贡献者](wearosbygoogle_authors.md)**
+**[贡献者](#authors)**  **[更新日志](#versionLogs)**
 
 Wear OS by Google(曾用名Android Wear)是由Google LLC开发的智能可穿戴设备操作系统，基于Android。
 
@@ -71,3 +71,12 @@ Wear OS通常有以下界面(以小米手表，Wear OS 2.27为例):
 ## 注释
 
 1.小米为何没有切换为自己的服务器, 请看[设备Wiki中小米手表](XiaomiWatch.md)的情报站一节。
+
+
+## WikiNotes {collapsible="true" default-state="expanded"}
+版本0.1.0-UnknownTime
+### 贡献者 {collapsible="true" default-state="collapsed" id="authors"}
+[2minRain](User-2minRain.topic)
+### 更新日志 {collapsible="true" default-state="collapsed" id="versionLogs"}
+#### 0.1.0
+初始版本发布.2024.1.13日更新WikiNotes
