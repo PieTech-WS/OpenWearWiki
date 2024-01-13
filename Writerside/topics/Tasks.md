@@ -1,7 +1,2 @@
 # Tasks
-
-
-* [x] 完全启用Writerside
-* [ ] 完善操作系统Wiki
-* ~~[ ] 完善Wiki编写工具~~
-* [ ] Wiki客户端
+- 更新所有词条的WikiNotes并同步至CF构建
