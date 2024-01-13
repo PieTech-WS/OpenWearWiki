@@ -1,5 +1,5 @@
 # OpenWearWiki
-![](./banner_large.png)
+![](./banner_next.png)
 欢迎来到OpenWear Wiki~
 
 本仓库存有OpenWear Wiki NEXT版本的源代码，使用Writerside构建。Actions中有生成好的HTML版本。
