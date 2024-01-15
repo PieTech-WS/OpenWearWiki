@@ -15,6 +15,7 @@
         <toc-element topic="writing_specifications.md"/>
     </toc-element>
     <toc-element toc-title="产品百科">
+        <toc-element topic="vivo-WATCH-2.topic"/>
         <toc-element topic="Redmi-Watch-4.topic"/>
         <toc-element topic="Xiaomi-Watch-S3.topic"/>
         <toc-element topic="XiaomiWatch2ProInternational.md"/>

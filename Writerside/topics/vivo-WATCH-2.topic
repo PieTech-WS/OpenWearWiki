@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="vivo WATCH 2" id="vivo-WATCH-2">
+
+    <note>很抱歉哈哈本来这块表是这个项目的起源结果现在才来发</note>
+    <chapter title="Gallery" id="Gallery" collapsible="true" default-state="expanded">
+        <img alt="vivoWATCH2_1.png" src="vivoWATCH2_1.png" thumbnail="true"/>
+        <img alt="vivoWATCH2_2.png" src="vivoWATCH2_2.png" thumbnail="true"/>
+        <img alt="vivoWATCH2_3.png" src="vivoWATCH2_3.png" thumbnail="true"/>
+        <note>
+            图片来自vivo官方商城.
+        </note>
+    </chapter>
+    <chapter title="概览" id="Summary" collapsible="true" default-state="expanded">
+        <p>
+            vivo WATCH 2是vivo于2021年12月22日发布的搭载PersimWearOS的智能手表。
+        </p>
+        <note>
+            针对此设备操作系统的开放性评级, 请见 <a href="WearableOS.md">表格/可穿戴设备操作系统</a>
+        </note>
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>参数</td>
+            </tr>
+            <tr>
+                <td>型号</td>
+                <td>WA2156A</td>
+            </tr>
+            <tr>
+                <td>尺寸</td>
+                <td>直径:46mm;厚度:10.95mm(不含心率凸台)</td>
+            </tr>
+            <tr>
+                <td>屏幕</td>
+                <td>1.434英寸;AMOLED</td>
+            </tr>
+            <tr>
+                <td>重量</td>
+                <td>78.5g(含电池)</td>
+            </tr>
+            <tr>
+                <td>电池</td>
+                <td>501mAh(锂电池), 充电接口为磁吸充电式</td>
+            </tr>
+            <tr>
+                <td>振动</td>
+                <td>转子马达</td>
+            </tr>
+            <tr>
+                <td>处理器平台</td>
+                <td>恒玄BES2500BP;紫光W117低功耗LTE平台</td>
+            </tr>
+            <tr>
+                <td>数据连接</td>
+                <td>蓝牙:BT5.2,BLE;NFC:支持;移动数据:支持LTE(eSIM).</td>
+            </tr>
+            <tr>
+                <td>定位</td>
+                <td>支持4种卫星定位系统(具体未知)</td>
+            </tr>
+            <tr>
+                <td>操作系统</td>
+                <td>PersimWearOS(RT-Thread)</td>
+            </tr>
+            <tr>
+                <td>可用存储</td>
+                <td>2GB(用于音乐存储)</td>
+            </tr>
+            <tr>
+                <td>防水</td>
+                <td>5ATM</td>
+            </tr>
+        </table>
+        <chapter title="扩展参数" id="extra-info" collapsible="true" default-state="collapsed">
+            <note>内容来自电信产品介绍文档</note>
+            <table>
+                <tr>
+                    <td>项目</td>
+                    <td>参数</td>
+                </tr>
+                <tr>
+                    <td>存储</td>
+                    <td>ROM:4000MB;Flash:1700MB</td>
+                </tr>
+                <tr>
+                    <td>内存</td>
+                    <td>32MB</td>
+                </tr>
+                <tr>
+                    <td>LTE平台</td>
+                    <td>基带:USM9117-L(紫光W117方案)</td>
+                </tr>
+                <tr>
+                    <td>网络支持</td>
+                    <td><control>WCDMA</control> B1/B5/B8; <control>TDD-LTE</control> B34/B38/B39/B40/B41; <control>LTE-FDD</control> B1/3/5/20</td>
+                </tr>
+                <tr>
+                    <td>LTE语音</td>
+                    <td>VoLTE;CSFB;EPS FB.漫游同上</td>
+                </tr>
+                <tr>
+                    <td>LTE频段</td>
+                    <td>B1/3/5/8/20;B34/B38/B39/B40/B41</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+</topic>
