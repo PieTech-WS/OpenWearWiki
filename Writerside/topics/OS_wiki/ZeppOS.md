@@ -56,5 +56,5 @@ ZeppOS拥有一套较为完整的小程序/表盘开发框架，可基于JavaScr
 ### 贡献者 {collapsible="true" default-state="collapsed" id="authors"}
 [2minRain](User-2minRain.topic)
 ### 更新日志 {collapsible="true" default-state="collapsed" id="versionLogs"}
-#### 1.0-2023/10/14
+#### ver1.0-2023/10/14 {id="0-1-2023-10-14"}
 初始版本发布.2024.1.13更新WikiNotes

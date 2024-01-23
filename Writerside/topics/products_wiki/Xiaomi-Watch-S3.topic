@@ -8,9 +8,14 @@
         Xiaomi Watch S3
     </link-summary>
     <p>
-        <control><a anchor="authors">贡献者</a> <a anchor="versionLogs">更新日志</a>
+        <control>
+            <a anchor="authors">贡献者</a>
+            <a anchor="versionLogs">更新日志</a>
         </control>
     </p>
+    <tip>
+        标准名称:Xiaomi Watch S3; Xiaomi手表S3.
+    </tip>
     <chapter title="Gallery" id="gallery" collapsible="true" default-state="expanded">
         <img alt="银色" src="xmwts3_white.png" thumbnail="true"/>
         <img alt="黑色" src="xmwts3_black.png" thumbnail="true"/>

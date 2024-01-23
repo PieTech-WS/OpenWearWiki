@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="可穿戴设备-手表" id="Wearables-Watch">
+
+    <chapter title="Xiaomi/小米" id="Xiaomi" collapsible="true" default-state="collapsed">
+        <table>
+            <tr>
+                <td>设备系列</td>
+                <td>名称</td>
+            </tr>
+            <tr>
+                <td>小米手表</td>
+                <td><a href="XiaomiWatch.md"/></td>
+            </tr>
+            <tr>
+                <td>小米手表Color</td>
+                <td>小米手表Color</td>
+            </tr>
+            <tr>
+                <td>小米手表Color</td>
+                <td>小米手表Color运动版</td>
+            </tr>
+            <tr>
+                <td>小米手表Color</td>
+                <td>小米手表Color2</td>
+            </tr>
+            <tr>
+                <td>Xiaomi Watch S</td>
+                <td>Xiaomi Watch S1(Xiaomi手表S1)</td>
+            </tr>
+            <tr>
+                <td>Xiaomi Watch S</td>
+                <td>Xiaomi Watch S1 Pro(Xiaomi手表S1 Pro)</td>
+            </tr>
+            <tr>
+                <td>Xiaomi Watch S</td>
+                <td>Xiaomi Watch S2(Xiaomi手表S2)</td>
+            </tr>
+            <tr>
+                <td>Xiaomi Watch S</td>
+                <td>Xiaomi Watch S3(Xiaomi手表S3)</td>
+            </tr>
+            <tr>
+                <td>Redmi Watch</td>
+                <td>Redmi Watch(Redmi手表1)</td>
+            </tr>
+            <tr>
+                <td>Redmi Watch</td>
+                <td>Redmi Watch 2(Redmi手表2)</td>
+            </tr>
+            <tr>
+                <td>Redmi Watch</td>
+                <td>Redmi Watch 2 Lite(Redmi手表2Lite)</td>
+            </tr>
+            <tr>
+                <td>Redmi Watch</td>
+                <td>Redmi Watch 3(Redmi手表3)</td>
+            </tr>
+            <tr>
+                <td>Redmi Watch</td>
+                <td>Redmi Watch 4(Redmi手表4)</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="OPPO" id="OPPO" collapsible="true" default-state="collapsed">
+        <table>
+            <tr>
+                <td>设备系列</td>
+                <td>名称</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch数字系列</td>
+                <td>OPPO Watch</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch数字系列</td>
+                <td>OPPO Watch 2</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch数字系列</td>
+                <td>OPPO Watch 2 ECG</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch数字系列</td>
+                <td>OPPO Watch 3</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch数字系列</td>
+                <td>OPPO Watch 3 Pro</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch SE</td>
+                <td>OPPO Watch SE</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch数字系列</td>
+                <td>OPPO Watch 4</td>
+            </tr>
+            <tr>
+                <td>OPPO Watch数字系列</td>
+                <td>OPPO Watch 4 Pro</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="HUAWEI/华为" id="HUAWEI" collapsible="true" default-state="collapsed">
+        <table>
+            <tr>
+                <td>设备系列</td>
+                <td>名称</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch数字系列</td>
+                <td>HUAWEI Watch</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch数字系列</td>
+                <td>HUAWEI Watch 2</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch数字系列</td>
+                <td>HUAWEI Watch 3</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch数字系列</td>
+                <td>HUAWEI Watch 3 Pro</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch数字系列</td>
+                <td>HUAWEI Watch 3 Pro new(GLL-AL09)</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch数字系列</td>
+                <td>HUAWEI Watch 4</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch数字系列</td>
+                <td>HUAWEI Watch 4 Pro</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch Fit</td>
+                <td>HUAWEI Watch Fit</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch Fit</td>
+                <td>HUAWEI Watch Fit 2</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch GT</td>
+                <td>HUAWEI Watch GT</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch GT</td>
+                <td>HUAWEI Watch GT 2</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch GT</td>
+                <td>HUAWEI Watch GT 2 Pro</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch GT</td>
+                <td>HUAWEI Watch GT 3</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch GT</td>
+                <td>HUAWEI Watch GT 3 Pro</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch GT</td>
+                <td>HUAWEI Watch GT</td>
+            </tr>
+            <tr>
+                <td>HUAWEI Watch GT</td>
+                <td>HUAWEI Watch GT Cyber</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="vivo" id="vivo" collapsible="true" default-state="collapsed">
+        <table>
+            <tr>
+                <td>设备系列</td>
+                <td>名称</td>
+            </tr>
+            <tr>
+                <td>vivo WATCH 数字系列</td>
+                <td>vivo WATCH</td>
+            </tr>
+            <tr>
+                <td>vivo WATCH 数字系列</td>
+                <td>vivo WATCH 2</td>
+            </tr>
+            <tr>
+                <td>vivo WATCH 数字系列</td>
+                <td>vivo WATCH 3</td>
+            </tr>
+        </table>
+    </chapter>
+</topic>

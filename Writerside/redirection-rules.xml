@@ -106,4 +106,8 @@
         <description>Created after removal of "ZeppOS_authors" from OpenWear Wiki</description>
         <accepts>ZeppOS_authors.html</accepts>
     </rule>
+    <rule id="36bf3847">
+        <description>Created after removal of "手表产品列表" from OpenWear Wiki</description>
+        <accepts>Watch-List.html</accepts>
+    </rule>
 </rules>

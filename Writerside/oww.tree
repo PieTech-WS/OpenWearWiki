@@ -50,6 +50,7 @@
         <toc-element topic="ColorOSWatch.md"/>
     </toc-element>
     <toc-element toc-title="表格">
+        <toc-element topic="Wearables-Watch.topic"/>
         <toc-element topic="WearableOS.md"/>
     </toc-element>
     <toc-element toc-title="指南">
