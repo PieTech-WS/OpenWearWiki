@@ -7,9 +7,9 @@
 
     <p>
         <control>
-            <a href="Tasks.md">Tasks</a>
-            <a href="issue.md">反馈</a>
-            <a href="about.topic">关于</a>
+            <a href="Tasks.md"/>
+            <a href="issue.md"/>
+            <a href="about.topic"/>
         </control>
     </p>
     <img alt="banner_next.png" src="banner_next.png"/>
