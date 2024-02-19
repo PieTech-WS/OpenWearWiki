@@ -57,7 +57,7 @@
             <control>搜索服务:</control> <a href="Service-state.topic" anchor="search-service">Algolia</a>
         </p>
         <p>
-            <control>使用版本:</control> 2023.2EAP(232.10275)
+            <control>使用版本:</control> 2023.3EAP(233.14389)
         </p>
         <chapter title="GitHub Actions" id="gh-actions" collapsible="true" default-state="collapsed">
             <a href="https://github.com/PieTech-WS/OpenWearWiki/blob/master/.github/workflows/deploy.yml">查看Workflow文件</a>
@@ -70,7 +70,7 @@
                 <li>montudor/action-zip@v1</li>
                 <li>JetBrains/writerside-github-action@v4</li>
                 <li>registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-2</li>
-                <li>Docker Image Version(Updated on 23/12/19):233.4797</li>
+                <li>Docker Image Version(Updated on 24/2/20):233.14389</li>
             </list>
         </chapter>
     </chapter>

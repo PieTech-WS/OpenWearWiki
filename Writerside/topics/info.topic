@@ -4,7 +4,24 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
-    <chapter title="搜索服务已恢复-2024.1.8" id="2024-1-8-1" collapsible="true" default-state="expanded">
+    <chapter title="版本更新-2024.2.20" id="2024-2-20-1" collapsible="true" default-state="expanded">
+        <p>
+            本次版本更新内容:
+        </p>
+        <list>
+            <li>新增 <ui-path>表格 | 可穿戴设备-手表</ui-path> , 我们在此收录智能手表的型号. <control><a href="Wearables-Watch.topic">查看</a></control></li>
+            <li>GitHub Action的Docker镜像版本已更新至233.14389.</li>
+            <li>Cloudflare/R-Mirror将在不久后更新.</li>
+            <li>我们将随着PowerAtom知识共享并开源许可(版本2)的发布而更改OpenWear Wiki的许可.</li>
+        </list>
+        <p>
+            新年快乐a
+        </p>
+        <p>
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
+        </p>
+    </chapter>
+    <chapter title="搜索服务已恢复-2024.1.8" id="2024-1-8-1" collapsible="true" default-state="collapsed">
         <p>
             已使用Jetbrains提供的临时解决方案进行更改. 搜索服务已临时恢复正常.
         </p>
