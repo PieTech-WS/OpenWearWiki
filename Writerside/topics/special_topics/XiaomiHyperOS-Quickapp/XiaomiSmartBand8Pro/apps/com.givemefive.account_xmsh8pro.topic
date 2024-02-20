@@ -15,6 +15,6 @@
         应用包名:com.givemefive.account(用于Debug方式卸载应用)
     </note>
     <chapter title="Gallery" id="Gallery" collapsible="true" default-state="expanded">
-        <img alt="xnsh8pro-apps-gmfaccount.png" src="xnsh8pro-apps-gmfaccount.png" thumbnail="true"/>
+        <img alt="xnsh8pro-apps-gmfaccount.png" src="xmsh8pro-apps-gmfaccount.png" thumbnail="true"/>
     </chapter>
 </topic>
