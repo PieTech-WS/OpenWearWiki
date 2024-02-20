@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="简约记账" id="com.givemefive.account_xmsh8pro" help-id="com.givemefive.account">
+
+    <p>
+        <control>
+            <a href="https://www.bandbbs.cn/threads/7727/">快速下载(前往米坛社区)</a>
+            <a href="issue.md">词条报错</a>
+        </control>
+    </p>
+    <note>
+        应用包名:com.givemefive.account(用于Debug方式卸载应用)
+    </note>
+    <chapter title="Gallery" id="Gallery" collapsible="true" default-state="expanded">
+        <img alt="xnsh8pro-apps-gmfaccount.png" src="xnsh8pro-apps-gmfaccount.png" thumbnail="true"/>
+    </chapter>
+</topic>

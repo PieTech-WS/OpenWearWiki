@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="计算器" id="com.neoruaa.caculator_xmsh8pro" help-id="com.neoruaa.caculator">
+
+    <p>
+        <control>
+            <a href="https://www.bandbbs.cn/resources/1710/">快速下载(前往米坛社区)</a>
+            <a href="issue.md">词条报错</a>
+        </control>
+    </p>
+    <note>
+        应用包名:com.neoruaa.calculator
+    </note>
+    <chapter title="Gallery" id="Gallery" collapsible="true" default-state="expanded">
+        <img alt="xmsh8pro-apps-neocalculator.png" src="xmsh8pro-apps-neocalculator.png" thumbnail="true"/>
+    </chapter>
+</topic>
