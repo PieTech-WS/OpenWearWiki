@@ -17,5 +17,12 @@
     <chapter title="Gallery" id="Gallery" collapsible="true" default-state="expanded">
         <img alt="xmsh8pro-apps-baidumap.png" src="xmsh8pro-apps-baidumap.png" thumbnail="true"/>
     </chapter>
-
+    <chapter title="信息" id="Information" collapsible="true" default-state="expanded">
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>内容</td>
+            </tr>
+        </table>
+    </chapter>
 </topic>

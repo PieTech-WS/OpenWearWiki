@@ -17,4 +17,32 @@
     <chapter title="Gallery" id="Gallery" collapsible="true" default-state="expanded">
         <img alt="xmsh8pro-apps-neocalculator.png" src="xmsh8pro-apps-neocalculator.png" thumbnail="true"/>
     </chapter>
+    <chapter title="信息" id="Information" collapsible="true" default-state="expanded">
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>内容</td>
+            </tr>
+            <tr>
+                <td>名称</td>
+                <td>计算器</td>
+            </tr>
+            <tr>
+                <td>分类</td>
+                <td>实用工具</td>
+            </tr>
+            <tr>
+                <td>作者</td>
+                <td>NEORUAA；乐色桶；无源流沙</td>
+            </tr>
+            <tr>
+                <td>介绍视频</td>
+                <td><a href="https://www.bilibili.com/video/BV19u4y197W7">「小米手环8Pro」VelaOS快应用 计算器</a></td>
+            </tr>
+            <tr>
+                <td>最近更新</td>
+                <td>2023.8.20</td>
+            </tr>
+        </table>
+    </chapter>
 </topic>
