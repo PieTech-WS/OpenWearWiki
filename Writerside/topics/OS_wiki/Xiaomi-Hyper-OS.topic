@@ -7,14 +7,15 @@
     <link-summary>
         Xiaomi HyperOS的可穿戴设备版本
     </link-summary>
+    <a href="XiaomiHyperOS-Quickapp.topic" summary="Xiaomi HyperOS可穿戴设备快应用专题"/>
     <chapter title="概览" id="summary">
+        <img alt="hyperos_banner.png" src="hyperos_banner.png"/>
         <note>
             此处主要介绍其在可穿戴设备上的应用.
         </note>
         <note>
-            Xiaomi HyperOS的可穿戴设备版本基于Xiaomi Vela.
+            Xiaomi HyperOS的可穿戴设备版本基于 <a href="XiaomiVela.md">Xiaomi Vela</a>.
         </note>
-        <img alt="hyperos_banner.png" src="hyperos_banner.png"/>
         Xiaomi HyperOS是小米公司发布的操作系统.覆盖手机、平板、手表和汽车等产品.
         <table>
             <tr>

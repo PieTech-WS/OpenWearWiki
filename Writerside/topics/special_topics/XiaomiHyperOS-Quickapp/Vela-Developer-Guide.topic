@@ -124,6 +124,9 @@
                 </chapter>
             </chapter>
             <chapter title="方案2.直接使用DevelaOS" id="develaos">
+                <warning>
+                    最近咱没怎么更新DevelaOS了, 不知道还有木有问题awa
+                </warning>
                 安装请查看 <a href="https://www.projcora.club/DevelaIDE/how-to-install.html">DevelaOS官方文档</a>
                 <tip>
                     你需要先在 <a href="https://afdian.net/a/2minrain">爱发电</a> 获取Q群号并加入(无需捐赠)

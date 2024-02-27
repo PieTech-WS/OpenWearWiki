@@ -11,16 +11,17 @@
             本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
         </note>
         <p>
-            NEXT版本(2024.1-SERVICE0.1.1)
+            NEXT版本(2024.2-SERVICE0.1.1)
         </p>
         <p>
             <control>(C)2023-2024, PowerAtom知识共享计划及Wiki全体贡献者</control>
             本项目是PowerAtom 知识共享计划的组成部分, 在
             <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE">
-                PowerAtom 知识共享及开源协议
+                PowerAtom 知识共享并开源许可(版本2)
             </a>
             下发布.
         </p>
+        <p>由 PowerAtom开源行政 管理</p>
     </chapter>
     <chapter title="贡献者" id="about-authors" collapsible="true" default-state="expanded">
         <deflist default-state="expanded">

@@ -4,7 +4,8 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
-    <chapter title="版本更新-2024.2.20" id="2024-2-20-1" collapsible="true" default-state="expanded">
+    <chapter title="2024.2版本发布-2024.2.20" id="latest" collapsible="true" default-state="expanded">
+        <p>公告编号:2024-2-20-1</p>
         <p>
             本次版本更新内容:
         </p>

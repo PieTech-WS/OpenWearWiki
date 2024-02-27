@@ -13,11 +13,14 @@
         </control>
     </p>
     <img alt="banner_next.png" src="banner_next.png"/>
-    <warning>
-        <p>
-            我们的开源许可已更新.查看 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE">许可证</a>
-        </p>
-    </warning>
+    <chapter title="最新公告" id="announcement">
+        <warning>
+            <p>
+                我们的开源许可已更新.查看 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE">许可证</a>
+            </p>
+        </warning>
+        <a href="info.topic" anchor="latest"/>
+    </chapter>
     <chapter title="介绍" id="readme-desc" collapsible="true" default-state="expanded">
         <p>
             本项目旨在为可穿戴设备创建一个Wiki，对可穿戴设备相关方面的知识进行归纳，包括但不限于其操作系统、处理器、健康监测功能等的介绍。
