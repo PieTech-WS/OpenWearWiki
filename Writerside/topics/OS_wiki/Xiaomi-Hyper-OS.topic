@@ -122,7 +122,7 @@
                     </def>
                     <def title="环境要求">
                         <control>操作系统</control>
-                         Ubuntu 20.04LTS(虚拟机, 实体机, WSL均可)
+                         Ubuntu 20.04LTS(虚拟机, 实体机, WSL均可), <control>目前我们实验性地尝试了ArchLinux, 可以使用</control>
                     </def>
                 </deflist>
                 <warning>

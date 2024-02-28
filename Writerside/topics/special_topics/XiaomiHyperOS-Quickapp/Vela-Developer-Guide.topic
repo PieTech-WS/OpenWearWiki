@@ -22,7 +22,7 @@
                 </tr>
                 <tr>
                     <td>操作系统</td>
-                    <td>Ubuntu 20.04LTS(WSL, 虚拟机, 实体机均可.Windows, macOS暂不支持)</td>
+                    <td>Ubuntu 20.04LTS(WSL, 虚拟机, 实体机均可.Windows, macOS暂不支持), <control>目前我们实验性地尝试了ArchLinux, 可以使用</control></td>
                 </tr>
             </table>
         </chapter>
