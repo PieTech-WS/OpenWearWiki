@@ -22,116 +22,135 @@
                 </tr>
                 <tr>
                     <td>操作系统</td>
-                    <td>Ubuntu 20.04LTS(WSL, 虚拟机, 实体机均可.Windows, macOS暂不支持), <control>目前我们实验性地尝试了ArchLinux, 可以使用</control></td>
+                    <td>Ubuntu 20.04LTS(WSL, 虚拟机, 实体机均可), Windows, macOS, <control>目前我们实验性地尝试了ArchLinux, 可以使用</control></td>
                 </tr>
             </table>
         </chapter>
         <chapter title="环境安装" id="environment-installing">
-            <chapter title="方案1.根据官方方法汇总" id="official-guide">
-                <chapter title="安装依赖" id="requires">
-                    <code-block lang="bash">
-                        # Ubuntu重定位到清华的镜像源，提高下载速度
-                        sudo sed -i'.bak' 's,/[a-z]*.ubuntu.com,/mirrors.tuna.tsinghua.edu.cn,' /etc/apt/sources.list
+            <chapter title="Ubuntu" id="Installation-Ubuntu" collapsible="true" default-state="collapsed">
+                    <chapter title="安装依赖" id="requires">
+                        <code-block lang="bash">
+                            # Ubuntu重定位到清华的镜像源，提高下载速度
+                            sudo sed -i'.bak' 's,/[a-z]*.ubuntu.com,/mirrors.tuna.tsinghua.edu.cn,' /etc/apt/sources.list
 
-                        sudo dpkg --add-architecture i386
-                        sudo apt-get -y update
-                        sudo apt-get -y install autoconf automake bison build-essential dfu-util genromfs flex git gperf
-                        sudo apt-get -y install libncurses5 lib32ncurses5-dev libc6-dev-i386 libx11-dev libx11-dev:i386 libxext-dev
-                        sudo apt-get -y install libxext-dev:i386 net-tools pkgconf unionfs-fuse zlib1g-dev
+                            sudo dpkg --add-architecture i386
+                            sudo apt-get -y update
+                            sudo apt-get -y install autoconf automake bison build-essential dfu-util genromfs flex git gperf
+                            sudo apt-get -y install libncurses5 lib32ncurses5-dev libc6-dev-i386 libx11-dev libx11-dev:i386 libxext-dev
+                            sudo apt-get -y install libxext-dev:i386 net-tools pkgconf unionfs-fuse zlib1g-dev
 
-                        # Ubuntu20.04安装gcc-11需要添加源
-                        sudo apt-get -y install software-properties-common
-                        sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
-                        sudo apt-get update &amp;&amp; sudo apt-get -y upgrade
+                            # Ubuntu20.04安装gcc-11需要添加源
+                            sudo apt-get -y install software-properties-common
+                            sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
+                            sudo apt-get update &amp;&amp; sudo apt-get -y upgrade
 
-                        # 切换国内源安装速度比较快
-                        sudo sed -i "s/http:\/\/ppa.launchpad.net/https:\/\/launchpad.proxy.ustclug.org/g" /etc/apt/sources.list.d/*.list
-                        sudo apt-get update &amp;&amp; sudo apt-get -y upgrade
-                        sudo apt-get install -y gcc-11 g++-11 g++-11-multilib
+                            # 切换国内源安装速度比较快
+                            sudo sed -i "s/http:\/\/ppa.launchpad.net/https:\/\/launchpad.proxy.ustclug.org/g" /etc/apt/sources.list.d/*.list
+                            sudo apt-get update &amp;&amp; sudo apt-get -y upgrade
+                            sudo apt-get install -y gcc-11 g++-11 g++-11-multilib
 
-                        sudo apt-get -y install kconfig-frontends
-                        sudo apt-get -y install libpulse-dev:i386
-                        sudo apt-get -y install libasound2-dev:i386
-                        sudo apt-get -y install libasound2-plugins:i386
-                        sudo apt-get -y install libusb-1.0-0-dev
-                        sudo apt-get -y install libusb-1.0-0-dev:i386
-                        sudo apt-get -y install libmad0-dev:i386
-                        sudo apt-get -y install libv4l-dev libv4l-dev:i386
-                        sudo apt-get -y install libuv1-dev
-                        sudo apt-get -y install libmp3lame-dev:i386 libmad0-dev:i386 libv4l-dev:i386
+                            sudo apt-get -y install kconfig-frontends
+                            sudo apt-get -y install libpulse-dev:i386
+                            sudo apt-get -y install libasound2-dev:i386
+                            sudo apt-get -y install libasound2-plugins:i386
+                            sudo apt-get -y install libusb-1.0-0-dev
+                            sudo apt-get -y install libusb-1.0-0-dev:i386
+                            sudo apt-get -y install libmad0-dev:i386
+                            sudo apt-get -y install libv4l-dev libv4l-dev:i386
+                            sudo apt-get -y install libuv1-dev
+                            sudo apt-get -y install libmp3lame-dev:i386 libmad0-dev:i386 libv4l-dev:i386
 
-                        sudo apt-get -y install xxd
-                        sudo apt-get -y install qemu-system-arm qemu-efi-aarch64 qemu-utils
-                        sudo apt-get -y install nasm yasm
-                        sudo apt-get -y install libdivsufsort-dev
-                        sudo apt-get -y install libc++-dev libc++abi-dev
-                        sudo apt-get install -y libprotobuf-dev protobuf-compiler protobuf-c-compiler
-                        sudo apt-get -y install gcc-multilib g++-multilib
-                    </code-block>
-                    <note>
-                        将其写入一个.sh文件进行安装会更加方便.同时也可以运行以下命令(确保您的系统内有curl)
-                        <code lang="bash">
-                            curl -o- https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/DevelaIDE/docker/install.sh | sudo bash
-                        </code>
-                    </note>
-                </chapter>
-                <chapter title="安装nvm与Node.js并配置" id="node.js-config">
-                    <note>
-                        你可以参考nvm官方的方法进行安装, 此处对官方的安装方法有所改进.
-                    </note>
-                    <tip>
-                        此处的nvm安装脚本仅仅是加入了对GHPROXY的支持, 不属于CTWS.APA.
-                    </tip>
-                    <p>
-                        运行以下命令安装nvm:
-                    </p>
-                    <code-block lang="bash">
-                        curl -o- https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/DevelaIDE/docker/nvm_install.sh | sudo bash
-                    </code-block>
-                    <p>安装后运行以下命令以安装Node.JS 18.0.0(运行前, 最好使用source命令应用.bashrc或.zshrc)</p>
-                    <code-block lang="bash">
-                        nvm install 18.0.0
-                    </code-block>
-                    <p>
-                        并使用以下命令对npm进行配置
-                    </p>
-                    <code-block lang="bash">
-                        npm config set registry https://registry.npmmirror.com
-                        npm config set sharp_binary_host "https://npmmirror.com/mirrors/sharp"
-                        npm config set sharp_libvips_binary_host "https://npmmirror.com/mirrors/sharp-libvips"
-                    </code-block>
-                </chapter>
-                <chapter title="安装aiot-ide并配置" id="install-ide">
-                    <tip>
-                        无需在官方那里下载安装包安装
-                    </tip>
-                    <code-block lang="bash">
-                        sudo apt install aiot-ide
-                    </code-block>
-                    <p>即可</p>
-                    <warning>由于最新的AIoT-ide的插件存在问题, 需要在安装后进行降级.</warning>
-                    <p>在aiot-ide的插件页面, 对 <control>aiot-ide-banner(降级至v1.0.16)</control> 以及 <control>aiot-ide-project(降级至v1.0.3)</control> 进行降级.</p>
-                    <p>示例:</p>
-                    <img alt="vela-dev-guide-1.png" src="vela-dev-guide-1.png" thumbnail="true"/>
-                    <img alt="vela-dev-guide-2.png" src="vela-dev-guide-2.png" thumbnail="true"/>
-                    <p>重新启动aiot-ide后, 你就可以在 <ui-path>文件 | 新建项目 | Vela</ui-path> 中创建项目啦(中文自行解决嗷, 和VSCode方法一模一样)</p>
-                    <p>
-                        如果您是WSL, 那么为了方便(不踩坑), 你也可以在这里下载项目模板, 直接在模板上修改代码开始开发.
-                    </p>
-                    <p>
-                        <a href="https://tlyhb-my.sharepoint.com/:u:/g/personal/2minrain_poweratom_onmicrosoft_com/EZ0n9zg45oRIm5lVEUpKY4YBrWX9Bx4cPf8gqfpIXdnuwA?e=vExrkb">下载模板</a>
-                    </p>
+                            sudo apt-get -y install xxd
+                            sudo apt-get -y install qemu-system-arm qemu-efi-aarch64 qemu-utils
+                            sudo apt-get -y install nasm yasm
+                            sudo apt-get -y install libdivsufsort-dev
+                            sudo apt-get -y install libc++-dev libc++abi-dev
+                            sudo apt-get install -y libprotobuf-dev protobuf-compiler protobuf-c-compiler
+                            sudo apt-get -y install gcc-multilib g++-multilib
+                        </code-block>
+                        <note>
+                            将其写入一个.sh文件进行安装会更加方便.同时也可以运行以下命令(确保您的系统内有curl)
+                            <code lang="bash">
+                                curl -o- https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/DevelaIDE/docker/install.sh | sudo bash
+                            </code>
+                        </note>
+                    </chapter>
+                    <chapter title="安装nvm与Node.js并配置" id="node.js-config">
+                        <note>
+                            你可以参考nvm官方的方法进行安装, 此处对官方的安装方法有所改进.
+                        </note>
+                        <tip>
+                            此处的nvm安装脚本仅仅是加入了对GHPROXY的支持, 不属于CTWS.APA.
+                        </tip>
+                        <p>
+                            运行以下命令安装nvm:
+                        </p>
+                        <code-block lang="bash">
+                            curl -o- https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/DevelaIDE/docker/nvm_install.sh | sudo bash
+                        </code-block>
+                        <p>安装后运行以下命令以安装Node.JS 18.0.0(运行前, 最好使用source命令应用.bashrc或.zshrc)</p>
+                        <code-block lang="bash">
+                            nvm install 18.0.0
+                        </code-block>
+                        <p>
+                            并使用以下命令对npm进行配置
+                        </p>
+                        <code-block lang="bash">
+                            npm config set registry https://registry.npmmirror.com
+                            npm config set sharp_binary_host "https://npmmirror.com/mirrors/sharp"
+                            npm config set sharp_libvips_binary_host "https://npmmirror.com/mirrors/sharp-libvips"
+                        </code-block>
+                    </chapter>
+                    <chapter title="安装aiot-ide并配置" id="install-ide">
+                        <tip>
+                            无需在官方那里下载安装包安装
+                        </tip>
+                        <code-block lang="bash">
+                            sudo apt install aiot-ide
+                        </code-block>
+                        <p>即可</p>
+                        <warning>由于最新的AIoT-ide的插件存在问题, 需要在安装后进行降级.</warning>
+                        <p>在aiot-ide的插件页面, 对 <control>aiot-ide-banner(降级至v1.0.16)</control> 以及 <control>aiot-ide-project(降级至v1.0.3)</control> 进行降级.</p>
+                        <p>示例:</p>
+                        <img alt="vela-dev-guide-1.png" src="vela-dev-guide-1.png" thumbnail="true"/>
+                        <img alt="vela-dev-guide-2.png" src="vela-dev-guide-2.png" thumbnail="true"/>
+                        <p>重新启动aiot-ide后, 你就可以在 <ui-path>文件 | 新建项目 | Vela</ui-path> 中创建项目啦(中文自行解决嗷, 和VSCode方法一模一样)</p>
+                        <p>
+                            如果您是WSL, 那么为了方便(不踩坑), 你也可以在这里下载项目模板, 直接在模板上修改代码开始开发.
+                        </p>
+                        <p>
+                            <a href="https://tlyhb-my.sharepoint.com/:u:/g/personal/2minrain_poweratom_onmicrosoft_com/EZ0n9zg45oRIm5lVEUpKY4YBrWX9Bx4cPf8gqfpIXdnuwA?e=vExrkb">下载模板</a>
+                        </p>
+                    </chapter>
+            </chapter>
+            <chapter title="Windows/macOS" id="Installation-Win-mac" collapsible="true" default-state="collapsed">
+                <chapter title="下载并安装AIoT-IDE" id="installing-ide">
+                    <a href="https://kpan.mioffice.cn/webfolder/ext/iYJr4hwMLio%40?n=0.9540765531536342">下载AIoT-IDE</a>
+                    <tip>密码:RS85</tip>
+                    <deflist>
+                        <def title="Windows">
+                            下载好安装包后, 运行并安装AIoT-IDE即可.
+                        </def>
+                        <def title="macOS">
+                            <p>
+                            请在下载前根据您的mac处理器类型选择安装包.如果你的mac是M系列处理器, 那么请选择"aiot-ide_x.x.x_mac_arm.zip",
+                            反之请选择"aiot-ide_x.x.x_mac_x86.zip".
+                            </p>
+                            <p>
+                                下载得到的zip文件解压后, 将其中的Aiot IDE应用程序解压并复制/移动至macOS的"应用程序"文件夹, 即可在Launchpad中启动IDE.
+                            </p>
+                        </def>
+                    </deflist>
                 </chapter>
             </chapter>
-            <chapter title="方案2.直接使用DevelaOS" id="develaos">
-                <warning>
-                    最近咱没怎么更新DevelaOS了, 不知道还有木有问题awa
-                </warning>
-                安装请查看 <a href="https://www.projcora.club/DevelaIDE/how-to-install.html">DevelaOS官方文档</a>
-                <tip>
-                    你需要先在 <a href="https://afdian.net/a/2minrain">爱发电</a> 获取Q群号并加入(无需捐赠)
-                </tip>
-            </chapter>
+        </chapter>
+    </chapter>
+    <chapter title="学习使用IDE" id="ide-starting" collapsible="true" default-state="collapsed">
+        <chapter title="Windows/macOS" id="win/macOS">
+            <a href="startusingide-Windows-macOS.topic"/>
+        </chapter>
+        <chapter title="Ubuntu" id="Ubuntu">
+            <a href="startusingide-Ubuntu.topic"/>
         </chapter>
     </chapter>
 </topic>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Windows/macOS上的aiot-ide使用指南" id="startusingide-Windows-macOS" help-id="Windows-macOS">
+
+    <chapter title="功能" id="features">
+        <p>
+            Aiot-IDE 由Visual Studio Code 改造而来, 可以理解为自带插件的VSCode.因此如果您能够熟练使用VSCode,
+            那么使用aiot-IDE也应该不在话下.
+        </p>
+        <p>
+            自带插件:
+        </p>
+        <img alt="vela-guide-ide-plugins.png" src="vela-guide-ide-plugins.png"/>
+        <img alt="vela-guide-ide-plugins-1.png" src="vela-guide-ide-plugins-1.png"/>
+        <img alt="vela-guide-ide-plugins-2.png" src="vela-guide-ide-plugins-2.png"/>
+        <img alt="vela-guide-ide-plugins-3.png" src="vela-guide-ide-plugins-3.png"/>
+        <img alt="vela-guide-ide-plugins-4.png" src="vela-guide-ide-plugins-4.png"/>
+    </chapter>
+</topic>

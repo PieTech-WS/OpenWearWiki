@@ -4,14 +4,14 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20851;&#20110;" id="about">
-    <link-summary>OpenWear Wiki,2.5版本</link-summary>
+    <link-summary>OpenWear Wiki,24.2版本</link-summary>
     <chapter title="OpenWear Wiki" id="about-ch1" collapsible="true" default-state="expanded">
         <img alt="banner_next.png" src="banner_large.png"/>
         <note>
             本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
         </note>
         <p>
-            NEXT版本(2024.2-SERVICE0.1.1)
+            NEXT版本(2024.2-3Pre-Service:0.1.1)
         </p>
         <p>
             <control>(C)2023-2024, PowerAtom知识共享计划及Wiki全体贡献者</control>
