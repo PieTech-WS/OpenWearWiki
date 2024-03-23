@@ -6,6 +6,10 @@
         <algolia-id>1YYN0PK8GX</algolia-id>
         <algolia-index>oww-index</algolia-index>
         <algolia-api-key>e87c9adfcc1d789c52e1101f7cdddea7</algolia-api-key>
+        <download-title>下载HTML副本</download-title>
+        <download-page>https://github.com/PieTech-WS/OpenWearWiki/actions</download-page>
+        <showDownloadButton>true</showDownloadButton>
+        <header-logo>logo.svg</header-logo>
     </variables>
     <build-profile instance="oww">
         <variables>
@@ -22,6 +26,7 @@
             <link href="https://github.com/PieTech-WS/OpenWearWiki">GitHub Repo</link>
             <link href="https://github.com/PieTech-WS/OpenWearWiki/actions">GitHub Actions</link>
         </footer>
+
     </build-profile>
 
 </buildprofiles>
