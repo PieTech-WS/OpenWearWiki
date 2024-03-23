@@ -9,7 +9,7 @@
         <download-title>下载HTML副本</download-title>
         <download-page>https://github.com/PieTech-WS/OpenWearWiki/actions</download-page>
         <showDownloadButton>true</showDownloadButton>
-        <header-logo>logo.svg</header-logo>
+        <custom-favicons>logo.svg</custom-favicons>
     </variables>
     <build-profile instance="oww">
         <variables>
