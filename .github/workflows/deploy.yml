@@ -57,11 +57,14 @@ jobs:
           retention-days: 7
 
       # Add the step below to upload Algolia indexes
-      - name: Upload algolia-indexes
+      - name: Save artifact with build results
         uses: actions/upload-artifact@v4
         with:
-          name: algolia-indexes
-          path: artifacts/${{ env.ALGOLIA_ARTIFACT }}
+          name: docs
+          path: |
+              artifacts/${{ env.ARTIFACT }}
+              artifacts/report.json
+              artifacts/${{ env.ALGOLIA_ARTIFACT }}
           retention-days: 7
 
   # Add the job below and artifacts/report.json on Upload documentation step above if you want to fail the build when documentation contains errors

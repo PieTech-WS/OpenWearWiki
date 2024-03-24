@@ -13,9 +13,10 @@
     </variables>
     <build-profile instance="oww">
         <variables>
-            <noindex-content>false</noindex-content>
             <primary-color>aqua</primary-color>
             <web-root>https://www.projcora.com/</web-root>
+            <noindex-content>false</noindex-content>
+            <offline-docs>false</offline-docs>
         </variables>
         <footer>
             <copyright>2023-2024, PowerAtom知识共享计划及Wiki全体贡献者, 并在 PowerAtom知识共享并开源协议(版本2) 下发布</copyright>
