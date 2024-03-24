@@ -63,12 +63,11 @@
         <chapter title="GitHub Actions" id="gh-actions" collapsible="true" default-state="collapsed">
             <a href="https://github.com/PieTech-WS/OpenWearWiki/blob/master/.github/workflows/deploy.yml">查看Workflow文件</a>
             <list>
-                <li>actions/upload-artifact@v3</li>
-                <li>actions/checkout@v3</li>
-                <li>actions/download-artifact@v1</li>
-                <li>actions/upload-pages-artifact@v1</li>
-                <li>actions/configure-pages@v2</li>
-                <li>montudor/action-zip@v1</li>
+                <li>actions/upload-artifact@v4</li>
+                <li>actions/checkout@v4</li>
+                <li>actions/download-artifact@v4</li>
+                <li>actions/upload-pages-artifact@v3</li>
+                <li>actions/configure-pages@v4</li>
                 <li>JetBrains/writerside-github-action@v4</li>
                 <li>registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-2</li>
                 <li>Docker Image Version(Updated on 24/2/20):233.14389</li>
