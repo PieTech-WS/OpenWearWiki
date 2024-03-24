@@ -38,7 +38,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Build Writerside docs using Docker
         uses: JetBrains/writerside-github-action@v4
@@ -48,7 +48,7 @@ jobs:
           docker-version: ${{ env.DOCKER_VERSION }}
 
       - name: Upload documentation
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: docs
           path: |
@@ -58,7 +58,7 @@ jobs:
 
       # Add the step below to upload Algolia indexes
       - name: Upload algolia-indexes
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: algolia-indexes
           path: artifacts/${{ env.ALGOLIA_ARTIFACT }}
@@ -72,7 +72,7 @@ jobs:
 
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4
         with:
           name: docs
           path: artifacts
@@ -91,26 +91,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: docs
 
       - name: Unzip artifact
-        uses: montudor/action-zip@v1
-        with:
-          args: unzip -qq ${{ env.ARTIFACT }} -d dir
+        run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
 
       - name: Setup Pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v4
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dir
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
 
   publish-indexes:
     needs: deploy
@@ -119,19 +117,18 @@ jobs:
       image: registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-2
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v3
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
         with:
           name: algolia-indexes
-      - uses: montudor/action-zip@v1
-        with:
-          args: unzip -qq ${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes
-      - run: |
-          env "algolia-key=${{env.ALGOLIA_KEY}}" java -jar /opt/builder/help-publication-agent.jar \
+      - name: Unzip artifact
+        run: |
+          unzip -O UTF-8 -qq '${{ env.ALGOLIA_ARTIFACT }}' -d algolia-indexes
+          env algolia-key='${{env.ALGOLIA_KEY}}' java -jar /opt/builder/help-publication-agent.jar \
           update-index \
-          --application-name ${{env.ALGOLIA_APP_NAME}} \
-          --index-name ${{env.ALGOLIA_INDEX_NAME}} \
-          --product ${{env.CONFIG_JSON_PRODUCT}} \
-          --version ${{env.CONFIG_JSON_VERSION}} \
+          --application-name '${{env.ALGOLIA_APP_NAME}}' \
+          --index-name '${{env.ALGOLIA_INDEX_NAME}}' \
+          --product '${{env.CONFIG_JSON_PRODUCT}}' \
+          --version '${{env.CONFIG_JSON_VERSION}}' \
           --index-directory algolia-indexes/ \
           2>&1 | tee algolia-update-index-log.txt
