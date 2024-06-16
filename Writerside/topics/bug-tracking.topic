@@ -7,7 +7,43 @@
     <link-summary>
         OpenWear Wiki 漏洞追踪
     </link-summary>
-    <chapter title="OWW-WRS-23-01:搜索服务故障" id="oww.wrs.23.01" collapsible="true" default-state="expanded">
+    <chapter title="OWW-WRS-24-01:搜索服务故障" id="oww.wrs.24.01" collapsible="true" default-state="expanded">
+        <p>
+            <control>级别</control>
+            严重(未找到解决方案)
+        </p>
+        <p>
+            <control>上游反馈</control>
+            暂无
+        </p>
+        <p>
+            <control>涉及区域</control>
+            服务:
+            <a href="Service-state.topic" anchor="search-service">
+                Algolia搜索
+            </a>
+        </p>
+        <p>
+            <control>是否解决</control>
+            否
+        </p>
+        <p>
+            <control>解决方案</control>
+            暂无
+        </p>
+        <chapter title="日志" id="oww.wrs.24.01.log">
+            <chapter title="2024.1.8" id="24.6.16">
+                <p>
+                    <control>关联公告</control>
+                    无
+                </p>
+                <p>
+                    Algolia搜索不可用
+                </p>
+            </chapter>
+        </chapter>
+    </chapter>
+    <chapter title="OWW-WRS-23-01:搜索服务故障" id="oww.wrs.23.01" collapsible="true" default-state="collapsed">
         <p>
             <control>级别</control>
             轻微(临时解决方案已启用)(2024.1.8)
