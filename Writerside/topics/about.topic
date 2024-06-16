@@ -11,7 +11,7 @@
             本项目与其他项目(包括同名项目)均无关.与产品生产厂商均无合作/从属关系.
         </note>
         <p>
-            NEXT版本(2024.2-3Pre-Service:0.1.1)
+            NEXT版本(2024.3Preview-Service:0.1.1)
         </p>
         <p>
             <control>(C)2023-2024, PowerAtom知识共享计划及Wiki全体贡献者</control>
@@ -47,7 +47,6 @@
             以及...
         </p>
         <p><control>你</control></p>
-        <p>同时感谢Rexwe为OpenWearWiki提供的服务器(使用wearwiki.projcora.club即可访问此镜像)</p>
     </chapter>
 
     <chapter title="Writerside信息" id="writerside-information" collapsible="true" default-state="expanded">
@@ -58,7 +57,7 @@
             <control>搜索服务:</control> <a href="Service-state.topic" anchor="search-service">Algolia</a>
         </p>
         <p>
-            <control>使用版本:</control> 2023.3EAP(233.14389)
+            <control>使用版本:</control> 2024.1EAP(241.16003)
         </p>
         <chapter title="GitHub Actions" id="gh-actions" collapsible="true" default-state="collapsed">
             <a href="https://github.com/PieTech-WS/OpenWearWiki/blob/master/.github/workflows/deploy.yml">查看Workflow文件</a>
@@ -70,7 +69,7 @@
                 <li>actions/configure-pages@v4</li>
                 <li>JetBrains/writerside-github-action@v4</li>
                 <li>registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-2</li>
-                <li>Docker Image Version(Updated on 24/2/20):233.14389</li>
+                <li>Docker Image Version(Updated on 24/6/16):DOCKER_VERSION: '241.16003'</li>
             </list>
         </chapter>
     </chapter>
