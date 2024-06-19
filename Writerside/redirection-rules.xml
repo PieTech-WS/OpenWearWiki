@@ -110,4 +110,8 @@
         <description>Created after removal of "手表产品列表" from OpenWear Wiki</description>
         <accepts>Watch-List.html</accepts>
     </rule>
+    <rule id="75821da6">
+        <description>Created after removal of "Xiaomi手表S3" from OpenWear Wiki</description>
+        <accepts>Xiaomi-Watch-S3-Apps.html</accepts>
+    </rule>
 </rules>

@@ -1,6 +1,6 @@
 ![harmonyos_banner.png](harmonyos_banner.png)
 
-# Harmony OS for watch
+# Harmony OS(for Watch)
  
 >仅基于作为一位前华为GT2pro和华为watch3用户的认知和使用体验编写的一份百科，如有不够专业的地方还请指出
 

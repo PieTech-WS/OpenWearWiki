@@ -4,7 +4,9 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="开发指南" id="Vela-Developer-Guide" help-id="Developer-Guide">
-
+    <warning>
+        本页面内容已失效, 请<a href="https://iot.mi.com/vela/quickapp/zh/content/guide/start/use-ide.html">在此</a>查看官方文档
+    </warning>
     <chapter title="前言" id="intro">
         <p>
             Xiaomi HyperOS快应用(Xiaomi Vela快应用)是一种基于NuttX系统之上、运行于小米智能穿戴设备上的应用.其开发以前端技术(HTML+JS+CSS)为主.

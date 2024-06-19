@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="oww"
-                  name="OpenWear Wiki" start-page="readme-new.topic">
+                  name="OpenWearWiki" start-page="readme-new.topic">
 
     <toc-element topic="readme-new.topic"/>
     <toc-element topic="info.topic"/>
@@ -101,8 +101,10 @@
                 </toc-element>
             </toc-element>
             <toc-element toc-title="Xiaomi手表S1 Pro">
-
                 <toc-element topic="com.givemefive.ebook.s1pro.topic"/>
+            </toc-element>
+            <toc-element toc-title="Xiaomi手表S3">
+
             </toc-element>
         </toc-element>
     </toc-element>

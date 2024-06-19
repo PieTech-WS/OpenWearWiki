@@ -26,8 +26,8 @@ ZeppOS是由华米科技基于FreeRTOS开发的一款用于可穿戴设备的实
 
 更详细的列表，请前往[ZeppOS开发文档](https://docs.zepp.com/zh-cn/docs/reference/related-resources/device-list/)查看
 
-| 设备名                   | 屏幕形状 | 最新版本 |
-| ------------------------ | -------- | -------- |
+| 设备名                      | 屏幕形状 | 最新版本 |
+|--------------------------| -------- | -------- |
 | Amazfit T-Rex 2          | 圆形     | 2.1      |
 | Amazfit GTS 3            | 方形     | 1.0      |
 | Amazfit GTR 3            | 圆形     | 1.0      |
@@ -36,7 +36,7 @@ ZeppOS是由华米科技基于FreeRTOS开发的一款用于可穿戴设备的实
 | Amazfit Falcon           | 圆形     | 2.1      |
 | Amazfit GTS 4 mini       | 方形     | 1.0      |
 | Amazfit GTS 4            | 方形     | 2.1      |
-| Amazfit GTR 4           | 圆形     | 2.1      |
+| Amazfit GTR 4            | 圆形     | 2.1      |
 | Amazfit GTR Mini         | 圆形     | 2.0      |
 | Amazfit T-Rex Ultra      | 圆形     | 2.1      |
 | Amazfit Cheetah (Round)  | 圆形     | 2.1      |
