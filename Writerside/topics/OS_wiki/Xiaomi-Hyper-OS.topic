@@ -14,6 +14,9 @@
             此处主要介绍其在可穿戴设备上的应用.
         </note>
         <note>
+            不久后, 即使非Xiaomi Vela的可穿戴设备, 小米也会打上Xiaomi HyperOS的名称.如何分辨请留意我们的后续更新.
+        </note>
+        <note>
             Xiaomi HyperOS的可穿戴设备版本基于 <a href="XiaomiVela.md">Xiaomi Vela</a>.
         </note>
         Xiaomi HyperOS是小米公司发布的操作系统.覆盖手机、平板、手表和汽车等产品.
@@ -43,7 +46,7 @@
                 <td>可穿戴设备(基于蓝牙SoC,轻智能手表/手环)</td>
             </tr>
             <tr>
-                <td>开放性²</td>
+                <td><a href="WearableOS.md">开放性</a></td>
                 <td>Lv2.</td>
             </tr>
         </table>

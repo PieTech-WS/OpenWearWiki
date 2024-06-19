@@ -4,7 +4,81 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Redmi Watch 4" id="Redmi-Watch-4">
-    <img alt="redmiwatch4.png" src="redmiwatch4.png"/>
-    <p>是红米第一款入Wiki的表awa</p>
-    <p>由于硬件参数过少, 暂时不上更多内容</p>
+    <tip>
+        标准名称:Redmi Watch 4; Redmi手表4.
+    </tip>
+    <chapter title="Gallery" id="gallery" collapsible="true" default-state="expanded">
+        <img alt="典雅黑" src="redmiwatch4_black.png"/>
+        <img alt="银雪白" src="redmiwatch4_white.png"/>
+    </chapter>
+    <chapter title="概览" id="summary" collapsible="true" default-state="expanded">
+        <p>
+            Redmi手表4是Redmi于2023年11月29日正式发布的轻智能手表, 搭载Xiaomi HyperOS.
+        </p>
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>参数</td>
+            </tr>
+            <tr>
+                <td>型号</td>
+                <td>M2314W1</td>
+            </tr>
+            <tr>
+                <td>屏幕</td>
+                <td>表面为2D直屏玻璃盖板, 采用1.97英寸AMOLED屏幕, 390 × 450, 亮度最高 600nits(支持自动亮度调节), 支持LTPS低刷显示技术</td>
+            </tr>
+            <tr>
+                <td>尺寸</td>
+                <td>
+                    47.58 × 41.12 × 10.5 mm(不含心率凸台)
+                </td>
+            </tr>
+            <tr>
+                <td>重量</td>
+                <td>约 31.5g(不含腕带的重量)(整机重量约48.6g)</td>
+            </tr>
+            <tr>
+                <td>电池</td>
+                <td>470mAh(锂电池), 充电接口为磁吸充电式</td>
+            </tr>
+            <tr>
+                <td>平台</td>
+                <td>BES恒玄BES2700iBP</td>
+            </tr>
+            <tr>
+                <td>操作系统</td>
+                <td><a href="Xiaomi-Hyper-OS.topic"/></td>
+            </tr>
+            <tr>
+                <td>存储</td>
+                <td>2Gb NAND闪存(Dosilicon东芯DS35M2GB-IB SPI NAND闪存), 运行内存:32MB(猜测)</td>
+            </tr>
+            <tr>
+                <td>防水</td>
+                <td>5ATM</td>
+            </tr>
+            <tr>
+                <td>传感器</td>
+                <td>加速度传感器,
+                    陀螺仪传感器,
+                    光学心率及血氧传感器,
+                    环境光传感器,
+                    地磁传感器</td>
+            </tr>
+            <tr>
+                <td>定位</td>
+                <td>支持北斗, GPS, GLONASS, Galileo, QZSS</td>
+            </tr>
+            <tr>
+                <td>数据连接</td>
+                <td>Wi-Fi:不支持 蓝牙:BT5.3 NFC:支持</td>
+            </tr>
+        </table>
+        <p>
+            <control>参考资料</control>
+            <a href="https://www.52audio.com/archives/191060.html">拆解报告：Redmi Watch 4智能手表 - 我爱音频网</a>
+            <a href="https://www.mi.com/redmi-watch-4/specs">Redmi Watch 4 参数页(小米商城)</a>
+        </p>
+    </chapter>
 </topic>
