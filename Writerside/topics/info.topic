@@ -4,7 +4,23 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
-    <chapter title="2024.2版本发布-2024.2.20" id="latest" collapsible="true" default-state="expanded">
+    <chapter title="OpenWearWiki 24.3版本发布-2024.6.21" id="latest" collapsible="true" default-state="expanded">
+        <p>公告编号:2024-6-21-1</p>
+        <p>
+            OpenWearWiki 24.3现已发布.本次更新内容:
+        </p>
+        <list>
+            <li>移除了对Algolia搜索的支持, 添加了对自建搜索服务的支持</li>
+            <li>修复了部分内容的格式</li>
+            <li>将Writerside环境更新至241.16003</li>
+            <li>OpenWearWiki Service升级至0.2.0</li>
+        </list>
+        <p>Tip:某个地方有彩蛋uwu要找到很简单哦</p>
+        <p>
+            <control>来自成员</control> <a href="User-2minRain.topic">2minRain(yizigezi)</a>
+        </p>
+    </chapter>
+    <chapter title="2024.2版本发布-2024.2.20" id="2024-2-20-1" collapsible="true" default-state="collapsed">
         <p>公告编号:2024-2-20-1</p>
         <p>
             本次版本更新内容:
