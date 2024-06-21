@@ -10,7 +10,7 @@
     <chapter title="OWW-WRS-24-01:搜索服务故障" id="oww.wrs.24.01" collapsible="true" default-state="expanded">
         <p>
             <control>级别</control>
-            严重(未找到解决方案)
+            已解决
         </p>
         <p>
             <control>上游反馈</control>
@@ -25,11 +25,11 @@
         </p>
         <p>
             <control>是否解决</control>
-            否
+            是
         </p>
         <p>
             <control>解决方案</control>
-            暂无
+            使用自建Search服务
         </p>
         <chapter title="日志" id="oww.wrs.24.01.log">
             <chapter title="2024.1.8" id="24.6.16">

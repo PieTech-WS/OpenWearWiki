@@ -3,13 +3,11 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <algolia-id>1YYN0PK8GX</algolia-id>
-        <algolia-index>oww-index</algolia-index>
-        <algolia-api-key>e87c9adfcc1d789c52e1101f7cdddea7</algolia-api-key>
         <download-title>下载HTML副本</download-title>
         <download-page>https://github.com/PieTech-WS/OpenWearWiki/actions</download-page>
         <showDownloadButton>true</showDownloadButton>
         <custom-favicons>logo.svg</custom-favicons>
+        <search-endpoint>https://searchservice.poweratom.cc</search-endpoint>
     </variables>
     <build-profile instance="oww">
         <variables>

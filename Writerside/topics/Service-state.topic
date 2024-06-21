@@ -7,19 +7,27 @@
     <link-summary>
         OpenWear Wiki 状态
     </link-summary>
-    <chapter title="搜索服务" id="search-service" collapsible="true" default-state="expanded">
+    <chapter title="Writerside-Search-Demo" id="search-service" collapsible="true" default-state="expanded">
         <p>
-            <control>提供商:</control> Algolia
+            <control>提供商:</control> CoraTech
         </p>
         <p>
-            <control>服务状态:</control> 不可用
+            <control>服务状态:</control> 可用
         </p>
         <p>
             <control>漏洞追踪:</control>
-            <a href="bug-tracking.topic" anchor="oww.wrs.23.01"/>
+            <a href="bug-tracking.topic" anchor="oww.wrs.24.01"/>
+        </p>
+        <p>
+            使用了JetBrains提供的示例搜索服务.服务端软件归JetBrains所有.
+            <control>
+                <a href="https://www.jetbrains.com/help/writerside/custom-search-service.html#sample_search_service">
+                    更多信息
+                </a>
+            </control>
         </p>
     </chapter>
     <p>
-        <control>OpenWear Wiki Service, Version0.1.1</control>
+        <control>OpenWear Wiki Service, Version0.2.0</control>
     </p>
 </topic>
