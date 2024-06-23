@@ -3,24 +3,25 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Xiaomi HyperOS JS应用" id="XiaomiHyperOS-Quickapp">
+       title="Xiaomi HyperOS 表盘" id="Xiaomi-HyperOS-Watchface">
+
     <section-starting-page>
-        <title>Xiaomi HyperOS JS应用(Vela JS应用)</title>
+        <title>Xiaomi HyperOS表盘</title>
         <description>
-            此专栏为Xiaomi HyperOS JS应用专栏, 用于整理搭载HyperOS的可穿戴设备上的第三方应用
+            此专栏为Xiaomi HyperOS表盘专栏, 用于整理搭载HyperOS(Vela)的可穿戴设备上的第三方表盘
         </description>
         <spotlight>
             <a href="issue.md"
                summary="如果发现错误，请前往反馈" type="bug"/>
-            <a href="Vela-Developer-Guide.topic" summary="Xiaomi Vela快应用开发环境准备(by 2minRain)" type="development">XiaomiHyperOS(Vela快应用)开发环境准备</a>
+            <a href="https://watchface.hyperos.mi.com/doc/" summary="Xiaomi表盘文档" type="development">Xiaomi表盘中心</a>
         </spotlight>
 
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>应用/小游戏</title>
-            <a href="engdict.md" summary="一个可用于小米手环8 Pro的电子词典">(Xiaomi手环8Pro)环间词典</a>
-            <a href="better2048.md" summary="比官方的更流畅了">(Xiaomi手环8Pro)更好的2048</a>
+            <a href="engdict.md" summary="Coming soon">Coming soon</a>
+            <a href="better2048.md" summary="Coming soon">Coming soon</a>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->

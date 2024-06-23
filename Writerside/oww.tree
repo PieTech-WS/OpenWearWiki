@@ -80,6 +80,16 @@
         </toc-element>
     </toc-element>
     <toc-element toc-title="专题">
+        <toc-element topic="Xiaomi-HyperOS-Watchface.topic">
+            <toc-element toc-title="Xiaomi手环8 Pro">
+                <toc-element toc-title="表盘">
+                    <toc-element toc-title="Lua小程序表盘">
+                        <toc-element topic="mibandmana.topic"/>
+                        <toc-element topic="dict_installer.md"/>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+        </toc-element>
         <toc-element topic="XiaomiHyperOS-Quickapp.topic">
             <toc-element topic="Vela-Developer-Guide.topic">
                 <toc-element toc-title="学习使用IDE">
@@ -88,19 +98,11 @@
                 </toc-element>
             </toc-element>
             <toc-element toc-title="Xiaomi手环8 Pro">
-                <toc-element toc-title="表盘">
-                    <toc-element toc-title="Lua小程序表盘">
-                        <toc-element topic="mibandmana.topic"/>
-                        <toc-element topic="dict_installer.md"/>
-                    </toc-element>
-                </toc-element>
-                <toc-element toc-title="应用">
-                    <toc-element topic="com.neoruaa.caculator_xmsh8pro.topic"/>
-                    <toc-element topic="com.givemefive.account_xmsh8pro.topic"/>
-                    <toc-element topic="com.baidu.BaiduMap_xmsh8pro.topic" toc-title="百度地图"/>
-                    <toc-element topic="better2048.md"/>
-                    <toc-element topic="engdict.md"/>
-                </toc-element>
+                <toc-element topic="engdict.md"/>
+                <toc-element topic="better2048.md"/>
+                <toc-element toc-title="百度地图" topic="com.baidu.BaiduMap_xmsh8pro.topic"/>
+                <toc-element topic="com.givemefive.account_xmsh8pro.topic"/>
+                <toc-element topic="com.neoruaa.caculator_xmsh8pro.topic"/>
             </toc-element>
             <toc-element toc-title="Xiaomi手表S1 Pro">
                 <toc-element topic="com.givemefive.ebook.s1pro.topic"/>

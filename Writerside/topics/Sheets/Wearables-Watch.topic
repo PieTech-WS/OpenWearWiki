@@ -197,4 +197,12 @@
             </tr>
         </table>
     </chapter>
+    <chapter title="Amazfit" id="Amazfit" collapsible="true" default-state="collapsed">
+        <table>
+            <tr>
+                <td>设备系列</td>
+                <td>名称</td>
+            </tr>
+        </table>
+    </chapter>
 </topic>
