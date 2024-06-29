@@ -12,7 +12,7 @@
     <build-profile instance="oww">
         <variables>
             <primary-color>aqua</primary-color>
-            <web-root>https://www.projcora.com/</web-root>
+            <web-root>https://gh.poweratom.cc/OpenWearWiki</web-root>
             <offline-docs>false</offline-docs>
             <noindex-content>false</noindex-content>
         </variables>
@@ -21,7 +21,7 @@
             <social type="bilibili" href="https://space.bilibili.com/1692270852">CoraTech的BiliBili账号</social>
             <social type="weibo" href="https://weibo.com/u/7745282516">CoraTech的微博账号</social>
             <social type="email" href="yizigezi@outlook.com">向2minRain催更</social>
-            <link href="https://www.projcora.club">PowerAtom Official Page</link>
+            <link href="https://home.poweratom.cc">PowerAtom Official Page</link>
             <link href="https://github.com/PieTech-WS/OpenWearWiki">GitHub Repo</link>
             <link href="https://github.com/PieTech-WS/OpenWearWiki/actions">GitHub Actions</link>
         </footer>
