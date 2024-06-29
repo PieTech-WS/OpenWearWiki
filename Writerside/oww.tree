@@ -61,11 +61,10 @@
         <toc-element toc-title="高通Qualcomm snapdragon">
             <toc-element toc-title="wear">
 
-                <toc-element topic="Empty-XML-Topic.topic"/>
             </toc-element>
             <toc-element toc-title="W系列">
 
-                <toc-element topic="Empty-XML-Topic1.topic"/>
+                <toc-element topic="snapdragon-W5+-gen1-Platform.topic"/>
             </toc-element>
         </toc-element>
     </toc-element>

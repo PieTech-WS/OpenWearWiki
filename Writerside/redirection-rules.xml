@@ -114,4 +114,12 @@
         <description>Created after removal of "Xiaomi手表S3" from OpenWear Wiki</description>
         <accepts>Xiaomi-Watch-S3-Apps.html</accepts>
     </rule>
+    <rule id="6dbb867">
+        <description>Created after removal of "Empty XML Topic" from OpenWearWiki</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+    <rule id="d5f79c3">
+        <description>Created after removal of "Empty XML Topic" from OpenWearWiki</description>
+        <accepts>Empty-XML-Topic1.html</accepts>
+    </rule>
 </rules>

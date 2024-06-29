@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="snapdragon W5+ Gen1" id="snapdragon-W5+-gen1-Platform" help-id="snapdragon-W5-Platform;snapdragon-W5-gen1-Platform">
+
+    <deflist>
+        <def title="参考文档" id="reference-documentation">
+            <a href="https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Snapdragon-W5%2BW5-Gen1-platform-product-brief.pdf">
+                Snapdragon® W5+ and Snapdragon® W5
+                Gen 1 Wearable Platforms
+            </a>
+        </def>
+    </deflist>
+    <chapter title="规格" id="specs">
+        <tip>
+            采用中文翻译(粗体)与英文原文对照, 如有勘误请反馈指出.
+        </tip>
+        <chapter title="SoC(代号SW5100)" id="SoC">
+            <table>
+                <tr>
+                    <td>
+                        项目
+                    </td>
+                    <td>
+                        规格
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        制程
+                    </td>
+                    <td>
+                        4nm
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        核心
+                    </td>
+                    <td>
+                        <control>四核心A53(1.7GHz, 为可穿戴设备优化)</control>
+                        Quad-core Arm Cortex A53 1.7 GHz optimized
+                        for wearables
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        功能
+                    </td>
+                    <td>
+                        <control>具有低功耗的Wi-Fi, GNSS, 音频支持</control>
+                        Features low power islands for Wi-Fi, GNSS,
+                        Audio.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        系统支持
+                    </td>
+                    <td>
+                        <control>Wear OS by Google 及Android(AOSP)</control>
+                        Runs Wear OS by Google and AOSP.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        其它支持
+                    </td>
+                    <td>
+                        <control>支持低功耗状态, 如深度睡眠(RAM)和休眠(eMMC).</control>
+                        Incorporates low power states such as Deep
+                        Sleep and Hibernate.
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="架构图" id="arch-block-diagram">
+        <img alt="qualcomm-sd-w5+.png" src="qualcomm_sd_w5plus.png"/>
+    </chapter>
+</topic>
