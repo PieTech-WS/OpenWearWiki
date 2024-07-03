@@ -54,8 +54,10 @@
     <toc-element toc-title="硬件平台">
         <toc-element toc-title="蓝牙SoC">
             <toc-element toc-title="Renesas瑞萨-Dialog">
-
                 <toc-element topic="Empty-XML-Topic2.topic"/>
+            </toc-element>
+            <toc-element toc-title="BES恒玄">
+
             </toc-element>
         </toc-element>
         <toc-element toc-title="高通Qualcomm snapdragon">

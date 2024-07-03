@@ -40,7 +40,7 @@
                         核心
                     </td>
                     <td>
-                        <control>四核心A53(1.7GHz, 为可穿戴设备优化)</control>
+                        <control>四核心ARM Cortex A53(1.7GHz, 为可穿戴设备优化)</control>
                         Quad-core Arm Cortex A53 1.7 GHz optimized
                         for wearables
                     </td>
