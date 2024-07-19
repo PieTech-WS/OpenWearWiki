@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Xiaomi手环9/NFC" id="Xiaomi-SmartBand-9">
+
+
+    <chapter title="Gallery" id="gallery" collapsible="true" default-state="expanded">
+        <chapter title="标准版/NFC版/陶瓷特别版正面" id="gallery_std" collapsible="true" default-state="expanded">
+            <note>
+                NFC/陶瓷特别版右侧面有麦克风开孔.
+            </note>
+            <img alt="xmsh9std_black.png" src="xmsh9std_black.png"/>
+            <img alt="xmsh9std_silver.png" src="xmsh9std_ silver.png"/>
+            <img alt="xmsh9std_blue.png" src="xmsh9std_blue.png"/>
+            <img alt="xmsh9std_pink.png" src="xmsh9std_pink.png"/>
+        </chapter>
+        <chapter title="陶瓷特别版" id="gallery_nfc" collapsible="true" default-state="expanded">
+            <img alt="xmsh9std_ceramics.png" src="xmsh9std_ceramics.png"/>
+        </chapter>
+    </chapter>
+    <chapter title="概述" id="summary" collapsible="true" default-state="expanded">
+        <p>Xiaomi手环9是小米于2024年7月19日发布的智能手环产品, 搭载Xiaomi HyperOS(Vela).</p>
+    </chapter>
+    <note>
+        更多内容等待解锁awa(绝对不是懒得写了
+    </note>
+</topic>

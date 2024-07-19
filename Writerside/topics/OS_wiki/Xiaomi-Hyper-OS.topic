@@ -13,12 +13,6 @@
         <note>
             此处主要介绍其在可穿戴设备上的应用.
         </note>
-        <note>
-            不久后, 即使非Xiaomi Vela的可穿戴设备, 小米也会打上Xiaomi HyperOS的名称.如何分辨请留意我们的后续更新.
-        </note>
-        <note>
-            Xiaomi HyperOS的可穿戴设备版本基于 <a href="XiaomiVela.md">Xiaomi Vela</a>.
-        </note>
         Xiaomi HyperOS是小米公司发布的操作系统.覆盖手机、平板、手表和汽车等产品.
         <table>
             <tr>
@@ -35,7 +29,7 @@
             </tr>
             <tr>
                 <td>底层</td>
-                <td>Xiaomi Vela(基于NuttX)</td>
+                <td>Xiaomi Vela(基于NuttX), 部分设备使用的并非Xiaomi Vela</td>
             </tr>
             <tr>
                 <td>应用支持</td>
@@ -51,7 +45,7 @@
             </tr>
         </table>
     </chapter>
-    <chapter title="设备支持" id="devices">
+    <chapter title="设备支持(基于Xiaomi Vela)" id="devices">
         <table>
             <tr>
                 <td>设备名称</td>
@@ -62,15 +56,15 @@
                 <td>M2134W1</td>
             </tr>
             <tr>
-                <td><a href="XiaomiSmartBand8Pro.md">小米手环8 Pro(Xiaomi Vela/Xiaomi HyperOS)</a></td>
+                <td><a href="XiaomiSmartBand8Pro.md">小米手环8 Pro[Xiaomi HyperOS(Vela)]</a></td>
                 <td>M2303B1</td>
             </tr>
             <tr>
-                <td><a href="Xiaomi-Watch-S3.topic">Xiaomi Watch S3(Xiaomi HyperOS)</a></td>
+                <td><a href="Xiaomi-Watch-S3.topic">Xiaomi Watch S3[Xiaomi HyperOS(Vela)]</a></td>
                 <td>M2313W1,M2313W1</td>
             </tr>
             <tr>
-                <td><a href="Redmi-Watch-4.topic">Redmi Watch 4(Xiaomi HyperOS)</a></td>
+                <td><a href="Redmi-Watch-4.topic">Redmi Watch 4[Xiaomi HyperOS(Vela)]</a></td>
                 <td>M2314W1</td>
             </tr>
         </table>

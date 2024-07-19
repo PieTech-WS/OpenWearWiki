@@ -15,7 +15,7 @@
         <toc-element topic="writing_specifications.md"/>
     </toc-element>
     <toc-element toc-title="产品百科">
-        <toc-element toc-title="Xiaomi手环9"/>
+        <toc-element topic="Xiaomi-SmartBand-9.topic"/>
         <toc-element toc-title="Xiaomi手表S4 Sport"/>
         <toc-element topic="Redmi-Watch-4.topic"/>
         <toc-element topic="Xiaomi-Watch-S3.topic"/>
@@ -58,6 +58,7 @@
             </toc-element>
             <toc-element toc-title="BES恒玄">
 
+                <toc-element topic="BES2700BP.topic"/>
             </toc-element>
         </toc-element>
         <toc-element toc-title="高通Qualcomm snapdragon">
@@ -75,6 +76,7 @@
         <toc-element topic="WearableOS.md"/>
     </toc-element>
     <toc-element toc-title="指南">
+        <toc-element topic="HyperOS-with-vela-or-non-vela.topic"/>
         <toc-element topic="smart-watch-guide.md"/>
         <toc-element toc-title="设备购买须知">
             <toc-element topic="HONOR-WATCH-4-GUID.topic"/>

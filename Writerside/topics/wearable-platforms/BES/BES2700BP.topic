@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="BES2700BP" id="BES2700BP">
+
+    <deflist>
+        <def title="参考文档" id="reference-documentation">
+            <a href="https://mp.weixin.qq.com/s?__biz=MzU5NzE0NjE0MQ==&amp;mid=2247721026&amp;idx=3&amp;sn=74eda9db5b66980ddc6801945fcaac54&amp;chksm=fe5acf30c92d462633eb7fbbc354c91a19c6560d052199cc48e02ebf32a98359398836d0c933&amp;token=231762945&amp;lang=zh_CN#rd">
+                高算力 低功耗 全集成 恒玄新一代SoC平台亮相2023（春季）全球智能穿戴大会
+            </a>
+            <tip>
+                此处链接内容无任何宣传目的,仅作为深入了解产品之用.
+                恒玄官方未发布任何详细Datasheet
+            </tip>
+        </def>
+    </deflist>
+</topic>
