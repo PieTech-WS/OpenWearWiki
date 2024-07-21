@@ -4,7 +4,9 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="snapdragon W5+ Gen1" id="snapdragon-W5+-gen1-Platform" help-id="snapdragon-W5-Platform;snapdragon-W5-gen1-Platform">
-
+    <link-summary>
+        Qualcomm Snapdragon W5(+) Gen 1
+    </link-summary>
     <deflist>
         <def title="参考文档" id="reference-documentation">
             <a href="https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Snapdragon-W5%2BW5-Gen1-platform-product-brief.pdf">

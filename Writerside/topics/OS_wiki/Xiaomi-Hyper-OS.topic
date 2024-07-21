@@ -52,7 +52,7 @@
                 <td>型号</td>
             </tr>
             <tr>
-                <td>Xiaomi Watch S1Pro(MIUI Watch)</td>
+                <td>Xiaomi Watch S1Pro(MIUI Watch,Xiaomi Vela)</td>
                 <td>M2134W1</td>
             </tr>
             <tr>
@@ -60,12 +60,20 @@
                 <td>M2303B1</td>
             </tr>
             <tr>
-                <td><a href="Xiaomi-Watch-S3.topic">Xiaomi Watch S3[Xiaomi HyperOS(Vela)]</a></td>
+                <td><a href="Xiaomi-Watch-S3.topic">Xiaomi手表S3[Xiaomi HyperOS(Vela)]</a></td>
                 <td>M2313W1,M2313W1</td>
             </tr>
             <tr>
                 <td><a href="Redmi-Watch-4.topic">Redmi Watch 4[Xiaomi HyperOS(Vela)]</a></td>
                 <td>M2314W1</td>
+            </tr>
+            <tr>
+                <td><a href="Xiaomi-SmartBand-9.topic">Xiaomi手环9/NFC[Xiaomi HyperOS(Vela)]</a></td>
+                <td>M2345B1, M2346B1</td>
+            </tr>
+            <tr>
+                <td>Xiaomi手表S4 Sport</td>
+                <td>M2312W1</td>
             </tr>
         </table>
     </chapter>
@@ -80,7 +88,7 @@
                 可穿戴设备端的Xiaomi HyperOS本质是Xiaomi Vela, 因此使用的是Vela快应用.此处直接介绍Vela快应用相关内容.
             </note>
             <p>
-                Xiaomi Vela快应用是用于Xiaomi Vela操作系统的应用框架, 支持开发者使用HTML+CSS+JS(前端技术)开发应用并运行在设备上.
+                Xiaomi Vela JS应用是用于Xiaomi Vela操作系统的应用框架, 支持开发者使用HTML+CSS+JS(前端技术)开发应用并运行在设备上.
             </p>
             <p>
                 对于使用Xiaomi Vela(HyperOS)的可穿戴设备, 您可以通过表盘自定义工具或Debug功能(需要Root后安装模块启用)自行安装应用. 如果该设备有应用商店,
@@ -92,18 +100,18 @@
             </p>
             <chapter title="For Developers开发者必读" id="app-dev" collapsible="true" default-state="collapsed">
                 <p>
-                    如果您想开始Xiaomi Vela快应用的开发, 以下信息也许是你要知道的:
+                    如果您想开始Xiaomi Vela JS应用的开发, 以下信息也许是你要知道的:
                 </p>
                 <deflist>
                     <def title="开发指南">
                         <a href="Vela-Developer-Guide.topic">
-                            Xiaomi Vela快应用开发指南
+                            Xiaomi Vela JS应用开发指南
                         </a>
                     </def>
                     <def title="开发文档">
                         <control>
                             <a href="https://iot.mi.com/vela/quickapp/zh/content/intro.html">
-                                概述 · Xiaomi Vela 快应用开发文档
+                                概述 · Xiaomi Vela JS应用开发文档
                             </a>
                         </control>
                     </def>
@@ -126,7 +134,7 @@
                     <control>提请注意</control>
                     <list>
                         <li>请注意, 现有的开发文档可能不支持Xiaomi Watch S3的一些特性.</li>
-                        <li>Xiaomi手环 8Pro与Redmi Watch 4无法使用网络请求API</li>
+                        <li>Xiaomi手环9, Xiaomi手环8 Pro与Redmi Watch 4无法使用网络请求API</li>
                         <li>Redmi手表4无法使用设备间通信API.</li>
                     </list>
                 </warning>
@@ -139,12 +147,15 @@
     </chapter>
     <chapter title="WikiNotes" id="WikiNotes" collapsible="true" default-state="expanded">
         <p>
-            版本0.1.0-2023-12-2
+            版本0.1.2-2024-7-21
         </p>
         <chapter title="贡献者" id="authors" collapsible="true" default-state="collapsed">
             <p><a href="User-2minRain.topic">@2minRain</a></p>
         </chapter>
         <chapter title="更新日志" id="versionLogs" collapsible="true" default-state="collapsed">
+            <chapter title="ver0.1.2-2024/7/21" id="0-1-2024-7-21">
+                <p>新增 Xiaomi手环9, Xiaomi手表S4 Sport</p>
+            </chapter>
             <chapter title="ver0.1.0-2023/12/2" id="0-1-2023-12-2">
                 <p>初始版本发布.</p>
             </chapter>

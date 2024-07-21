@@ -12,30 +12,31 @@
 小米手表2 Pro是小米于2023年9月26日在德国柏林的全球新品发布会上发布的新一代搭载Wear OS by Google的小米手表，目前仅在海外发布。
 
 
-| 项目           | 参数                                                                 |
-| -------------- | -------------------------------------------------------------------- |
-| 名称           | Xiaomi Watch 2 Pro                                                   |
-| 型号           | Unknown                                                              |
-| 操作系统       | Wear OS by Google(Wear OS 4, Android 13)                             |
-| 版本           | 蓝牙版  LTE版                                                       |
-| GMS完整支持    | 是                                                                   |
-| 应用支持       | 小米运动健康(国际版), Wear OS by Google应用                          |
-| 屏幕           | 466x466 像素，326 PPI，最高600尼特                                   |
-| 尺寸           | 47.6mm\*45.9mm\*11.8mm(\*厚度尺寸不包括心率传感器)                   |
-| 重量           | 54.5g(不含表带)                                                      |
-| 电池容量       | 495mAh(标称)                                                         |
-| 处理器/平台    | Qualcomm Snapdragon W5+ Gen1 Platform 高通骁龙W5+ Gen1可穿戴设备平台 |
-| 存储及运行内存 | 2GB(LPDDR4X)+32GB(eMMC)                                              |
-| 连接           | Wi-Fi(2.4GHz/5GHz), 蓝牙5.2,                                         |
-| LTE支持        | 是, eSIM支持. 支持4G/3G², 中国香港支持中国移动eSIM                  |
+| 项目      | 参数                                                                                              |
+|---------|-------------------------------------------------------------------------------------------------|
+| 名称      | Xiaomi Watch 2 Pro                                                                              |
+| 型号      | Unknown                                                                                         |
+| 操作系统    | Wear OS by Google(Wear OS 4, Android 13)                                                        |
+| 版本      | 蓝牙版  LTE版                                                                                       |
+| GMS完整支持 | 是                                                                                               |
+| 应用支持    | 小米运动健康(国际版), Wear OS by Google应用                                                                |
+| 屏幕      | 466x466 像素，326 PPI，最高600尼特                                                                      |
+| 尺寸      | 47.6mm\*45.9mm\*11.8mm(\*厚度尺寸不包括心率传感器)                                                          |
+| 重量      | 54.5g(不含表带)                                                                                     |
+| 电池容量    | 495mAh(标称)                                                                                      |
+| 处理器/平台  | [Qualcomm Snapdragon W5+ Gen1 Platform 高通骁龙W5+ Gen1可穿戴设备平台](snapdragon-W5+-gen1-Platform.topic) |
+| 存储及运行内存 | 2GB(LPDDR4X)+32GB(eMMC)                                                                         |
+| 连接      | Wi-Fi(2.4GHz/5GHz), 蓝牙5.2,                                                                      |
+| LTE支持   | 是, eSIM支持. 支持4G/3G², 中国香港支持中国移动eSIM                                                             |
+
+## 系统截图 {id="system-imgs" collapsible="true" default-state="expanded"}
+
+### 设置 {id="system-img-settings"}
+
+![xmwt2p-system-img-settings1.jpg](xmwt2p-system-img-settings1.jpg)
 
 ## 情报站 {collapsible="true" default-state="expanded"}
 
-### 关于这块手表的国内版
-
-目前关于这块手表的国内版有很多说法，有的说会继续用Wear OS，有的说会用Xiaomi Vela，而还有一种可能是小米魔改的AOSP。但是国内版大概率是有eSIM的(从小米运动健康的功能列表来看)。目前就差不多知道这些。
-
-2024/1/16更新: 小米没有在国内发布这款手表, 而是发布了[Xiaomi手表S3](Xiaomi-Watch-S3.topic), 搭载XiaomiHyperOS.
 ### 关于再次使用Wear OS
 
 尽管小米手表一代多灾多难（Google OTA服务器被监管, 各种功能要改不能改），但是小米这一次又选择了Wear OS，其背后的原因大概有以下几点：

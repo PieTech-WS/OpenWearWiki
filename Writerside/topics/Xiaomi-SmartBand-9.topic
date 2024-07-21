@@ -22,8 +22,74 @@
     </chapter>
     <chapter title="概述" id="summary" collapsible="true" default-state="expanded">
         <p>Xiaomi手环9是小米于2024年7月19日发布的智能手环产品, 搭载Xiaomi HyperOS(Vela).</p>
+        <table>
+            <tr>
+                <td>项目</td>
+                <td>参数</td>
+            </tr>
+            <tr>
+                <td>型号</td>
+                <td>标准版：M2345B1
+                    NFC版/陶瓷特别版：M2346B1</td>
+            </tr>
+            <tr>
+                <td>屏幕</td>
+                <td>表面为康宁玻璃, 1.62英寸 AMOLED屏, 192×490，最高1200nits，支持亮度自动调节</td>
+            </tr>
+            <tr>
+                <td>尺寸</td>
+                <td>标准版/NFC版: 46.53×21.63×10.95 mm
+                    （不含心率凸台）<br/>
+                    陶瓷特别版: 47.50×22.73×10.95 mm
+                    （不含心率凸台）</td>
+            </tr>
+            <tr>
+                <td>重量</td>
+                <td>标准版/NFC版: 约15.8g（不含腕带）
+                    陶瓷特别版: 约22.4g（不含腕带）</td>
+            </tr>
+            <tr>
+                <td>电池</td>
+                <td>233mAh(锂电池), 充电接口为磁吸充电式</td>
+            </tr>
+            <tr>
+                <td>平台</td>
+                <td>BES2700IMP</td>
+            </tr>
+            <tr>
+                <td>操作系统</td>
+                <td><a href="Xiaomi-Hyper-OS.topic">Xiaomi HyperOS(Vela)</a></td>
+            </tr>
+            <tr>
+                <td>存储</td>
+                <td>
+                    运行内存:16MB PSRAM<br/>
+                    存储:256MB
+                </td>
+            </tr>
+            <tr>
+                <td>防水</td>
+                <td>5ATM</td>
+            </tr>
+            <tr>
+                <td>传感器</td>
+                <td>加速度传感器,
+                    陀螺仪传感器,
+                    光学心率及血氧传感器,
+                    环境光传感器
+                </td>
+            </tr>
+            <tr>
+                <td>定位</td>
+                <td>需使用蓝牙连接后通过手机定位</td>
+            </tr>
+            <tr>
+                <td>数据连接</td>
+                <td>Wi-Fi:不支持<br/>
+                    蓝牙™:BT5.4<br/>
+                    NFC:支持(仅NFC/陶瓷特别版)
+                </td>
+            </tr>
+        </table>
     </chapter>
-    <note>
-        更多内容等待解锁awa(绝对不是懒得写了
-    </note>
 </topic>
