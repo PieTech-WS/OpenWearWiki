@@ -49,6 +49,8 @@
 版本0.2-2024-1-16
 ### 贡献者 {id="authors" collapsible="true" default-state="collapsed"}
 [2minRain](User-2minRain.topic)
+#### 系统截图提供者
+w185y
 ### 更新日志 {id="versionLogs" collapsible="true" default-state="collapsed"}
 #### ver0.2-2024/1/16 {id="0-1-2024-1-16"}
 新增Gallery(产品预览图)
