@@ -31,10 +31,37 @@
 
 ## 系统截图 {id="system-imgs" collapsible="true" default-state="expanded"}
 
+### 表盘 {id="watchface"}
+
+![96cddf68507b8c1b6e77b54d4e3da95a.jpg](96cddf68507b8c1b6e77b54d4e3da95a.jpg)
+
 ### 设置 {id="system-img-settings"}
 
 ![xmwt2p-system-img-settings1.jpg](xmwt2p-system-img-settings1.jpg)
+![968f685240cef786e2bf5a2353794f09.jpg](968f685240cef786e2bf5a2353794f09.jpg)
+![4e26c3db31e3c36e53e3c65030ceef70.jpg](4e26c3db31e3c36e53e3c65030ceef70.jpg)
+![68bf56633101e5bbeb09c1be569d0d60.jpg](68bf56633101e5bbeb09c1be569d0d60.jpg)
+![4339d6f712037b2e88a6358b1db3db5d.jpg](4339d6f712037b2e88a6358b1db3db5d.jpg)
+![a074e90c850ade899dfe833238de9f1d.jpg](a074e90c850ade899dfe833238de9f1d.jpg)
 
+### 天气App {id="weather"}
+![bf1d67856ee5c19ea35534e759a98249.jpg](bf1d67856ee5c19ea35534e759a98249.jpg)
+
+### 运动健康 {id="fitness"}
+![b4ca51a848c3a848e639f27bf941328e.jpg](b4ca51a848c3a848e639f27bf941328e.jpg)
+![df7eea5ac19b4526c401b8731c3cb634.jpg](df7eea5ac19b4526c401b8731c3cb634.jpg)
+![8b9ad16c69ea61677517c4eb8211057a.jpg](8b9ad16c69ea61677517c4eb8211057a.jpg)
+![77a94fe71f714317f929dee0adca88e3.jpg](77a94fe71f714317f929dee0adca88e3.jpg)
+![b763da9d553956d0033f76109154675e.jpg](b763da9d553956d0033f76109154675e.jpg)
+![0aa6d4d56cec25a4e659afd87fcc2ca4.jpg](0aa6d4d56cec25a4e659afd87fcc2ca4.jpg)
+![e9356d4563bd2a57c9c32526ad38999a.jpg](e9356d4563bd2a57c9c32526ad38999a.jpg)
+![ad691e95dfa46b273c6d9f845fb4283e.jpg](ad691e95dfa46b273c6d9f845fb4283e.jpg)
+![9c18d8c94c8c9a8af4450785169edac1.jpg](9c18d8c94c8c9a8af4450785169edac1.jpg)
+
+### 音乐 {id="music"}
+![10ff421c5833beac833037e8b2a93fc0.jpg](10ff421c5833beac833037e8b2a93fc0.jpg)
+### 手机App {id="mifitness"}
+![348285924f7d838e0f790b1ca58d7c3c.jpg](348285924f7d838e0f790b1ca58d7c3c.jpg)
 ## 情报站 {collapsible="true" default-state="expanded"}
 
 ### 关于再次使用Wear OS
