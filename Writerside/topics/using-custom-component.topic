@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="使用自定义组件" id="using-custom-component">
+
+    <p>
+        对于Vela JS应用, 使用自定义组件需要对项目配置文件进行一些更改.
+    </p>
+    <chapter title="具体操作" id="steps">
+        <chapter title="package.json" id="package.json">
+            <p>
+                您需要为项目根文件夹(而非src文件夹)下的package.json中的"scripts"进行修改, 添加 <code>--enable-custom-component</code>
+                参数, 例如:
+            </p>
+            <code-block lang="json">
+                {
+                    "scripts": {
+                        "start": "aiot server --watch --open-nuttx --enable-custom-component true --enable-protobuf true",
+                        "build": "aiot build --enable-custom-component --enable-jsc --enable-protobuf",
+                        "release": "aiot release --enable-custom-component --enable-jsc --enable-protobuf",
+                        "watch": "aiot watch --open-nuttx",
+                        "lint": "eslint --format codeframe --fix --ext .ux,.js src/"
+                    }
+                }
+            </code-block>
+        </chapter>
+        <chapter title="quickapp.config.js" id="quickapp.config.js">
+            <p>
+                您需要为项目根文件夹(而非src文件夹)下的quickapp.config.js进行修改, 如果没有这个文件, 请在 <code>package.json</code>
+                的同目录下创建.
+                例如:
+            </p>
+            <code-block lang="javascript">
+                module.exports = {
+                    webpack: {
+                        module: {
+                            rules: [
+                                {
+                                    test: /\.tsx?$/,
+                                    use: [
+                                        {
+                                        },
+                                    ],
+                                },
+                            ],
+                        },
+                    },
+                    cli: {
+                        "enable-custom-component": true,
+                        "enable-jsc": true,
+                        "enable-protobuf": true
+                    }
+                };
+            </code-block>
+        </chapter>
+    </chapter>
+</topic>

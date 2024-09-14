@@ -99,6 +99,9 @@
                     <toc-element topic="startusingide-Ubuntu.topic"/>
                     <toc-element topic="startusingide-Windows-macOS.topic"/>
                 </toc-element>
+                <toc-element toc-title="部分操作">
+                    <toc-element topic="using-custom-component.topic"/>
+                </toc-element>
             </toc-element>
             <toc-element toc-title="Xiaomi手环8 Pro">
                 <toc-element topic="engdict.md"/>
