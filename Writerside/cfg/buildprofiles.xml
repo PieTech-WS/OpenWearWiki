@@ -8,6 +8,7 @@
         <showDownloadButton>true</showDownloadButton>
         <custom-favicons>logo.svg</custom-favicons>
         <search-endpoint>https://searchservice.poweratom.cc</search-endpoint>
+        <custom-css>custom.css</custom-css>
     </variables>
     <build-profile instance="oww">
         <variables>

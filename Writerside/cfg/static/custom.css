@@ -1,0 +1,11 @@
+@font-face {
+    font-family: MiSansVF;
+    src: url(MiSansVF.ttf);
+}
+
+.title__content {
+    font-family: MiSansVF;
+}
+.article__p {
+    font-family: MiSansVF;
+}
