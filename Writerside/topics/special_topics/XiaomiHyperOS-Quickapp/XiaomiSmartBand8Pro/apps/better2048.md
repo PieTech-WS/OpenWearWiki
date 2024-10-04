@@ -1,5 +1,6 @@
 # 更好的2048(better2048)
-
+<primary-label ref="hyperos_js_app"/>
+<secondary-label ref="minigames"/>
 > 官方2048不好玩，所以我们重新整了一个
 >
 > ——乐色桶

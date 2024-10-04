@@ -1,5 +1,6 @@
 # 环间小词典
-
+<primary-label ref="hyperos_js_app"/>
+<secondary-label ref="utils"/>
 > 没有等待官方的更新直接发了喵
 >
 [**快速下载**](https://www.bandbbs.cn/threads/8302/) [词条报错](issue.md)

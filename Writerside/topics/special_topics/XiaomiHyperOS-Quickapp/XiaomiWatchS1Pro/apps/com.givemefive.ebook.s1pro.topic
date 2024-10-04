@@ -4,7 +4,8 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="腕间电子书" id="com.givemefive.ebook.s1pro" help-id="Watch-ebook;com.givemefive;com.givemefive.ebook">
-
+    <primary-label ref="hyperos_js_app"/>
+    <secondary-label ref="utils"/>
     <p><control><a href="https://www.bandbbs.cn/threads/8589/">快速下载</a></control> <a href="issue.md">词条报错</a> </p>
     <img alt="watch-ebook.png" src="watch-ebook.png"/>
 </topic>

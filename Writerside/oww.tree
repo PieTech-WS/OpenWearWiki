@@ -113,11 +113,10 @@
             <toc-element toc-title="Xiaomi手表S1 Pro">
                 <toc-element topic="com.givemefive.ebook.s1pro.topic"/>
             </toc-element>
-            <toc-element toc-title="Xiaomi手表S3">
+            <toc-element toc-title="Xiaomi手表S3"/>
             <toc-element toc-title="Xiaomi手环9"/>
             </toc-element>
         </toc-element>
-    </toc-element>
     <toc-element topic="download.topic"/>
     <toc-element topic="about.topic">
         <toc-element topic="bug-tracking.topic"/>

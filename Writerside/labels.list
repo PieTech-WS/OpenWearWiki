@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <primary-label id="versionupdate" short-name="Update" name="版本更新">
+        OpenWearWiki版本更新公告
+    </primary-label>
+
+    <primary-label id="hyperos_js_app" short-name="Vela JSApp" name="Xiaomi HyperOS JS 应用" color="blue">
+        适用于基于Vela的Xiaomi Hyper OS可穿戴设备的应用
+    </primary-label>
+
+    <primary-label id="2024.10.p" short-name="24.10Pre" name="2024.10-Pre" color="strawberry">OpenWearWiki 2024.10</primary-label>
+
+    <secondary-label id="utils" name="实用工具" color="purple">实用工具</secondary-label>
+    <secondary-label id="minigames" name="小游戏" color="tangerine">小游戏</secondary-label>
+
+    <secondary-label id="beta" name="β" color="tangerine">Beta</secondary-label>
+
+    <secondary-label id="experimental" name="Experimental" color="purple">This is an experimental feature</secondary-label>
+    <secondary-label id="2024.10" name="2024.10" color="blue">New in version 2024.10</secondary-label>
+    <secondary-label id="2024.3" name="2024.3" color="blue">New in version 2024.3</secondary-label>
+    <secondary-label id="license" name="License under PowerAtom知识共享及开源许可(VERSION2)" color="blue">https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE</secondary-label>
+</labels>

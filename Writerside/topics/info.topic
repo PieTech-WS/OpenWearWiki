@@ -5,6 +5,8 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="&#20844;&#21578;" id="info">
     <chapter title="OpenWearWiki 24.3版本发布-2024.6.21" id="latest" collapsible="true" default-state="expanded">
+        <primary-label ref="versionupdate"/>
+        <secondary-label ref="2024.3"/>
         <p>公告编号:2024-6-21-1</p>
         <p>
             OpenWearWiki 24.3现已发布.本次更新内容:
