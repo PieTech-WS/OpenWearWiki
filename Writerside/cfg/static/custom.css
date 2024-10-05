@@ -3,6 +3,76 @@
     src: url(MiSansVF.ttf);
 }
 
+:root {
+    --wh-color-primary-light-theme: rgb(0, 119, 255)
+}
+.wh-header {
+    color: rgb(0, 119, 255);
+}
+
+._main_joawza_17 {
+    color: rgb(0, 119, 255)
+}
+
+.wh-header__burger {
+    color: rgb(0, 119, 255)
+}
+
+.wt-icon {
+    color: rgb(0, 119, 255)
+}
+.footer__copyright {
+    color: black;
+}
+
+.wh-header__download {
+    color: rgb(0, 119, 255);
+}
+
+._modeClassic_joawza_135._dark_joawza_62 {
+    background: rgb(0, 119, 255);
+}
+
+._modeClear_joawza_434._dark_joawza_62 {
+    color:rgb(0, 119, 255);
+}
+
+.toc-item--selected, .toc-item--selected:hover {
+    background-color: rgb(0, 119, 255);
+}
+
+.toc-item--selected.toc-item--theme-dark, .toc-item--selected.toc-item--theme-dark:hover{
+    background-color: rgb(0, 119, 255);
+}
+
+.footer {
+    color: black;
+    background-color: #f2f2f2;
+    --app-link-color: black;
+}
+
+.app__footer {
+    background-color: #f2f2f2;
+}
+
+.link, .link--dark {
+    color: rgb(0, 119, 255);
+}
+
+._dark_1lgbkjk_31 {
+    fill: rgb(0, 119, 255);
+}
+
+.rs-text-3_theme_dark.rs-text-3_hardness_hard, [class*=_theme_dark] .rs-text-3_theme_auto.rs-text-3_hardness_hard {
+    color: rgb(0, 119, 255);
+}
+
+.app__header {
+    background-color: white;
+}
+.wh-header__product-name {
+    color: rgb(0, 119, 255);
+}
 .title__content {
     font-family: MiSansVF;
 }
