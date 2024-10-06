@@ -1,7 +1,7 @@
 # 公告
 <primary-label ref="oww"/>
 
-## OpenWearWiki 24.10版本视觉更新发布{id="latest" collapsible="true" default-state="expanded"}
+## OpenWearWiki 24.10版本视觉更新发布 {id="latest" collapsible="true" default-state="expanded"}
 <primary-label ref="versionupdate"/>
 <secondary-label ref="2024.10"/>
 
