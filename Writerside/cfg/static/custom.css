@@ -4,7 +4,8 @@
 }
 
 :root {
-    --wh-color-primary-light-theme: rgb(0, 119, 255)
+    --wh-color-primary-light-theme: rgb(0, 119, 255);
+
 }
 .wh-header {
     color: rgb(0, 119, 255);
@@ -23,6 +24,27 @@
 }
 .footer__copyright {
     color: black;
+}
+
+._light_1fcqo6x_31._classic_1fcqo6x_31 ._tab_1fcqo6x_13._selected_1fcqo6x_141{
+    color: rgb(0, 119, 255);
+}
+
+._light_1fcqo6x_31._classic_1fcqo6x_31 ._indicator_1fcqo6x_19{
+    background-color: rgb(0, 119, 255);
+}
+
+._dark_1fcqo6x_35._classic_1fcqo6x_31 ._tab_1fcqo6x_13._selected_1fcqo6x_141{
+    color: rgb(0, 119, 255);
+}
+
+._dark_1fcqo6x_35._classic_1fcqo6x_31 ._indicator_1fcqo6x_19{
+    background-color: rgb(0, 119, 255);
+}
+
+
+._tab_1fcqo6x_13._selected_1fcqo6x_141{
+    color: rgb(0, 119, 255)
 }
 
 .wh-header__download {
