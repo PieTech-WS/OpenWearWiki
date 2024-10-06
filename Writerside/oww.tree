@@ -6,7 +6,9 @@
                   name="OpenWearWiki" start-page="readme-new.topic">
 
     <toc-element topic="readme-new.topic"/>
-    <toc-element topic="info.topic"/>
+    <toc-element topic="Noticeboard.md">
+        <toc-element topic="info.topic"/>
+    </toc-element>
     <toc-element topic="issue.md"/>
     <toc-element topic="Tasks.md"/>
     <toc-element href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE" toc-title="许可"/>
@@ -85,11 +87,14 @@
     <toc-element toc-title="专题">
         <toc-element topic="Xiaomi-HyperOS-Watchface.topic">
             <toc-element toc-title="Xiaomi手环8 Pro">
-                <toc-element toc-title="表盘">
-                    <toc-element toc-title="Lua小程序表盘">
-                        <toc-element topic="mibandmana.topic"/>
-                        <toc-element topic="dict_installer.md"/>
-                    </toc-element>
+                <toc-element toc-title="Lua小程序表盘">
+                    <toc-element topic="mibandmana.topic"/>
+                    <toc-element topic="dict_installer.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="Xiaomi手环9">
+                <toc-element toc-title="普通表盘">
+
                 </toc-element>
             </toc-element>
         </toc-element>
@@ -114,7 +119,9 @@
                 <toc-element topic="com.givemefive.ebook.s1pro.topic"/>
             </toc-element>
             <toc-element toc-title="Xiaomi手表S3"/>
-            <toc-element toc-title="Xiaomi手环9"/>
+            <toc-element toc-title="Xiaomi手环9">
+                <toc-element topic="com.givemefive.notepad.md"/>
+            </toc-element>
             </toc-element>
         </toc-element>
     <toc-element topic="download.topic"/>

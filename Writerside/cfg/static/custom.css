@@ -68,7 +68,15 @@
 }
 
 .app__header {
-    background-color: white;
+    width: 95%; /* 设置为比屏幕宽度小一些 */
+     /* 设定一个最大宽度，避免在大屏设备上过宽 */
+    margin: 20px auto; /* 自动水平居中，并设置顶部外边距 */
+    padding: 2px 20px;
+    background-color: #FFFFFF;
+    color: white;
+    text-align: center;
+    border-radius: 5px; /* 圆角效果 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
 }
 .wh-header__product-name {
     color: rgb(0, 119, 255);

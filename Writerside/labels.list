@@ -9,6 +9,7 @@
     <primary-label id="hyperos_js_app" short-name="Vela JSApp" name="Xiaomi HyperOS JS 应用" color="blue">
         适用于基于Vela的Xiaomi Hyper OS可穿戴设备的应用
     </primary-label>
+    <primary-label id="oww" name="OpenWearWiki" short-name="Wiki" href="https://gh.poweratom.cc/OpenWearWiki">OpenWearWiki</primary-label>
 
     <primary-label id="2024.10.p" short-name="24.10Pre" name="2024.10-Pre" color="strawberry">OpenWearWiki 2024.10</primary-label>
 
