@@ -1,5 +1,6 @@
 # OpenWearWiki
 ![](./banner_next.png)
+
 ![GitHub Action](https://github.com/PieTech-WS/OpenWearWiki/actions/workflows/deploy.yml/badge.svg)
 欢迎来到OpenWear Wiki~
 
