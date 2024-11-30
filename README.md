@@ -1,7 +1,7 @@
 # OpenWearWiki
 ![](./banner_next.png)
 
-![GitHub Action](https://github.com/PieTech-WS/OpenWearWiki/actions/workflows/deploy.yml/badge.svg)
+![GitHub Action](https://github.com/PieTech-WS/OpenWearWiki/actions/workflows/deploy.yml/badge.svg)  
 欢迎来到OpenWear Wiki~
 
 本仓库存有OpenWear Wiki NEXT版本的源代码，使用Writerside构建。Actions中有生成好的HTML版本。
