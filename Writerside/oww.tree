@@ -126,11 +126,13 @@
             </toc-element>
             <toc-element toc-title="Xiaomi手环9Pro">
 
+                <toc-element topic="com.app.wuhaiqi.muyu.pro.md"/>
                 <toc-element topic="com.givemefive.pics-9pro.md"/>
             </toc-element>
             </toc-element>
         </toc-element>
     <toc-element topic="download.topic"/>
+    <toc-element topic="install-extension.md"/>
     <toc-element topic="about.topic">
         <toc-element topic="bug-tracking.topic"/>
         <toc-element topic="Service-state.topic"/>

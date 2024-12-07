@@ -9,6 +9,10 @@
 <tabs>
 <tab title="概览">
 
+<p id="BiliVideo2">//player.bilibili.com/player.html?isOutside=true&aid=1656383598&bvid=BV1eE421w7pN&cid=1624736763&p=1</p>
+
+<p>如无法播放视频请安装WikiHelper插件后重试</p>
+
 ![com.givemefive.notepad.9.png](com.givemefive.notepad.9.png) 
 
 ![com.givemefive.notepad.9.1.png](com.givemefive.notepad.9.1.png){thumbnail="true"}

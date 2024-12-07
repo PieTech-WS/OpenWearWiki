@@ -8,6 +8,8 @@
 </control>
 <tabs>
 <tab title="概览">
+<p id="BiliVideo2">//player.bilibili.com/player.html?isOutside=true&aid=113380878718289&bvid=BV1hS13YMEqg&cid=26495159649&p=1</p>
+<p>需安装WikiHelper查看</p>
 
 ![com.givemefive.pics.9pro.0.png](com.givemefive.pics.9pro.0.png)
 
