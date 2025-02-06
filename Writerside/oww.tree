@@ -72,6 +72,7 @@
         </toc-element>
     </toc-element>
     <toc-element toc-title="表格">
+        <toc-element topic="xiaomi-wearable-codes.md"/>
         <toc-element topic="Wearables-Watch.topic"/>
         <toc-element topic="WearableOS.md"/>
     </toc-element>
