@@ -54,7 +54,7 @@
 | mijia.watch.n60e    | Xiaomi手表H1 E                              |
 | mijia.watch.n62     | [Xiaomi手表S3](Xiaomi-Watch-S3.topic)       |
 | mijia.watch.n62car  | Xiaomi手表S3 SU7限定版                         |
-| mijia.watch.n62cg   | unknown                                   |
+| mijia.watch.n62cg   | Xiaomi手表S3 SU7限定版                         |
 | mijia.watch.n62lte  | [Xiaomi手表S3 eSIM版](Xiaomi-Watch-S3.topic) |
 | mijia.watch.n62w    | Xiaomi手表S3(海外版)                           |
 | mijia.watch.n62s    | Xiaomi手表S4 Sport                          |
