@@ -7,6 +7,9 @@
 
 ## 概览
 
+<p id="BiliVideo2">//player.bilibili.com/player.html?isOutside=true&aid=661016545&bvid=BV1Qh4y1Y7Mv&cid=1268668703&p=1</p>
+<p>需使用WikiHelper插件查看视频</p>
+
 ![](engdict.png)
 
 | 项目   | 内容                                                                           |

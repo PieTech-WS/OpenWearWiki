@@ -19,7 +19,7 @@
                 我们的开源许可已更新.查看 <a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/PieTech-WS/OpenWearWiki/master/LICENSE">许可证</a>
             </p>
         </warning>
-        <a href="info.topic" anchor="latest"/>
+        <a href="Noticeboard.md" anchor="latest"/>
     </chapter>
     <chapter title="介绍" id="readme-desc" collapsible="true" default-state="expanded">
         <p>
